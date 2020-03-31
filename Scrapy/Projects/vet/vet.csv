@@ -1,0 +1,820 @@
+hospital_name,phone,address,url
+Dunwoody Animal Hospital PC,(770) 394-4030,"5450 Chamblee Dunwoody Rd, Atlanta, GA, 30338.",http://www.findalocalvet.com/Profiles/Dunwoody-Animal-Hospital-PC.aspx
+Como Park Animal Hospital,(651) 705-0573,"1014 Dale St N, St Paul, MN, 55117.",http://www.findalocalvet.com/Profiles/Como-Park-Animal-Hospital.aspx
+El Camino Veterinary Hospital,(916) 488-6878,"4000 El Camino Ave, #100, Sacramento, CA, 95864.",http://www.findalocalvet.com/Profiles/El-Camino-Veterinary-Hospital.aspx
+Dixie Trail Animal Clinic Incorporated,(919) 457-1882,"3044 Medlin Dr, Raleigh, NC, 27607.",http://www.findalocalvet.com/Profiles/Dixie-Trail-Animal-Clinic-Incorporated.aspx
+Animal Hospital at Brier Creek,(919) 544-2226,"# 10500 Little Brier Creek Lane, Raleigh, NC, 27617.",http://www.findalocalvet.com/Profiles/Animal-Hospital-at-Brier-Creek.aspx
+Vetmed Consultants,,"20635 N Cave Creek Rd # A2, Phoenix, AZ, 85024.",http://www.findalocalvet.com/Profiles/Vetmed-Consultants.aspx
+Sanford Oaks Animal Clinic,(817) 460-4441,"2000 W Sanford St, Arlington, TX, 76012.",http://www.findalocalvet.com/Profiles/Sanford-Oaks-Animal-Clinic.aspx
+Corrine Drive Animal Hospital,(407) 895-3774,"2905 Corrine Drive, Orlando, FL, 32803.",http://www.findalocalvet.com/Profiles/Corrine-Drive-Animal-Hospital.aspx
+Goodrich Veterinary Clinic,,"14120 S St, Omaha, NE, 68137.",http://www.findalocalvet.com/Profiles/Goodrich-Veterinary-Clinic.aspx
+Belle Mead Animal Hospital,(402) 972-8603,"12100 W Center Rd, Omaha, NE, 68144.",http://www.findalocalvet.com/Profiles/Belle-Mead-Animal-Hospital.aspx
+Harvey Oaks Animal Hospital,(402) 334-0200,"2706 S 148th Avenue Cir, Omaha, NE, 68144.",http://www.findalocalvet.com/Profiles/Harvey-Oaks-Animal-Hospital.aspx
+American Animal Hospital,,"11030 Emmet St, Omaha, NE, 68164.",http://www.findalocalvet.com/Profiles/American-Animal-Hospital.aspx
+Hillsdale Veterinary Group,(503) 246-4660,"6359 SW Capitol Hwy, Portland, OR, 97239.",http://www.findalocalvet.com/Profiles/Hillsdale-Veterinary-Group.aspx
+Denkers Veterinary Hospital,,"2225 S State St, South Salt Lake, UT, 84115.",http://www.findalocalvet.com/Profiles/Denkers-Veterinary-Hospital.aspx
+Dancing Cats Feline Health Ctr,,"1760 S 1100 E # 8, Salt Lake City, UT, 84105.",http://www.findalocalvet.com/Profiles/Dancing-Cats-Feline-Health-Ctr.aspx
+Donald V Renda DVM,,"2364 Fort Union Blvd, Salt Lake City, UT, 84121.",http://www.findalocalvet.com/Profiles/Donald-V-Renda-DVM.aspx
+Humane Society of Utah,,"PO Box 573659, Salt Lake City, UT, 84157.",http://www.findalocalvet.com/Profiles/Humane-Society-of-Utah.aspx
+Wasatch Exotic Pet Care,,"1892 Fort Union Blvd, Salt Lake City, UT, 84121.",http://www.findalocalvet.com/Profiles/Wasatch-Exotic-Pet-Care.aspx
+Arch Animal Hospital,(636) 225-8387,"2951 Dougherty Ferry Rd, Ste 102, St Louis, MO, 63122.",http://www.findalocalvet.com/Profiles/Arch-Animal-Hospital.aspx
+Sunset Cliffs Animal Clinic,(619) 224-0773,"4862 Santa Monica Ave, San Diego, CA, 92107.",http://www.findalocalvet.com/Profiles/Sunset-Cliffs-Animal-Clinic.aspx
+Bolton Animal Hospital,,"2005 Yale Blvd SE, Albuquerque, NM, 87106.",http://www.findalocalvet.com/Profiles/Bolton-Animal-Hospital.aspx
+Ponderosa Animal Clinic,,"5201 Ponderosa Ave NE, Albuquerque, NM, 87110.",http://www.findalocalvet.com/Profiles/Ponderosa-Animal-Clinic.aspx
+Compassionate Care,(210) 641-4447,"8607 Wurzbach Rd, Bldg S, San Antonio, TX, 78240.",http://www.findalocalvet.com/Profiles/Compassionate-Care.aspx
+South Texas Veterinary Specialist,(210) 930-8383,"503 E Sonterra Blvd, Ste 102, San Antonio, TX, 78258.",http://www.findalocalvet.com/Profiles/South-Texas-Veterinary-Specialist.aspx
+Traveling Tails Mobile Vet,(210) 495-8245,"2250 Thousand Oaks Dr, #102, San Antonio, TX, 78232.",http://www.findalocalvet.com/Profiles/Traveling-Tails-Mobile-Vet.aspx
+A Visiting Veterinarian,,"8501 Top of the World Dr, Salt Lake City, UT, 84121.",http://www.findalocalvet.com/Profiles/A-Visiting-Veterinarian.aspx
+Uptown Cat Hospital,,"2632 Pennsylvania St NE # C, Albuquerque, NM, 87110.",http://www.findalocalvet.com/Profiles/Uptown-Cat-Hospital.aspx
+Chester Valley Veterinary Hosp,,"1571 Muldoon Rd, Anchorage, AK, 99504.",http://www.findalocalvet.com/Profiles/Chester-Valley-Veterinary-Hosp.aspx
+Veterinary Specialists of Ak,,"3330 Fairbanks St, Anchorage, AK, 99503.",http://www.findalocalvet.com/Profiles/Veterinary-Specialists-of-Ak.aspx
+Southside Animal Hospital,,"12000 Industry Way # N5, Anchorage, AK, 99515.",http://www.findalocalvet.com/Profiles/Southside-Animal-Hospital2.aspx
+Waterford Lakes Animal Hospital,(407) 382-3818,"11951 Lake Underhill Road, Orlando, FL, 32825.",http://www.findalocalvet.com/Profiles/Waterford-Lakes-Animal-Hospital.aspx
+Catnap RVT Relief Services,(619) 884-9601,"3059 W. Canyon Avenue, San Diego, CA, 92123.",http://www.findalocalvet.com/Profiles/Catnap-RVT-Relief-Services.aspx
+Pet Emergency Treatment Incorporated,(907) 274-5636,"2320 E Dowling Rd, Anchorage, AK, 99507.",http://www.findalocalvet.com/Profiles/Pet-Emergency-Treatment-Incorporated.aspx
+James E Gaarder DVM,,"1921 W Dimond Blvd, Anchorage, AK, 99515.",http://www.findalocalvet.com/Profiles/James-E-Gaarder-DVM.aspx
+Pet Stop,,"1921 W Dimond Blvd # 108, Anchorage, AK, 99515.",http://www.findalocalvet.com/Profiles/Pet-Stop.aspx
+Kathy Doty DVM,,"3900 Lake Otis Pkwy, Anchorage, AK, 99508.",http://www.findalocalvet.com/Profiles/Kathy-Doty-DVM.aspx
+College Village Animal Clinic,,"2036 E Northern Lights Blvd, Anchorage, AK, 99508.",http://www.findalocalvet.com/Profiles/College-Village-Animal-Clinic.aspx
+"Northern Lights Veterinary and Laser Center, Inc",(907) 276-2340,"2002 W. Benson Blvd, Anchorage, AK, 99517.",http://www.findalocalvet.com/Profiles/Northern-Lights-Veterinary-and-Laser-Center-Inc.aspx
+West Anchorage Veterinary Clnc,,"3630 Jewel Lake Rd, Anchorage, AK, 99502.",http://www.findalocalvet.com/Profiles/West-Anchorage-Veterinary-Clnc.aspx
+VCA Bering Sea Animal,,"1347 E 74th Ave, Anchorage, AK, 99518.",http://www.findalocalvet.com/Profiles/VCA-Bering-Sea-Animal.aspx
+Northern Lights Veterinary,,"2002 W Benson Blvd, Anchorage, AK, 99517.",http://www.findalocalvet.com/Profiles/Northern-Lights-Veterinary.aspx
+Sand Lake Animal Hospital,,"8235 Jewel Lake Rd, Anchorage, AK, 99502.",http://www.findalocalvet.com/Profiles/Sand-Lake-Animal-Hospital.aspx
+Alaska Veterinary Clinic,,"300 E Fireweed Ln, Anchorage, AK, 99503.",http://www.findalocalvet.com/Profiles/Alaska-Veterinary-Clinic2.aspx
+Cornerstone Animal Hospital,,"1600 E Tudor Rd # 301, Anchorage, AK, 99507.",http://www.findalocalvet.com/Profiles/Cornerstone-Animal-Hospital.aspx
+Diamond Animal Hospital,,"2545 E Tudor Rd, Anchorage, AK, 99507.",http://www.findalocalvet.com/Profiles/Diamond-Animal-Hospital.aspx
+VCA Alpine Animal Hospital,,"12531 Old Seward Hwy, Anchorage, AK, 99515.",http://www.findalocalvet.com/Profiles/VCA-Alpine-Animal-Hospital.aspx
+VCA East Anchorage Animal,,"2639 Boniface Pkwy, Anchorage, AK, 99504.",http://www.findalocalvet.com/Profiles/VCA-East-Anchorage-Animal.aspx
+Hillside Pet Clinic,,"2101 Abbott Rd # 1, Anchorage, AK, 99507.",http://www.findalocalvet.com/Profiles/Hillside-Pet-Clinic2.aspx
+Southwest Farm & Home Ctr,,"26321 US Highway 281 N, San Antonio, TX, 78258.",http://www.findalocalvet.com/Profiles/Southwest-Farm-Home-Ctr.aspx
+Pleasanton Road Animal Hospital,(210) 922-8387,"3810 Pleasanton Road, San Antonio, TX, 78221.",http://www.findalocalvet.com/Profiles/Pleasanton-Road-Animal-Hospital.aspx
+Highland Animal Clinic,,"11650 Old Seward Hwy, Anchorage, AK, 99515.",http://www.findalocalvet.com/Profiles/Highland-Animal-Clinic.aspx
+Deerfield Animal Hospital,,"14855 Blanco Rd # 104, San Antonio, TX, 78216.",http://www.findalocalvet.com/Profiles/Deerfield-Animal-Hospital.aspx
+Thomas L Hanna DVM,,"20770 US Highway 281 N, San Antonio, TX, 78258.",http://www.findalocalvet.com/Profiles/Thomas-L-Hanna-DVM.aspx
+Leon Valley Veterinary Hospital,(210) 681-1391,"6701 Bandera Rd, San Antonio, TX, 78238.",http://www.findalocalvet.com/Profiles/Leon-Valley-Veterinary-Hospital.aspx
+Alaska Veterinary Clinic,,"300 E Fireweed Ln, Anchorage, AK, 99503.",http://www.findalocalvet.com/Profiles/Alaska-Veterinary-Clinic.aspx
+Becker Animal Hospital,(210) 732-5148,"6515 West IH 10, San Antonio, TX, 78201.",http://www.findalocalvet.com/Profiles/Becker-Animal-Hospital.aspx
+Eagle Veterinary Hospital,(210) 822-5211,"4701 Mccullough Avenue, San Antonio, TX, 78212.",http://www.findalocalvet.com/Profiles/Eagle-Veterinary-Hospital.aspx
+Broadway Oaks Animal Hospital,(210) 824-7481,"8221 Broadway St, San Antonio, TX, 78209.",http://www.findalocalvet.com/Profiles/Broadway-Oaks-Animal-Hospital.aspx
+Boerne Stage Veterinary Clinic,(210) 698-0400,"25239 Boerne Stage Rd, San Antonio, TX, 78255.",http://www.findalocalvet.com/Profiles/Boerne-Stage-Veterinary-Clinic.aspx
+Alamo Dog & Cat Hospital,(210) 922-1231,"1619 Pleasanton Road, San Antonio, TX, 78221.",http://www.findalocalvet.com/Profiles/Alamo-Dog-Cat-Hospital.aspx
+Ten-West Bird & Animal Hosp,,"12727 Mountain Air, San Antonio, TX, 78249.",http://www.findalocalvet.com/Profiles/Ten-West-Bird-Animal-Hosp.aspx
+Affordable Pet Care,(210) 684-2273,"5443 Grissom Road, San Antonio, TX, 78238.",http://www.findalocalvet.com/Profiles/Affordable-Pet-Care.aspx
+Loop 410 Veterinary Hospital,(210) 824-7344,"9901 Broadway St, Ste 108, San Antonio, TX, 78217.",http://www.findalocalvet.com/Profiles/Loop-410-Veterinary-Hospital.aspx
+Blanco North Animal Hospital,(210) 492-7373,"14325 Blanco Road, San Antonio, TX, 78248.",http://www.findalocalvet.com/Profiles/Blanco-North-Animal-Hospital.aspx
+Fredericksburg Road Animal,,"3493 Fredericksburg Rd, San Antonio, TX, 78201.",http://www.findalocalvet.com/Profiles/Fredericksburg-Road-Animal.aspx
+Pet Medical Ctr of San Antonio,(210) 681-8333,"7811 Mainland Drive, San Antonio, TX, 78250.",http://www.findalocalvet.com/Profiles/Pet-Medical-Ctr-of-San-Antonio.aspx
+Babcock Hills Veterinary Hospital,(210) 697-8581,"6600 Prue Road, San Antonio, TX, 78240.",http://www.findalocalvet.com/Profiles/Babcock-Hills-Veterinary-Hospital.aspx
+Blanco Crossing Veterinary Hospital,(210) 764-2400,"19179 Blanco Rd, Ste 104, San Antonio, TX, 78258.",http://www.findalocalvet.com/Profiles/Blanco-Crossing-Veterinary-Hospital.aspx
+Acequia Animal Hospital,(505) 898-1050,"3600 Calle Cuervo Nw, Albuquerque, NM, 87114.",http://www.findalocalvet.com/Profiles/Acequia-Animal-Hospital.aspx
+Mobile Veterinary Svc,,"PO Box 94118, Albuquerque, NM, 87199.",http://www.findalocalvet.com/Profiles/Mobile-Veterinary-Svc2.aspx
+Perrin 410 Animal Hospital,(210) 650-3141,"8365 Perrin Beitel Rd, San Antonio, TX, 78218.",http://www.findalocalvet.com/Profiles/Perrin-410-Animal-Hospital.aspx
+TLC Pet & Uptown Cat Hospital,(505) 271-2287,"2632 Pennsylvania Avenue, Albuquerque, NM, 87110.",http://www.findalocalvet.com/Profiles/TLC-Pet-Uptown-Cat-Hospital.aspx
+Good Shepherd Animal Clinic,,"4601 Menaul Blvd NE, Albuquerque, NM, 87110.",http://www.findalocalvet.com/Profiles/Good-Shepherd-Animal-Clinic.aspx
+Eubank Animal Clinic,,"1601 Eubank Blvd NE, Albuquerque, NM, 87112.",http://www.findalocalvet.com/Profiles/Eubank-Animal-Clinic.aspx
+Dermatology Clinic for Animals,,"4000 Montgomery Blvd NE, Albuquerque, NM, 87109.",http://www.findalocalvet.com/Profiles/Dermatology-Clinic-for-Animals.aspx
+Corder Companion Animal Clinic,,"4351 Mccullough Ave, San Antonio, TX, 78212.",http://www.findalocalvet.com/Profiles/Corder-Companion-Animal-Clinic.aspx
+Albuquerque Animal Emergency,,"4000 Montgomery Blvd NE, Albuquerque, NM, 87109.",http://www.findalocalvet.com/Profiles/Albuquerque-Animal-Emergency.aspx
+Cole & Elliott,,"4021 Isleta Blvd SW, Albuquerque, NM, 87105.",http://www.findalocalvet.com/Profiles/Cole-Elliott.aspx
+Abide Mobile Dog & Cat Clinic,,"2873 Brushwood St NE, Albuquerque, NM, 87122.",http://www.findalocalvet.com/Profiles/Abide-Mobile-Dog-Cat-Clinic.aspx
+Town & Country Animal Hospital,,"8414 4th St NW, Albuquerque, NM, 87114.",http://www.findalocalvet.com/Profiles/Town-Country-Animal-Hospital3.aspx
+Banfield the Pet Hospital,,"8070 Academy Rd NE, Albuquerque, NM, 87111.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital18.aspx
+ABQ Pet Vets,,"9032 Montgomery Blvd NE # B, Albuquerque, NM, 87111.",http://www.findalocalvet.com/Profiles/ABQ-Pet-Vets.aspx
+Animal Humane New Mexico Clnc,,"615 Virginia St SE, Albuquerque, NM, 87108.",http://www.findalocalvet.com/Profiles/Animal-Humane-New-Mexico-Clnc.aspx
+Todd Webster DVM,,"5604 Mosquero Ct NW, Albuquerque, NM, 87120.",http://www.findalocalvet.com/Profiles/Todd-Webster-DVM.aspx
+Rio Grande Animal Clinic,,"1913 Candelaria Rd NW, Albuquerque, NM, 87107.",http://www.findalocalvet.com/Profiles/Rio-Grande-Animal-Clinic.aspx
+Towne North Animal Hospital,(210) 494-2178,"13335 San Pedro Ave, San Antonio, TX, 78216.",http://www.findalocalvet.com/Profiles/Towne-North-Animal-Hospital.aspx
+Petroglyph Animal Hospital,,"6633 Caminito Coors NW, Albuquerque, NM, 87120.",http://www.findalocalvet.com/Profiles/Petroglyph-Animal-Hospital.aspx
+VCA Veterinary Care Animal,,"9901 Montgomery Blvd NE, Albuquerque, NM, 87111.",http://www.findalocalvet.com/Profiles/VCA-Veterinary-Care-Animal.aspx
+Hillside Veterinary Hospital,,"2364 Fort Union Blvd, Salt Lake City, UT, 84121.",http://www.findalocalvet.com/Profiles/Hillside-Veterinary-Hospital.aspx
+Desert Hills Animal Clinic,,"7120 Wyoming Blvd NE # B3, Albuquerque, NM, 87109.",http://www.findalocalvet.com/Profiles/Desert-Hills-Animal-Clinic.aspx
+Large Animal Internal Medicine,,"416 Solar Rd NW, Albuquerque, NM, 87107.",http://www.findalocalvet.com/Profiles/Large-Animal-Internal-Medicine.aspx
+Banfield the Pet Hospital,,"3081 S 5600 W, Salt Lake City, UT, 84120.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital.aspx
+Monroe Veterinary Options,,"5133 Loredell St, Salt Lake City, UT, 84117.",http://www.findalocalvet.com/Profiles/Monroe-Veterinary-Options.aspx
+Vet-Co,,"8200 Menaul Blvd NE # R, Albuquerque, NM, 87110.",http://www.findalocalvet.com/Profiles/Vet-Co.aspx
+Wasatch Springs Animal Hosp,,"855 Beck St, Salt Lake City, UT, 84103.",http://www.findalocalvet.com/Profiles/Wasatch-Springs-Animal-Hosp.aspx
+Jem's Vet Care,,"4663 W 6200 S # C, Salt Lake City, UT, 84118.",http://www.findalocalvet.com/Profiles/Jems-Vet-Care.aspx
+St Francis Animal Clinic,,"6401 Menaul Blvd NE, Albuquerque, NM, 87110.",http://www.findalocalvet.com/Profiles/St-Francis-Animal-Clinic.aspx
+Banfield the Pet Hospital,,"5748 S Redwood Rd, Salt Lake City, UT, 84123.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital72.aspx
+East Valley Veterinary Clinic,,"2165 E 2100 S, Salt Lake City, UT, 84109.",http://www.findalocalvet.com/Profiles/East-Valley-Veterinary-Clinic.aspx
+Salt Lake Veterinary Svc PC,,"4020 Howick St, Salt Lake City, UT, 84107.",http://www.findalocalvet.com/Profiles/Salt-Lake-Veterinary-Svc-PC.aspx
+Millcreek Veterinary Clinic,,"2361 E 3300 S, Salt Lake City, UT, 84109.",http://www.findalocalvet.com/Profiles/Millcreek-Veterinary-Clinic.aspx
+Healing Hearts Animal Hospital,,"280 W 4800 S, Salt Lake City, UT, 84107.",http://www.findalocalvet.com/Profiles/Healing-Hearts-Animal-Hospital.aspx
+Midvalley Animal Clinic,,"6047 S Redwood Rd, Salt Lake City, UT, 84123.",http://www.findalocalvet.com/Profiles/Midvalley-Animal-Clinic.aspx
+Carmel Mountain Ranch Veterinary Hospital,(858) 592-9779,"11925 Carmel Mountain Rd, San Diego, CA, 92128.",http://www.findalocalvet.com/Profiles/Carmel-Mountain-Ranch-Veterinary-Hospital.aspx
+Advanced Veterinary Care,,"1021 E 3300 S, Salt Lake City, UT, 84106.",http://www.findalocalvet.com/Profiles/Advanced-Veterinary-Care.aspx
+Friars Road Pet Hospital,(619) 282-7677,"10433 Friars Rd, Ste F, San Diego, CA, 92120.",http://www.findalocalvet.com/Profiles/Friars-Road-Pet-Hospital.aspx
+Scripps Parkway Veterinary Hospital,(858) 695-9996,"10755 Scripps Poway Pky, San Diego, CA, 92131.",http://www.findalocalvet.com/Profiles/Scripps-Parkway-Veterinary-Hospital.aspx
+Eye Clinic for Animals,,"5610 Kearny Mesa Rd # A, San Diego, CA, 92111.",http://www.findalocalvet.com/Profiles/Eye-Clinic-for-Animals.aspx
+Penasquitos Pet Clinic,(858) 484-1260,"9728 Carmel Mountain Rd, Ste E, San Diego, CA, 92129.",http://www.findalocalvet.com/Profiles/Penasquitos-Pet-Clinic.aspx
+Southern California Veterinary,(858) 279-2108,"5610 Kearny Mesa Rd, Suite B1, San Diego, CA, 92111.",http://www.findalocalvet.com/Profiles/Southern-California-Veterinary.aspx
+A Animal ER Of San Diego,,"5610 Kearny Mesa Rd, San Diego, CA, 92111.",http://www.findalocalvet.com/Profiles/A-Animal-ER-Of-San-Diego.aspx
+Boulevard Animal Clinic,,"7047 El Cajon Blvd, San Diego, CA, 92115.",http://www.findalocalvet.com/Profiles/Boulevard-Animal-Clinic.aspx
+Large Animal Clinic,,"9300 Guadalupe Trl NW, Albuquerque, NM, 87114.",http://www.findalocalvet.com/Profiles/Large-Animal-Clinic.aspx
+Kearny Mesa Veterinary Center,(858) 279-3000,"7677 Ronson Road, San Diego, CA, 92111.",http://www.findalocalvet.com/Profiles/Kearny-Mesa-Veterinary-Center.aspx
+Shelter Island Veterinary Hospital,(619) 222-0597,"3625 Midway Drive, Suite T, San Diego  , CA, 92110.",http://www.findalocalvet.com/Profiles/Shelter-Island-Veterinary-Hospital.aspx
+Market Street Veterinary Clinic,(619) 230-1220,"1051 Market St, San Diego, CA, 92101.",http://www.findalocalvet.com/Profiles/Market-Street-Veterinary-Clinic.aspx
+San Carlos Veterinary Hospital,(619) 460-3100,"8618 Lake Murray Blvd, San Diego, CA, 92119.",http://www.findalocalvet.com/Profiles/San-Carlos-Veterinary-Hospital.aspx
+Latin American Vet Med Assn,,"5530 University Ave, San Diego, CA, 92105.",http://www.findalocalvet.com/Profiles/Latin-American-Vet-Med-Assn.aspx
+Lifetime Animal Care Center,(858) 274-1760,"4941 Clairemont Dr, #G, San Diego, CA, 92117.",http://www.findalocalvet.com/Profiles/Lifetime-Animal-Care-Center.aspx
+Banfield the Pet Hospital,,"3396 Murphy Canyon Rd, San Diego, CA, 92123.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital15.aspx
+Balboa Veterinary Hospital,(858) 279-0425,"7931 Balboa Avenue, San Diego, CA, 92111.",http://www.findalocalvet.com/Profiles/Balboa-Veterinary-Hospital.aspx
+Governor Animal Clinic,,"3240 Governor Dr, San Diego, CA, 92122.",http://www.findalocalvet.com/Profiles/Governor-Animal-Clinic.aspx
+Dermatology Clinic for Animals,,"1892 Fort Union Blvd, Salt Lake City, UT, 84121.",http://www.findalocalvet.com/Profiles/Dermatology-Clinic-for-Animals2.aspx
+Rose Canyon Animal Hospital,(858) 273-4680,"4295 Jutland Dr, San Diego, CA, 92117.",http://www.findalocalvet.com/Profiles/Rose-Canyon-Animal-Hospital.aspx
+Bay Park Veterinary Clinic,(619) 276-1616,"3024 Hancock St, San Diego, CA, 92110.",http://www.findalocalvet.com/Profiles/Bay-Park-Veterinary-Clinic.aspx
+Bayside Veterinary Hospital,(619) 225-8000,"1270 Scott Street, San Diego, CA, 92106.",http://www.findalocalvet.com/Profiles/Bayside-Veterinary-Hospital.aspx
+NE Equine Veterinary Clinic,,"9620 N 132nd St, Omaha, NE, 68142.",http://www.findalocalvet.com/Profiles/NE-Equine-Veterinary-Clinic.aspx
+Banfield the Pet Hospital,,"389 W 1830 S # 200, Salt Lake City, UT, 84115.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital71.aspx
+Community Animal Hospital,,"9018 Fort St, Omaha, NE, 68134.",http://www.findalocalvet.com/Profiles/Community-Animal-Hospital3.aspx
+Southwest Animal Hospital Pc,,"3540 Q St, Omaha, NE, 68107.",http://www.findalocalvet.com/Profiles/Southwest-Animal-Hospital-Pc.aspx
+Veterinary Surgical Specialists,(858) 560-8006,"5610 Kearny Mesa Road , Suite B, San Diego, CA, 92111.",http://www.findalocalvet.com/Profiles/Veterinary-Surgical-Specialists.aspx
+Millard Veterinary Clinic,,"17935 Welch Plz # 102, Omaha, NE, 68135.",http://www.findalocalvet.com/Profiles/Millard-Veterinary-Clinic.aspx
+Foothill Animal Clinic,,"2675 Parleys Way, Salt Lake City, UT, 84109.",http://www.findalocalvet.com/Profiles/Foothill-Animal-Clinic.aspx
+Backlund Animal Clinic,(402) 334-1580,"2616 South 158th Plaza, Omaha, NE, 68130.",http://www.findalocalvet.com/Profiles/Backlund-Animal-Clinic2.aspx
+Best Care Pet Hospital,,"5305 N 108th St, Omaha, NE, 68164.",http://www.findalocalvet.com/Profiles/Best-Care-Pet-Hospital.aspx
+Ralston Veterinary Clinic Incorporated,(402) 331-6322,"6880 S 78th Street, Ralston, NE, 68127.",http://www.findalocalvet.com/Profiles/Ralston-Veterinary-Clinic-Incorporated.aspx
+Banfield the Pet Hospital,,"6220 N 73rd Plz, Omaha, NE, 68134.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital64.aspx
+Turquoise Animal Hospital,(858) 488-0658,"950 Turquoise St, San Diego, CA, 92109.",http://www.findalocalvet.com/Profiles/Turquoise-Animal-Hospital.aspx
+Midwestvet,,"9706 Mockingbird Dr, Omaha, NE, 68127.",http://www.findalocalvet.com/Profiles/Midwestvet.aspx
+Benson Animal Clinic,,"4417 N 61st St, Omaha, NE, 68104.",http://www.findalocalvet.com/Profiles/Benson-Animal-Clinic.aspx
+Banfield the Pet Hospital,,"3103 Oak View Dr, Omaha, NE, 68144.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital65.aspx
+Penasquito Pet Clinic,(858) 484-1260,"9728 Carmel Mountain Rd, Suite E, San Diego, CA, 92129.",http://www.findalocalvet.com/Profiles/Penasquito-Pet-Clinic.aspx
+Miracle Hills Animal Hospital,,"606 N 114th St, Omaha, NE, 68154.",http://www.findalocalvet.com/Profiles/Miracle-Hills-Animal-Hospital.aspx
+Backlund Animal Clinic,,"2616 S 158th Plz, Omaha, NE, 68130.",http://www.findalocalvet.com/Profiles/Backlund-Animal-Clinic.aspx
+Rockbrook Animal Clinic,,"2814 S 107th Ave, Omaha, NE, 68124.",http://www.findalocalvet.com/Profiles/Rockbrook-Animal-Clinic.aspx
+24th Street Animal Clinic,,"3258 S 24th St, Omaha, NE, 68108.",http://www.findalocalvet.com/Profiles/24th-Street-Animal-Clinic.aspx
+Animal Spay-Neuter Clinic,,"4970 NW Radial Hwy, Omaha, NE, 68104.",http://www.findalocalvet.com/Profiles/Animal-Spay-Neuter-Clinic.aspx
+Caring for Cats,(215) 509-6060,"100 Leverington Ave, Philadelphia, PA, 19127.",http://www.findalocalvet.com/Profiles/Caring-for-Cats.aspx
+Chestnut Hill Cat Clinic,(215) 247-9560,"8220 Germantown Ave, Philadelphia, PA, 19118.",http://www.findalocalvet.com/Profiles/Chestnut-Hill-Cat-Clinic.aspx
+Society Hill Veterinary Hospital,(215) 627-5955,"501 S 2nd St, Phila, PA, 19147.",http://www.findalocalvet.com/Profiles/Society-Hill-Veterinary-Hospital.aspx
+Compassion Veterinary Clinic,(888) 593-2191,"9324 State Rd, Philadelphia, PA, 19114.",http://www.findalocalvet.com/Profiles/Compassion-Veterinary-Clinic.aspx
+South Orlando Animal Hospital,(407) 855-1297,"11265 S Orange Blossom Trail, Orlando, FL, 32837.",http://www.findalocalvet.com/Profiles/South-Orlando-Animal-Hospital.aspx
+Animal Clinic Suburban,,"14203 Pacific St, Omaha, NE, 68154.",http://www.findalocalvet.com/Profiles/Animal-Clinic-Suburban.aspx
+Kirkman Area Animal Clinic,(407) 295-7547,"5633 Metro West Blvd., Orlando, FL, 32811.",http://www.findalocalvet.com/Profiles/Kirkman-Area-Animal-Clinic.aspx
+Animal Hospital at Vista Lakes,(407) 380-3011,"8770 Lee Vista Blvd, Orlando, FL, 32829.",http://www.findalocalvet.com/Profiles/Animal-Hospital-at-Vista-Lakes.aspx
+Kindred Spirits Animal Clinic,(407) 855-1350,"7306 S Orange Blossom Trl, Orlando, FL, 32809.",http://www.findalocalvet.com/Profiles/Kindred-Spirits-Animal-Clinic.aspx
+Fort Street Veterinarian,,"14345 Fort St # 500, Omaha, NE, 68164.",http://www.findalocalvet.com/Profiles/Fort-Street-Veterinarian.aspx
+Loch Haven Veterinary Hospital,(407) 896-0941,"2000 North Mills Avenue, Orlando, FL, 32803.",http://www.findalocalvet.com/Profiles/Loch-Haven-Veterinary-Hospital.aspx
+Pershing Oaks Animal Hospital,(407) 494-4975,"3240 S Goldenrod Road, Orlando, FL, 32822.",http://www.findalocalvet.com/Profiles/Pershing-Oaks-Animal-Hospital.aspx
+University Animal Hospital PA,(407) 657-7297,"9357 University Blvd, Orlando, FL, 32817.",http://www.findalocalvet.com/Profiles/University-Animal-Hospital-PA.aspx
+Union Park Animal Hospital,(407) 273-6010,"10640 E Colonial Dr, Orlando, FL, 32817.",http://www.findalocalvet.com/Profiles/Union-Park-Animal-Hospital.aspx
+Hiawassee Veterinary Clinic,(407) 299-3969,"6525 Old Winter Garden Rd, Orlando, FL, 32835.",http://www.findalocalvet.com/Profiles/Hiawassee-Veterinary-Clinic.aspx
+Main Street Animal Clinic,,"4331 Main St, Philadelphia, PA, 19127.",http://www.findalocalvet.com/Profiles/Main-Street-Animal-Clinic.aspx
+Omaha Animal Hospital PC,,"4908 L St, Omaha, NE, 68117.",http://www.findalocalvet.com/Profiles/Omaha-Animal-Hospital-PC.aspx
+Veterinary Emergency Clinic,,"2080 Principal Row, Orlando, FL, 32837.",http://www.findalocalvet.com/Profiles/Veterinary-Emergency-Clinic.aspx
+Jernigan N B DVM,,"6003 S 102nd St, Omaha, NE, 68127.",http://www.findalocalvet.com/Profiles/Jernigan-N-B-DVM.aspx
+Chickasaw Trail Animal Hosp,,"8555 Curry Ford Rd, Orlando, FL, 32825.",http://www.findalocalvet.com/Profiles/Chickasaw-Trail-Animal-Hosp.aspx
+Gully Animal Hospital,(817) 468-2349,"6300 S Cooper St, Arlington, TX, 76001.",http://www.findalocalvet.com/Profiles/Gully-Animal-Hospital.aspx
+Eastwood Animal Hospital,(407) 447-9444,"1513 South Alafaya Trail, Orlando, FL, 32828.",http://www.findalocalvet.com/Profiles/Eastwood-Animal-Hospital.aspx
+Pine Castle Animal Hospital,,"5250 S Orange Ave, Orlando, FL, 32809.",http://www.findalocalvet.com/Profiles/Pine-Castle-Animal-Hospital.aspx
+Richter Animal Hospital & Pet Resort,(817) 478-8000,"4601 W Sublett Road, Arlington, TX, 76017.",http://www.findalocalvet.com/Profiles/Richter-Animal-Hospital-Pet-Resort.aspx
+Rosemont Animal Clinic,,"5512 Clarcona Ocoee Rd, Orlando, FL, 32810.",http://www.findalocalvet.com/Profiles/Rosemont-Animal-Clinic.aspx
+I 20 Animal Medical Center,(817) 478-9238,"5820 Interstate 20 W, Arlington, TX, 76017.",http://www.findalocalvet.com/Profiles/I-20-Animal-Medical-Center.aspx
+Alamo Pet Clinic,(817) 303-7700,"3634 W Pioneer Pky, Pantego, TX, 76013.",http://www.findalocalvet.com/Profiles/Alamo-Pet-Clinic.aspx
+Kirkman Road Veterinary Clinic,(407) 297-7528,"38 S Kirkman Rd, Orlando, FL, 32835.",http://www.findalocalvet.com/Profiles/Kirkman-Road-Veterinary-Clinic.aspx
+Kirby J Warren DVM,,"427 Rolling Hills Trl, Arlington, TX, 76011.",http://www.findalocalvet.com/Profiles/Kirby-J-Warren-DVM.aspx
+Creature Comfort Animal Clinic,(817) 472-0404,"2150 Interstate 20 West, Arlington, TX, 76017.",http://www.findalocalvet.com/Profiles/Creature-Comfort-Animal-Clinic.aspx
+Conway Veterinary Hospital,(407) 851-4758,"4752 Hoffner Ave, Orlando, FL, 32812.",http://www.findalocalvet.com/Profiles/Conway-Veterinary-Hospital.aspx
+Emergency Pet Hospital of Orlando,(407) 298-3805,"8742 White Rd, Orlando, FL, 32818.",http://www.findalocalvet.com/Profiles/Emergency-Pet-Hospital-of-Orlando.aspx
+North Valley Regional Animal Hospital,(623) 849-0700,"520 W. Union hills Drive, Suite 105, North Phoenix, AZ, 85027.",http://www.findalocalvet.com/Profiles/North-Valley-Regional-Animal-Hospital.aspx
+North Central Animal Hospital PC,(602) 395-9773,"20 W Dunlap Ave, Phoenix, AZ, 85021.",http://www.findalocalvet.com/Profiles/North-Central-Animal-Hospital-PC.aspx
+Palo Verde Animal Hospital,(602) 944-9661,"1215 E Northern Ave, Phoenix, AZ, 85020.",http://www.findalocalvet.com/Profiles/Palo-Verde-Animal-Hospital.aspx
+Kachina Animal Hospital,,"352 W Wagon Wheel Dr, Phoenix, AZ, 85021.",http://www.findalocalvet.com/Profiles/Kachina-Animal-Hospital.aspx
+Moon Valley Animal Hospital,(602) 942-8850,"13650 N 19th Ave, #1, Phoenix, AZ, 85029.",http://www.findalocalvet.com/Profiles/Moon-Valley-Animal-Hospital.aspx
+Desert Sage Veterinary Clinic,,"2249 W Bethany Home Rd, Phoenix, AZ, 85015.",http://www.findalocalvet.com/Profiles/Desert-Sage-Veterinary-Clinic.aspx
+Richter Animal Hospital,(817) 478-8000,"6320 Hwy 287, Suite 128, Arlington, TX, 76003.",http://www.findalocalvet.com/Profiles/Richter-Animal-Hospital.aspx
+South Mountain Vet Clinic,(480) 759-4800,"3636 E Ray Road, Suite 20, Phoenix, AZ, 85044.",http://www.findalocalvet.com/Profiles/South-Mountain-Vet-Clinic.aspx
+Artists for Animals,,"1001 E Aire Libre Ave, Phoenix, AZ, 85022.",http://www.findalocalvet.com/Profiles/Artists-for-Animals.aspx
+Tatum Point Animal Hospital,,"4727 E Bell Rd # 11, Phoenix, AZ, 85032.",http://www.findalocalvet.com/Profiles/Tatum-Point-Animal-Hospital.aspx
+Bell Ridge Animal Hospital,,"3539 W Bell Rd # 4, Phoenix, AZ, 85053.",http://www.findalocalvet.com/Profiles/Bell-Ridge-Animal-Hospital.aspx
+Banfield the Pet Hospital,,"1745 W Bethany Home Rd, Phoenix, AZ, 85015.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital70.aspx
+Alta Vista Vet Hospital,(602) 277-1465,"4702 N 7th Ave, Ste 2, Phoenix, AZ, 85013.",http://www.findalocalvet.com/Profiles/Alta-Vista-Vet-Hospital.aspx
+Anthem Pet Medical Ctr,,"42105 N 41st Dr # 148, Anthem, AZ, 85086.",http://www.findalocalvet.com/Profiles/Anthem-Pet-Medical-Ctr.aspx
+Phoenix Dog & Cat Hospital,,"3415 N 7th Ave, Phoenix, AZ, 85013.",http://www.findalocalvet.com/Profiles/Phoenix-Dog-Cat-Hospital.aspx
+Union Hills Animal Hospital,,"1933 W Union Hills Dr, Phoenix, AZ, 85027.",http://www.findalocalvet.com/Profiles/Union-Hills-Animal-Hospital.aspx
+Timberland Animal Clinic,(503) 665-1194,"18110 Se Division Street, Portland, OR, 97236.",http://www.findalocalvet.com/Profiles/Timberland-Animal-Clinic.aspx
+Halsey East Animal Clinic,(503) 255-0261,"16057 Ne Halsey St, Portland, OR, 97230.",http://www.findalocalvet.com/Profiles/Halsey-East-Animal-Clinic.aspx
+Hollywood Pet Hospital,(503) 234-9229,"3565 NE Sandy Blvd, Portland, OR, 97232.",http://www.findalocalvet.com/Profiles/Hollywood-Pet-Hospital.aspx
+Ingleside Animal Hospital,(602) 840-3446,"5130 East Thomas Road, Phoenix, AZ, 85018.",http://www.findalocalvet.com/Profiles/Ingleside-Animal-Hospital.aspx
+Barbur Blvd Veterinary Hospital,(503) 564-4938,"10629 Sw Barbur Blvd, Portland, OR, 97219.",http://www.findalocalvet.com/Profiles/Barbur-Blvd-Veterinary-Hospital.aspx
+A Mobile Pet Clinic,,"4608 NE 102nd Ave, Portland, OR, 97220.",http://www.findalocalvet.com/Profiles/A-Mobile-Pet-Clinic.aspx
+Lombard Animal Hospital,,"607 NE Lombard St, Portland, OR, 97211.",http://www.findalocalvet.com/Profiles/Lombard-Animal-Hospital.aspx
+Orangewood Animal Hospital Pc,,"7147 N 7th St, Phoenix, AZ, 85020.",http://www.findalocalvet.com/Profiles/Orangewood-Animal-Hospital-Pc.aspx
+Holistic Pet Vet Clinic,(503) 293-6666,"11505 SW Pacific Hwy Suite D, Portland, OR, 97223.",http://www.findalocalvet.com/Profiles/Holistic-Pet-Vet-Clinic.aspx
+Gateway Veterinary Hospital,,"11222 NE Halsey St, Portland, OR, 97220.",http://www.findalocalvet.com/Profiles/Gateway-Veterinary-Hospital.aspx
+St Johns Veterinary Clinic,(503) 289-4996,"4818 N Lombard St, Portland, OR, 97203.",http://www.findalocalvet.com/Profiles/St-Johns-Veterinary-Clinic2.aspx
+Sunset Animal Clinic,,"14740 NW Cornell Rd # 20, Portland, OR, 97229.",http://www.findalocalvet.com/Profiles/Sunset-Animal-Clinic2.aspx
+Randi Brannan DVM,,"4905 SW 77th Ave, Portland, OR, 97225.",http://www.findalocalvet.com/Profiles/Randi-Brannan-DVM.aspx
+Banfield the Pet Hospital,,"2020 N 75th Ave # 25, Phoenix, AZ, 85035.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital69.aspx
+Cat Calls Mobile Cat Clinic,,"4407 SW Corbett Ave, Portland, OR, 97239.",http://www.findalocalvet.com/Profiles/Cat-Calls-Mobile-Cat-Clinic.aspx
+North Portland Veterinary Hospital,(503) 285-0462,"3000 N Lombard Street, Portland, OR, 97217.",http://www.findalocalvet.com/Profiles/North-Portland-Veterinary-Hospital.aspx
+Cascade Veterinary Referral Center,(503) 684-1800,"11140 Sw 68th Pky, Tigard, OR, 97223.",http://www.findalocalvet.com/Profiles/Cascade-Veterinary-Referral-Center.aspx
+Laurelhurst Veterinary Hospital,(503) 536-7670,"2945 NE Sandy Blvd, Portland, OR, 97232.",http://www.findalocalvet.com/Profiles/Laurelhurst-Veterinary-Hospital.aspx
+Tigard Animal Hospital,,"13599 SW Pacific Hwy # C, Portland, OR, 97223.",http://www.findalocalvet.com/Profiles/Tigard-Animal-Hospital.aspx
+Cascade Veterinary Referral,,"11140 SW 68th Pkwy, Tigard, OR, 97223.",http://www.findalocalvet.com/Profiles/Cascade-Veterinary-Referral.aspx
+Greenway Pet Clinic,,"12196 SW Scholls Ferry Rd, Portland, OR, 97223.",http://www.findalocalvet.com/Profiles/Greenway-Pet-Clinic.aspx
+Linwood Animal Clinic,,"6135 SE King Rd, Milwaukie, OR, 97222.",http://www.findalocalvet.com/Profiles/Linwood-Animal-Clinic.aspx
+North Portland Veterinary Hosp,,"3000 N Lombard St, Portland, OR, 97217.",http://www.findalocalvet.com/Profiles/North-Portland-Veterinary-Hosp.aspx
+Palm Glen Animal Hospital,(602) 841-1200,"7771 N 43rd Ave, Phoenix, AZ, 85051.",http://www.findalocalvet.com/Profiles/Palm-Glen-Animal-Hospital.aspx
+Holistic House Calls Vet Svc,,"3049 NE Pacific St, Portland, OR, 97232.",http://www.findalocalvet.com/Profiles/Holistic-House-Calls-Vet-Svc.aspx
+Werntz Memorial Animal Hospital,(412) 243-2401,"75 Verona Rd, Pittsburgh, PA, 15235.",http://www.findalocalvet.com/Profiles/Werntz-Memorial-Animal-Hospital.aspx
+Penn Hills Veterinary Hospital,,"12805 Frankstown Rd, Penn Hills, PA, 15235.",http://www.findalocalvet.com/Profiles/Penn-Hills-Veterinary-Hospital.aspx
+Point 2 for Healthy Pets,,"415 Gettysburg St, Pittsburgh, PA, 15206.",http://www.findalocalvet.com/Profiles/Point-2-for-Healthy-Pets.aspx
+Fox Chapel Animal Hospital Inc,,"1152 Freeport Rd, Pittsburgh, PA, 15238.",http://www.findalocalvet.com/Profiles/Fox-Chapel-Animal-Hospital-Inc.aspx
+Sorrento Animal Hospital,(503) 524-5029,"12730 SW North Dakota, Tigard, OR, 97223.",http://www.findalocalvet.com/Profiles/Sorrento-Animal-Hospital.aspx
+Always Compassionate Vet Care,,"4701 Clairton Blvd, Pittsburgh, PA, 15236.",http://www.findalocalvet.com/Profiles/Always-Compassionate-Vet-Care.aspx
+Greenfield Veterinary Hospital,,"611 Greenfield Ave, Pittsburgh, PA, 15207.",http://www.findalocalvet.com/Profiles/Greenfield-Veterinary-Hospital.aspx
+Point Breeze Veterinary Clinic,(412) 665-1810,"6742 Reynolds Street, Pittsburgh, PA, 15206.",http://www.findalocalvet.com/Profiles/Point-Breeze-Veterinary-Clinic.aspx
+South Hills Animal Hospital,,"999 Killarney Dr # A, Pittsburgh, PA, 15234.",http://www.findalocalvet.com/Profiles/South-Hills-Animal-Hospital.aspx
+PEACEFUL PASSING,(919) 672-0686,"7413 Six Forks Road Suite 152, Raleigh, NC, 27615.",http://www.findalocalvet.com/Profiles/PEACEFUL-PASSING.aspx
+Swift Creek Animal Hospital,,"9412 Penny Rd, Raleigh, NC, 27606.",http://www.findalocalvet.com/Profiles/Swift-Creek-Animal-Hospital.aspx
+Gentle Care Animal Hospital,,"100 Kumar Ct, Raleigh, NC, 27606.",http://www.findalocalvet.com/Profiles/Gentle-Care-Animal-Hospital.aspx
+"Bowman Animal Hospital and Cat Clinic, Inc.",(919) 847-6216,"8308 Creedmoor Road, Raleigh, NC, 27613.",http://www.findalocalvet.com/Profiles/Bowman-Animal-Hospital-and-Cat-Clinic-Inc-.aspx
+Veterinary Specialty Hospital,(919) 861-0109,"4640 Paragon Park Road, Raleigh, NC, 27616.",http://www.findalocalvet.com/Profiles/Veterinary-Specialty-Hospital.aspx
+After Hours Small Animal Emergency Clinic,(919) 781-5145,"409 Vick Ave, Raleigh, NC, 27612.",http://www.findalocalvet.com/Profiles/After-Hours-Small-Animal-Emergency-Clinic.aspx
+Hidden Valley Animal Hospital,,"2315 Lynn Rd # 104, Raleigh, NC, 27612.",http://www.findalocalvet.com/Profiles/Hidden-Valley-Animal-Hospital.aspx
+Midtown Animal Hospital,(916) 446-7788,"1917 P Street, Sacramento, CA, 95811.",http://www.findalocalvet.com/Profiles/Midtown-Animal-Hospital.aspx
+Garden Home Veterinary Clinic,,"7300 SW Garden Home Rd, Portland, OR, 97223.",http://www.findalocalvet.com/Profiles/Garden-Home-Veterinary-Clinic.aspx
+Southgate Animal Clinic,(503) 771-0857,"7851 SE King Road, Milwaukie, OR, 97222.",http://www.findalocalvet.com/Profiles/Southgate-Animal-Clinic.aspx
+Arden Animal Hospital,(916) 485-5412,"1823 Fulton Avenue, Sacramento, CA, 95825.",http://www.findalocalvet.com/Profiles/Arden-Animal-Hospital.aspx
+Discovery Plaza Veterinary Clinic,(916) 920-1555,"1500 W El Camino Ave, Ste 14, Sacramento, CA, 95833.",http://www.findalocalvet.com/Profiles/Discovery-Plaza-Veterinary-Clinic.aspx
+Mobile Vet Pract Raleigh Pllc,,"3309 Horton St, Raleigh, NC, 27607.",http://www.findalocalvet.com/Profiles/Mobile-Vet-Pract-Raleigh-Pllc.aspx
+Watt Avenue Pet Hospital,(916) 482-4084,"3321 Watt Ave, Ste 109, Sacramento, CA, 95821.",http://www.findalocalvet.com/Profiles/Watt-Avenue-Pet-Hospital.aspx
+Mueller Pet Medical Center,(916) 428-9202,"6420 Freeport Blvd, Sacramento, CA, 95822.",http://www.findalocalvet.com/Profiles/Mueller-Pet-Medical-Center.aspx
+South Sacramento Pet Hospital,(916) 421-0619,"5651 Franklin Blvd, Sacramento, CA, 95824.",http://www.findalocalvet.com/Profiles/South-Sacramento-Pet-Hospital.aspx
+Minnesota Veterinary Hospital,(651) 484-3331,"4545 Hodgson Road, Shoreview, MN, 55126.",http://www.findalocalvet.com/Profiles/Minnesota-Veterinary-Hospital.aspx
+Duraleigh-Oak Park Vetry Hosp,,"5919 Creedmoor Rd, Raleigh, NC, 27612.",http://www.findalocalvet.com/Profiles/Duraleigh-Oak-Park-Vetry-Hosp.aspx
+Natomas Veterinary Hospital,(916) 925-3535,"4381 Gateway Park Blvd, #520, Sacramento, CA, 95834.",http://www.findalocalvet.com/Profiles/Natomas-Veterinary-Hospital.aspx
+Midway Animal Hospital,(651) 644-2100,"731 Snelling Ave N, St Paul, MN, 55104.",http://www.findalocalvet.com/Profiles/Midway-Animal-Hospital3.aspx
+Lake Animal Hospital,(651) 426-1381,"5900 Highway 61 N., White Bear Lake, MN, 55110.",http://www.findalocalvet.com/Profiles/Lake-Animal-Hospital.aspx
+East Valley Animal Clinic,(952) 423-6800,"5049 Upper 141st St W, Apple Valley, MN, 55124.",http://www.findalocalvet.com/Profiles/East-Valley-Animal-Clinic.aspx
+Century Animal Clinic,,"839 Century Ave N # A, Maplewood, MN, 55119.",http://www.findalocalvet.com/Profiles/Century-Animal-Clinic.aspx
+Maryland Avenue Pet Hospital,,"96 Maryland Ave E, St Paul, MN, 55117.",http://www.findalocalvet.com/Profiles/Maryland-Avenue-Pet-Hospital.aspx
+Catherine Udams DVM,,"8154 Hudson Rd, Woodbury, MN, 55125.",http://www.findalocalvet.com/Profiles/Catherine-Udams-DVM.aspx
+South Metro Animal Emergency Care,(952) 953-3737,"14690 Pennock Ave, Apple Vallry, MN, 55124.",http://www.findalocalvet.com/Profiles/South-Metro-Animal-Emergency-Care.aspx
+Valley Creek Road Animal Hosp,,"9900 Valley Creek Rd # 100, Woodbury, MN, 55125.",http://www.findalocalvet.com/Profiles/Valley-Creek-Road-Animal-Hosp.aspx
+Mendakota Animal Hospital,(651) 688-9245,"1938 Dodd Rd, Mendota Heights, MN, 55118.",http://www.findalocalvet.com/Profiles/Mendakota-Animal-Hospital.aspx
+Maplewood Pet Care Clinic,,"2811 White Bear Ave N, St Paul, MN, 55109.",http://www.findalocalvet.com/Profiles/Maplewood-Pet-Care-Clinic.aspx
+Arden Shoreview Animal Hosp,,"1261 County Road E W, Arden Hills, MN, 55112.",http://www.findalocalvet.com/Profiles/Arden-Shoreview-Animal-Hosp.aspx
+Allegheny North Veterinary,(412) 364-5511,"954 Perry Highway, Pittsburgh, PA, 15237.",http://www.findalocalvet.com/Profiles/Allegheny-North-Veterinary.aspx
+Highland Animal Hospital,,"687 Cleveland Ave S, St Paul, MN, 55116.",http://www.findalocalvet.com/Profiles/Highland-Animal-Hospital.aspx
+Roseville Animal Hospital,,"2630 Snelling Curv, Roseville, MN, 55113.",http://www.findalocalvet.com/Profiles/Roseville-Animal-Hospital.aspx
+Grand Avenue Veterinary Ctr,,"1140 Grand Ave, St Paul, MN, 55105.",http://www.findalocalvet.com/Profiles/Grand-Avenue-Veterinary-Ctr.aspx
+Hudson Road Animal Hospital,(651) 739-0117,"8154 Hudson Road, Woodbury, MN, 55125.",http://www.findalocalvet.com/Profiles/Hudson-Road-Animal-Hospital.aspx
+Veterinary Diagnostic Labs,,"1333 Gortner Ave, St Paul, MN, 55108.",http://www.findalocalvet.com/Profiles/Veterinary-Diagnostic-Labs.aspx
+Keller Lake Animal Hospital,,"1248 Cope Ave E, Maplewood, MN, 55109.",http://www.findalocalvet.com/Profiles/Keller-Lake-Animal-Hospital.aspx
+Arcade Animal Hospital,,"1144 Arcade St, St Paul, MN, 55106.",http://www.findalocalvet.com/Profiles/Arcade-Animal-Hospital.aspx
+Carver Lake Veterinary Center,(651) 578-3290,"2201 Ventura Drive, Woodbury, MN, 55125.",http://www.findalocalvet.com/Profiles/Carver-Lake-Veterinary-Center.aspx
+Scenic Hills Animal Hospital,(651) 739-4821,"1939 Burns Avenue, Saint Paul, MN, 55119.",http://www.findalocalvet.com/Profiles/Scenic-Hills-Animal-Hospital.aspx
+Rice Pet Clinic & Hospital,(651) 484-6222,"111 County Road C W, Saint Paul, MN, 55117.",http://www.findalocalvet.com/Profiles/Rice-Pet-Clinic-Hospital.aspx
+Hampton Animal Hospital,,"2826 Hampton Ave, St Louis, MO, 63139.",http://www.findalocalvet.com/Profiles/Hampton-Animal-Hospital2.aspx
+Normandy Animal Hospital Inc,,"7626 Florissant Rd, St Louis, MO, 63121.",http://www.findalocalvet.com/Profiles/Normandy-Animal-Hospital-Inc.aspx
+Spoede Animal Hospital,(314) 569-3111,"10842 Olive Blvd, Creve Couer, MO, 63141.",http://www.findalocalvet.com/Profiles/Spoede-Animal-Hospital.aspx
+Banfield the Pet Hospital,,"4621 Chippewa St, St Louis, MO, 63116.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital12.aspx
+Southtown Veterinary Clinic,,"7315 S Broadway, St Louis, MO, 63111.",http://www.findalocalvet.com/Profiles/Southtown-Veterinary-Clinic.aspx
+Affton Veterinary Clinic,(314) 352-8600,"8100 Gravois Rd, St Louis, MO, 63123.",http://www.findalocalvet.com/Profiles/Affton-Veterinary-Clinic.aspx
+Kingsbury Animal Hospital,(314) 721-6251,"420 North Skinker Blvd., Saint Louis, MO, 63130.",http://www.findalocalvet.com/Profiles/Kingsbury-Animal-Hospital.aspx
+Banfield the Pet Hospital,,"62 Brentwood Promenade Ct, St Louis, MO, 63144.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital11.aspx
+Greg L Taff DVM,,"6360 Highland Estates Dr, St Louis, MO, 63129.",http://www.findalocalvet.com/Profiles/Greg-L-Taff-DVM.aspx
+Shoreview North Oaks Animal Hospital,(651) 255-0071,"1034 Highway 96 W, Shoreview, MN, 55126.",http://www.findalocalvet.com/Profiles/Shoreview-North-Oaks-Animal-Hospital.aspx
+12th St Animal Hospital & Btq,,"412 N Tucker Blvd, St Louis, MO, 63101.",http://www.findalocalvet.com/Profiles/12th-St-Animal-Hospital-Btq.aspx
+Home Vet,(636) 227-1371,"10 Lamertin Lane, St Louis, MO, 63122.",http://www.findalocalvet.com/Profiles/Home-Vet.aspx
+Creve Coeur Animal Hospital,(314) 434-4300,"12550 Olive Blvd, Saint Louis, MO, 63141.",http://www.findalocalvet.com/Profiles/Creve-Coeur-Animal-Hospital.aspx
+Inman Animal Hospital,(404) 584-8761,"926 Dekalb Ave NE, Atlanta, GA, 30307.",http://www.findalocalvet.com/Profiles/Inman-Animal-Hospital.aspx
+Georgia Veterinary Medical Association,(678) 309-9800,"233 Peachtree Street NE, Suite 2205, Atlanta, GA, 30303.",http://www.findalocalvet.com/Profiles/Georgia-Veterinary-Medical-Association.aspx
+Buckhead Animal Clinic,(404) 873-3771,"228 Sandy Springs Place NE, Atlanta, GA, 30328.",http://www.findalocalvet.com/Profiles/Buckhead-Animal-Clinic.aspx
+Dunwoody Veterinary Center,(770) 394-5004,"1610 Mt Vernon Rd, Suite 125, Atlanta, GA, 30338.",http://www.findalocalvet.com/Profiles/Dunwoody-Veterinary-Center.aspx
+Pet Well Veterinary HealthCare,(404) 856-7500,"1456 Northside Dr Nw, Atlanta, GA, 30318.",http://www.findalocalvet.com/Profiles/Pet-Well-Veterinary-HealthCare.aspx
+Heritage Veterinary Hospital,(314) 878-8454,"12952 Olive Blvd, St Louis, MO, 63141.",http://www.findalocalvet.com/Profiles/Heritage-Veterinary-Hospital.aspx
+Cheshire Animal Clinic,(404) 320-6555,"2647 Buford Hwy Ne, Atlanta, GA, 30324.",http://www.findalocalvet.com/Profiles/Cheshire-Animal-Clinic.aspx
+C E Walton DVM,,"2086 Eldorado Dr NE, Atlanta, GA, 30345.",http://www.findalocalvet.com/Profiles/C-E-Walton-DVM.aspx
+Banfield the Pet Hospital,,"3665 Marketplace Blvd, East Point, GA, 30344.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital52.aspx
+Mobile Veterinary Services,(770) 220-2477,"3666 N Peachtree Road, Atlanta, GA, 30341.",http://www.findalocalvet.com/Profiles/Mobile-Veterinary-Services2.aspx
+Collier Animal Hospital,(404) 477-0200,"857 Collier Rd NW, Ste 19, Atlanta, GA, 30318.",http://www.findalocalvet.com/Profiles/Collier-Animal-Hospital.aspx
+Pet EP,,"3627 Spring Creek Ln, Atlanta, GA, 30350.",http://www.findalocalvet.com/Profiles/Pet-EP.aspx
+Atlanta Veterinary Skin & Allergy Clinic,(770) 936-8922,"2803 Shallowford Rd Ne, Atlanta, GA, 30341.",http://www.findalocalvet.com/Profiles/Atlanta-Veterinary-Skin-Allergy-Clinic.aspx
+Concord Animal Hospital,,"11705 Baptist Church Rd, St Louis, MO, 63128.",http://www.findalocalvet.com/Profiles/Concord-Animal-Hospital.aspx
+Peachtree Hills Animal Hospital,(404) 812-9880,"2909 Peachtree Rd NE, Ste G, Atlanta, CA, 30305.",http://www.findalocalvet.com/Profiles/Peachtree-Hills-Animal-Hospital.aspx
+Centre Court Veterinary Clinic,(404) 252-9200,"6080 Sandy Springs Circle, Atlanta, GA, 30328.",http://www.findalocalvet.com/Profiles/Centre-Court-Veterinary-Clinic.aspx
+My Best Friend Veterinary Ctr,,"9390 Olive Blvd, St Louis, MO, 63132.",http://www.findalocalvet.com/Profiles/My-Best-Friend-Veterinary-Ctr.aspx
+East Atlanta Animal Clinic PC,(404) 523-8765,"461 Flat Shoals Ave Se, Atlanta, GA, 30316.",http://www.findalocalvet.com/Profiles/East-Atlanta-Animal-Clinic-PC.aspx
+Belle Isle Animal Clinic,,"216 E Belle Isle Rd NE, Atlanta, GA, 30342.",http://www.findalocalvet.com/Profiles/Belle-Isle-Animal-Clinic.aspx
+The Lake Veterinary Hospital,(510) 452-1255,"3331 Grand Ave, #101, Oakland, CA, 94610.",http://www.findalocalvet.com/Profiles/The-Lake-Veterinary-Hospital.aspx
+Montclair Veterinary Hospital,(510) 339-8600,"1961 Mountain Blvd, Oakland  , CA, 94611.",http://www.findalocalvet.com/Profiles/Montclair-Veterinary-Hospital.aspx
+Pet Requiem,(646) 599-7953,"310 W 47 St. 5B, New York, NY, 10036.",http://www.findalocalvet.com/Profiles/Pet-Requiem.aspx
+Animal Emergency Clinic,,"9937 Big Bend Blvd, St Louis, MO, 63122.",http://www.findalocalvet.com/Profiles/Animal-Emergency-Clinic2.aspx
+Animal Hospital of West Nashville,(615) 356-8993,"110 Harding Place, Nashville, TN, 37205.",http://www.findalocalvet.com/Profiles/Animal-Hospital-of-West-Nashville.aspx
+Value Vet II,,"4602 Gallatin Pike, Nashville, TN, 37216.",http://www.findalocalvet.com/Profiles/Value-Vet-II.aspx
+Western Veterinarian,,"4605 Hickory Hill Rd, Memphis, TN, 38141.",http://www.findalocalvet.com/Profiles/Western-Veterinarian.aspx
+Cahuenga Pet Hospital,(323) 462-0660,"825 N Cahuenga Blvd, Los Angeles, CA, 90038.",http://www.findalocalvet.com/Profiles/Cahuenga-Pet-Hospital.aspx
+West Allis Veterinary Clinic,(414) 453-4344,"11504 W Greenfield Ave, Milwaukee, WI, 53214.",http://www.findalocalvet.com/Profiles/West-Allis-Veterinary-Clinic.aspx
+Hickory Knoll Veterinary Hosp,,"1625 Hickory Ave, Harahan, LA, 70123.",http://www.findalocalvet.com/Profiles/Hickory-Knoll-Veterinary-Hosp.aspx
+Belmont Shore Veterinary Hospital,(562) 961-0028,"6222 E Pacific Coast Hwy, Long Beach, CA, 90803.",http://www.findalocalvet.com/Profiles/Belmont-Shore-Veterinary-Hospital.aspx
+Belmont Heights Animal Hospital,(562) 439-6871,"255 Redondo Ave, Long Beach, CA, 90803.",http://www.findalocalvet.com/Profiles/Belmont-Heights-Animal-Hospital.aspx
+Cats & Dogs Animal Hospital,(562) 439-4228,"627 Redondo Avenue, Long Beach, CA, 90814.",http://www.findalocalvet.com/Profiles/Cats-Dogs-Animal-Hospital.aspx
+Old Cutler Animal Clinic,(305) 251-6151,"20205 Franjo Rd, Cutler Bay, FL, 33189.",http://www.findalocalvet.com/Profiles/Old-Cutler-Animal-Clinic.aspx
+Veterinary Ophthalmology Spec,(952) 929-8299,"4053 Highway 7, Minneapolis, MN, 55416.",http://www.findalocalvet.com/Profiles/Veterinary-Ophthalmology-Spec.aspx
+M Lance Hirsh Veterinary Ctr,,"3615 Piedmont Rd NE, Atlanta, GA, 30305.",http://www.findalocalvet.com/Profiles/M-Lance-Hirsh-Veterinary-Ctr.aspx
+Lyndale Animal Hospital,(612) 872-4674,"2544 Lyndale Ave S, Minneapolis, MN, 55405.",http://www.findalocalvet.com/Profiles/Lyndale-Animal-Hospital.aspx
+Compassionate Care Animal Hospital,(763) 315-4200,"8479 W Broadway Ave, Minneapolis, MN, 55445.",http://www.findalocalvet.com/Profiles/Compassionate-Care-Animal-Hospital.aspx
+Doerr Animal Clinic,,"2050 Herr Ln, Louisville, KY, 40222.",http://www.findalocalvet.com/Profiles/Doerr-Animal-Clinic.aspx
+Country Pet Care,(405) 478-8800,"8121 N Eastern Ave, Oklahoma City, OK, 73131.",http://www.findalocalvet.com/Profiles/Country-Pet-Care.aspx
+Ranchwood Veterinary Hospital,(405) 794-5551,"10505 S Santa Fe Ave, Oklahoma City, OK, 73170.",http://www.findalocalvet.com/Profiles/Ranchwood-Veterinary-Hospital.aspx
+Apache Animal Clinic & Hospital,(612) 781-2734,"2503 37th Ave NE, Minneapolis, MN, 55421.",http://www.findalocalvet.com/Profiles/Apache-Animal-Clinic-Hospital.aspx
+Awesome Care Veterinary,(405) 631-0569,"1017 W I 240 Service Rd, Oklahoma City, OK, 73139.",http://www.findalocalvet.com/Profiles/Awesome-Care-Veterinary.aspx
+Pet Crossing Animal Hospital,(952) 884-8248,"10861 Bloomington Ferry Rd, Minneapolis, MN, 55438.",http://www.findalocalvet.com/Profiles/Pet-Crossing-Animal-Hospital.aspx
+Schrag Animal Clinic,(405) 681-0829,"8000 S Pennsylvania Ave, Oklahoma City, OK, 73159.",http://www.findalocalvet.com/Profiles/Schrag-Animal-Clinic.aspx
+Heritage Plaza Animal Hospital,(405) 737-4000,"351 N Air Depot Blvd, Ste K, Oklahoma City, OK, 73110.",http://www.findalocalvet.com/Profiles/Heritage-Plaza-Animal-Hospital.aspx
+Fairleigh Pet Center,(502) 451-6655,"1212 Bardstown Rd, Louisville, KY, 40204.",http://www.findalocalvet.com/Profiles/Fairleigh-Pet-Center.aspx
+Veterinary Home Healthcare,(405) 820-6647,"P.O. Box 21512, Oklahoma City, OK, 73156.",http://www.findalocalvet.com/Profiles/Veterinary-Home-Healthcare.aspx
+Happy Tails Mobile Vet Clinic,,"3224 NW 50th St, Oklahoma City, OK, 73112.",http://www.findalocalvet.com/Profiles/Happy-Tails-Mobile-Vet-Clinic.aspx
+Southwestern Pet Clinic,,"8501 S Western Ave, Oklahoma City, OK, 73139.",http://www.findalocalvet.com/Profiles/Southwestern-Pet-Clinic.aspx
+Crestwood Animal Hospital,,"9100 N Macarthur Blvd, Oklahoma City, OK, 73132.",http://www.findalocalvet.com/Profiles/Crestwood-Animal-Hospital.aspx
+Tri City East Veterinary Hospital,(480) 830-2873,"4331 E Broadway Rd, Mesa, AZ, 85206.",http://www.findalocalvet.com/Profiles/Tri-City-East-Veterinary-Hospital.aspx
+1st Emergency Pet Care,(480) 924-1123,"1423 S Higley Rd, Mesa, AZ, 85206.",http://www.findalocalvet.com/Profiles/1st-Emergency-Pet-Care.aspx
+Comet Veterinary Hospital,(480) 779-9976,"2824 N Power Rd, Ste 106, Mesa, AZ, 85215.",http://www.findalocalvet.com/Profiles/Comet-Veterinary-Hospital.aspx
+Noe's Ark Animal Clinic,,"717 N Lindsay Rd, Mesa, AZ, 85213.",http://www.findalocalvet.com/Profiles/Noes-Ark-Animal-Clinic.aspx
+Family Vet Care of Mesa,,"1901 E Southern Ave, Mesa, AZ, 85204.",http://www.findalocalvet.com/Profiles/Family-Vet-Care-of-Mesa.aspx
+Arizona Exotic Animal Hospital,(866) 989-5890,"744 N Center St, Mesa, AZ, 85201.",http://www.findalocalvet.com/Profiles/Arizona-Exotic-Animal-Hospital.aspx
+Eastside Animal Hospital,,"430 N Stapley Dr, Mesa, AZ, 85203.",http://www.findalocalvet.com/Profiles/Eastside-Animal-Hospital.aspx
+Warwick Animal Hospital,(405) 722-7717,"12001 N Macarthur Blvd, Oklahoma City, OK, 73162.",http://www.findalocalvet.com/Profiles/Warwick-Animal-Hospital.aspx
+Amber Oaks Veterinary Hospital,,"9209 E Reno Ave, Midwest City, OK, 73130.",http://www.findalocalvet.com/Profiles/Amber-Oaks-Veterinary-Hospital.aspx
+Mac Arthur Boulevard Animal,,"1608 N Macarthur Blvd, Oklahoma City, OK, 73127.",http://www.findalocalvet.com/Profiles/Mac-Arthur-Boulevard-Animal.aspx
+Summit Pointe Vet Clinic,,"9101 S Western Ave # 120, Oklahoma City, OK, 73139.",http://www.findalocalvet.com/Profiles/Summit-Pointe-Vet-Clinic.aspx
+Quail Creek Veterinary Clinic,,"2915 NW 122nd St, Oklahoma City, OK, 73120.",http://www.findalocalvet.com/Profiles/Quail-Creek-Veterinary-Clinic.aspx
+Nichols Hills Veterinary Clnc,,"6920 N Western Ave, Oklahoma City, OK, 73116.",http://www.findalocalvet.com/Profiles/Nichols-Hills-Veterinary-Clnc.aspx
+Britton Road Veterinary Clinic,(405) 751-8007,"2826 West Britton Road, Oklahoma City, OK, 73120.",http://www.findalocalvet.com/Profiles/Britton-Road-Veterinary-Clinic.aspx
+Greenbriar Veterinary Hospital,,"1540 SW 89th St, Oklahoma City, OK, 73159.",http://www.findalocalvet.com/Profiles/Greenbriar-Veterinary-Hospital.aspx
+Post Road Pet Clinic,,"1628 S Post Rd, Oklahoma City, OK, 73130.",http://www.findalocalvet.com/Profiles/Post-Road-Pet-Clinic.aspx
+Nichles Hills,,"6920 N Western Ave, Oklahoma City, OK, 73116.",http://www.findalocalvet.com/Profiles/Nichles-Hills.aspx
+Banfield the Pet Hospital,,"6327 SW 3rd St, Oklahoma City, OK, 73128.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital67.aspx
+Safe Haven Clinic & Pet Lodge,,"1279 N Air Depot Blvd, Oklahoma City, OK, 73110.",http://www.findalocalvet.com/Profiles/Safe-Haven-Clinic-Pet-Lodge.aspx
+North Penn Pet Supply-Grooming,,"12241 N Pennsylvania Ave, Oklahoma City, OK, 73120.",http://www.findalocalvet.com/Profiles/North-Penn-Pet-Supply-Grooming.aspx
+Banfield the Pet Hospital,,"2932 NW 63rd St, Oklahoma City, OK, 73116.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital68.aspx
+Diamond Lake Animal Hospital,,"5754 Nicollet Ave, Minneapolis, MN, 55419.",http://www.findalocalvet.com/Profiles/Diamond-Lake-Animal-Hospital.aspx
+Banfield the Pet Hospital,,"1640 New Brighton Blvd, Minneapolis, MN, 55413.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital21.aspx
+Normandale Veterinary Hospital,,"4000 W 76th St # 200, Minneapolis, MN, 55435.",http://www.findalocalvet.com/Profiles/Normandale-Veterinary-Hospital.aspx
+Banfield the Pet Hospital,,"3589 River Rapids Dr NW, Minneapolis, MN, 55448.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital22.aspx
+Coon Rapids Pet Hospital PA,,"2032 Coon Rapids Blvd NW, Coon Rapids, MN, 55433.",http://www.findalocalvet.com/Profiles/Coon-Rapids-Pet-Hospital-PA.aspx
+Nokomis Pet Clinic,(612) 767-4546,"2917 E 42nd St, Minneapolis, MN, 55406.",http://www.findalocalvet.com/Profiles/Nokomis-Pet-Clinic.aspx
+Cats Preferred Veterinary Hosp,,"16795 County Road 24 # 4, Plymouth, MN, 55447.",http://www.findalocalvet.com/Profiles/Cats-Preferred-Veterinary-Hosp.aspx
+Family Animal Hospital,(763) 574-0262,"5895 University Ave. NE, Fridley, MN, 55432.",http://www.findalocalvet.com/Profiles/Family-Animal-Hospital.aspx
+Banfield the Pet Hospital,,"1100 W 78th St, Richfield, MN, 55423.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital62.aspx
+Kenwood Pet Clinic,(612) 377-5551,"2107 Penn Avenue South, Minneapolis, MN, 55405.",http://www.findalocalvet.com/Profiles/Kenwood-Pet-Clinic.aspx
+Bark Avenue Animal Hospital,(480) 807-5524,"3109 E Mckellips Rd, #102, Mesa, AZ, 85213.",http://www.findalocalvet.com/Profiles/Bark-Avenue-Animal-Hospital.aspx
+Pandora's Box Veterinary Clnc,,"7137 France Ave N, Minneapolis, MN, 55429.",http://www.findalocalvet.com/Profiles/Pandoras-Box-Veterinary-Clnc.aspx
+Companion Veterinary Hospital,,"625 County Road 10 NE, Blaine, MN, 55434.",http://www.findalocalvet.com/Profiles/Companion-Veterinary-Hospital.aspx
+Golden Valley Animal Hospital,(763) 546-2323,"4708 Highway 55, Golden Valley, MN, 55422.",http://www.findalocalvet.com/Profiles/Golden-Valley-Animal-Hospital.aspx
+Oklahoma City Equine Clinic,,"400 NE 70th St, Oklahoma City, OK, 73105.",http://www.findalocalvet.com/Profiles/Oklahoma-City-Equine-Clinic.aspx
+Brookview Animal Hospital PA,,"651 Winnetka Ave N # Ll, Minneapolis, MN, 55427.",http://www.findalocalvet.com/Profiles/Brookview-Animal-Hospital-PA.aspx
+Oak Knoll Animal Hospital,,"7202 Minnetonka Blvd, St Louis Park, MN, 55426.",http://www.findalocalvet.com/Profiles/Oak-Knoll-Animal-Hospital.aspx
+Rockford Road Animal Hospital,(763) 559-8903,"3900 Vinewood Ln N, Minneapolis, MN, 55441.",http://www.findalocalvet.com/Profiles/Rockford-Road-Animal-Hospital.aspx
+Companion Animal Eye Ctr,,"4708 Olson Memorial Hwy, Minneapolis, MN, 55422.",http://www.findalocalvet.com/Profiles/Companion-Animal-Eye-Ctr.aspx
+Chenoweth Animal Hospital,(502) 893-5533,"3624 Frankfort Ave, Louisville, KY, 40207.",http://www.findalocalvet.com/Profiles/Chenoweth-Animal-Hospital.aspx
+"Cheri's Critter Care, LLC",(502) 526-7387,"12123 Shelbyville Rd, Louisville, KY, 40243.",http://www.findalocalvet.com/Profiles/Cheris-Critter-Care-LLC.aspx
+House Calls for House Pets,,"156 Chenoweth Ln, St Matthews, KY, 40207.",http://www.findalocalvet.com/Profiles/House-Calls-for-House-Pets.aspx
+Animal Emergency Ctr,,"3321 Red Roof Inn Pl, Louisville, KY, 40218.",http://www.findalocalvet.com/Profiles/Animal-Emergency-Ctr.aspx
+Brooklyn Pet Hospital,,"4902 France Ave N # A, Minneapolis, MN, 55429.",http://www.findalocalvet.com/Profiles/Brooklyn-Pet-Hospital.aspx
+VETERINARY ASSOCIATES STONEFIELD,(502) 245-7863,"203 Moser Road, Louisville, KY, 40223.",http://www.findalocalvet.com/Profiles/VETERINARY-ASSOCIATES-STONEFIELD.aspx
+KIH Vet Ctr,,"1347 S 3rd St, Louisville, KY, 40208.",http://www.findalocalvet.com/Profiles/KIH-Vet-Ctr.aspx
+Fegenbush Lane Animal Clinic,,"7816 Outer Loop, Louisville, KY, 40228.",http://www.findalocalvet.com/Profiles/Fegenbush-Lane-Animal-Clinic.aspx
+Seneca Animal Hospital,,"2706 Taylorsville Rd, Louisville, KY, 40205.",http://www.findalocalvet.com/Profiles/Seneca-Animal-Hospital2.aspx
+Breckenridge Animal Hospital,,"3451 Breckenridge Ln, Louisville, KY, 40220.",http://www.findalocalvet.com/Profiles/Breckenridge-Animal-Hospital.aspx
+Iroquois Animal Clinic,,"5017 S 3rd St, Louisville, KY, 40214.",http://www.findalocalvet.com/Profiles/Iroquois-Animal-Clinic.aspx
+Goose Creek Animal Clinic,,"9406 Blossom Ln, Louisville, KY, 40241.",http://www.findalocalvet.com/Profiles/Goose-Creek-Animal-Clinic.aspx
+Cat Clinic of Louisville,,"627 Baxter Ave, Louisville, KY, 40204.",http://www.findalocalvet.com/Profiles/Cat-Clinic-of-Louisville.aspx
+Auburndale Animal Hospital,,"7136 Southside Dr, Louisville, KY, 40214.",http://www.findalocalvet.com/Profiles/Auburndale-Animal-Hospital.aspx
+Jefferson Animal Hospital,,"2404 Bardstown Rd, Louisville, KY, 40205.",http://www.findalocalvet.com/Profiles/Jefferson-Animal-Hospital2.aspx
+Taylorsville Road Animal Hosp,,"2804 Patti Ln, Jeffersontown, KY, 40299.",http://www.findalocalvet.com/Profiles/Taylorsville-Road-Animal-Hosp.aspx
+Davis Animal Clinic,,"8526 Preston Hwy, Okolona, KY, 40219.",http://www.findalocalvet.com/Profiles/Davis-Animal-Clinic.aspx
+Hefner Road Animal Hospital,(405) 773-5557,"7124 W Hefner Rd, Oklahoma City, OK, 73162.",http://www.findalocalvet.com/Profiles/Hefner-Road-Animal-Hospital.aspx
+Eastpoint Veterinary Clinic,(502) 253-1151,"13300 Magisterial Drive, Louisville, KY, 40223.",http://www.findalocalvet.com/Profiles/Eastpoint-Veterinary-Clinic.aspx
+Best Friends Animal Hospital,,"8094 Morgan Cir S, Minneapolis, MN, 55431.",http://www.findalocalvet.com/Profiles/Best-Friends-Animal-Hospital.aspx
+Dixie Animal Hospital,,"9428 Dixie Hwy, Valley Station, KY, 40272.",http://www.findalocalvet.com/Profiles/Dixie-Animal-Hospital.aspx
+Anchorage Animal Hospital,,"12317 Old Lagrange Rd, Louisville, KY, 40245.",http://www.findalocalvet.com/Profiles/Anchorage-Animal-Hospital.aspx
+Stonefield Veterinary Assoc,,"203 Moser Rd, Louisville, KY, 40223.",http://www.findalocalvet.com/Profiles/Stonefield-Veterinary-Assoc.aspx
+Uptown Animal Hospital,(562) 424-8541,"3350 Atlantic Avenue, Long Beach  , CA, 90807.",http://www.findalocalvet.com/Profiles/Uptown-Animal-Hospital.aspx
+Mar Vista Animal Medical Center,(310) 391-6741,"3850 Grand View Blvd, Los Angeles, CA, 90066.",http://www.findalocalvet.com/Profiles/Mar-Vista-Animal-Medical-Center.aspx
+Blaine Area Pet Hospital Pa,(763) 392-4899,"11844 Aberdeen St Ne, Blaine, MN, 55449.",http://www.findalocalvet.com/Profiles/Blaine-Area-Pet-Hospital-Pa.aspx
+North Figueroa Animal Hospital,(323) 258-8068,"5550 N Figueroa St, Los Angeles, CA, 90042.",http://www.findalocalvet.com/Profiles/North-Figueroa-Animal-Hospital.aspx
+Pasternak Veterinary Center,(310) 268-2275,"2038 S Sepulveda Blvd, West Los Angeles, CA, 90025.",http://www.findalocalvet.com/Profiles/Pasternak-Veterinary-Center.aspx
+Animal Specialty Group Incorporated,(818) 244-7977,"4641 Colorado Blvd, Los Angeles, CA, 90041.",http://www.findalocalvet.com/Profiles/Animal-Specialty-Group-Incorporated.aspx
+VCA Petville Animal Hospital,,"12108 Venice Blvd, Los Angeles, CA, 90066.",http://www.findalocalvet.com/Profiles/VCA-Petville-Animal-Hospital.aspx
+Lyndon Animal Clinic,,"1000 Lyndon Ln, Louisville, KY, 40222.",http://www.findalocalvet.com/Profiles/Lyndon-Animal-Clinic.aspx
+Rancho Park Veterinary Clinic,(310) 474-3398,"10585 W. Pico Blv, West Los Angeles, CA, 90064.",http://www.findalocalvet.com/Profiles/Rancho-Park-Veterinary-Clinic.aspx
+Pico Blvd Pet Hospital,(310) 271-6186,"8679 West Pico Blvd, Los Angeles, CA, 90035.",http://www.findalocalvet.com/Profiles/Pico-Blvd-Pet-Hospital.aspx
+Stony Brook Animal Hospital,,"4600 Taylorsville Rd, Louisville, KY, 40220.",http://www.findalocalvet.com/Profiles/Stony-Brook-Animal-Hospital.aspx
+Overland Veterinary Clinic,(310) 559-2424,"3465 Overland Ave, Los Angeles, CA, 90034.",http://www.findalocalvet.com/Profiles/Overland-Veterinary-Clinic.aspx
+McGehee Clinic for Animals,(901) 682-5684,"712 Mount Moriah Road, Memphis, TN, 38117.",http://www.findalocalvet.com/Profiles/McGehee-Clinic-for-Animals.aspx
+Hollywood Cat & Dog Animal,,"1146 N La Brea Ave, West Hollywood, CA, 90038.",http://www.findalocalvet.com/Profiles/Hollywood-Cat-Dog-Animal.aspx
+Center Sinai Animal Hospital,(310) 559-3770,"10737 Venice Blvd, Los Angeles, CA, 90034.",http://www.findalocalvet.com/Profiles/Center-Sinai-Animal-Hospital.aspx
+Melrose La Brea Animal Hospital,(323) 937-5120,"7116 Melrose Avenue, Los Angeles, CA, 90046.",http://www.findalocalvet.com/Profiles/Melrose-La-Brea-Animal-Hospital.aspx
+Utopia Animal Hospital,(901) 746-8758,"1157 Madison Avenue, Memphis, TN, 38104.",http://www.findalocalvet.com/Profiles/Utopia-Animal-Hospital.aspx
+Pet Care Professionals,(901) 324-0202,"2651 Union Avenue Extended, Memphis, TN, 38112.",http://www.findalocalvet.com/Profiles/Pet-Care-Professionals.aspx
+Memphis Animal Clinic,(901) 272-7411,"733 E Parkway S, Memphis, TN, 38104.",http://www.findalocalvet.com/Profiles/Memphis-Animal-Clinic.aspx
+Parkway Village Companion Animal Hospital,(901) 363-4077,"3855 S Perkins Rd, Memphis, TN, 38118.",http://www.findalocalvet.com/Profiles/Parkway-Village-Companion-Animal-Hospital.aspx
+Petvax Complete Care Ctr,,"6963 US Highway 70, Bartlett, TN, 38133.",http://www.findalocalvet.com/Profiles/Petvax-Complete-Care-Ctr.aspx
+Angel Care Cancer Clinic-Anmls,,"6923 Stage Rd, Bartlett, TN, 38133.",http://www.findalocalvet.com/Profiles/Angel-Care-Cancer-Clinic-Anmls.aspx
+Animal Emergency Ctr Pc,,"3767 Summer Ave, Memphis, TN, 38122.",http://www.findalocalvet.com/Profiles/Animal-Emergency-Ctr-Pc.aspx
+Family Veterinary Practice,,"5712 Stage Rd, Bartlett, TN, 38134.",http://www.findalocalvet.com/Profiles/Family-Veterinary-Practice2.aspx
+Downtown Animal Hospital,,"347 N 3rd St, Memphis, TN, 38105.",http://www.findalocalvet.com/Profiles/Downtown-Animal-Hospital.aspx
+Yale Road Animal Hospital,,"4418 Yale Rd, Memphis, TN, 38128.",http://www.findalocalvet.com/Profiles/Yale-Road-Animal-Hospital.aspx
+Southwind Animal Hospital,,"7910 Winchester Rd, Memphis, TN, 38125.",http://www.findalocalvet.com/Profiles/Southwind-Animal-Hospital.aspx
+Raines Road Animal Hospital,(901) 396-7641,"1127 E Raines Rd, Memphis, TN, 38116.",http://www.findalocalvet.com/Profiles/Raines-Road-Animal-Hospital.aspx
+Mobilevet Memphis,(901) 569-3683,"PO Box 240543, Memphis, TN, 38124.",http://www.findalocalvet.com/Profiles/Mobilevet-Memphis.aspx
+Avian & Exotic Medical Prctce,,"1010 S Yates Rd, Memphis, TN, 38119.",http://www.findalocalvet.com/Profiles/Avian-Exotic-Medical-Prctce.aspx
+Aventura Animal Hospital,(305) 933-3647,"19101 Biscayne Blvd, Miami, FL, 33180.",http://www.findalocalvet.com/Profiles/Aventura-Animal-Hospital.aspx
+Animal Health & Rehabilitation Center,(305) 665-3526,"7535 SW 62nd Ave, South Miami, FL, 33143.",http://www.findalocalvet.com/Profiles/Animal-Health-Rehabilitation-Center.aspx
+Miami Veterinary Internists,,"6394 S Dixie Hwy, South Miami, FL, 33143.",http://www.findalocalvet.com/Profiles/Miami-Veterinary-Internists.aspx
+Germanwood Animal Hospital,,"7245 Winchester Rd, Memphis, TN, 38125.",http://www.findalocalvet.com/Profiles/Germanwood-Animal-Hospital.aspx
+Aec Animal Emergency Clinic,(305) 251-2096,"8429 Sw 132nd St, Miami, FL, 33156.",http://www.findalocalvet.com/Profiles/Aec-Animal-Emergency-Clinic.aspx
+Miami Animal Hospital,(305) 443-4777,"4701 West Flagler Street, Miami, FL, 33134.",http://www.findalocalvet.com/Profiles/Miami-Animal-Hospital.aspx
+Sky Lake Animal Hospital,(305) 931-2113,"2645 Miami Gardens Drive, Miami, FL, 33180.",http://www.findalocalvet.com/Profiles/Sky-Lake-Animal-Hospital.aspx
+Silver BLUFF Animal Clinic,(305) 859-7979,"2515 SW 27th Ave, Miami, FL, 33133.",http://www.findalocalvet.com/Profiles/Silver-BLUFF-Animal-Clinic.aspx
+Country Walk Veterinary Ctr,,"14421 Country Walk Dr, Miami, FL, 33186.",http://www.findalocalvet.com/Profiles/Country-Walk-Veterinary-Ctr.aspx
+Katarina Boros DVM,,"1900 Sans Souci Blvd # 403, North Miami, FL, 33181.",http://www.findalocalvet.com/Profiles/Katarina-Boros-DVM.aspx
+Parkway Village Companion Anml,,"3855 S Perkins Rd, Memphis, TN, 38118.",http://www.findalocalvet.com/Profiles/Parkway-Village-Companion-Anml.aspx
+Brooks Road Animal Hospital,(901) 332-4550,"860 E Brooks Road, Memphis, TN, 38116.",http://www.findalocalvet.com/Profiles/Brooks-Road-Animal-Hospital.aspx
+Arch Creek Animal Clinic,,"15090 Biscayne Blvd, North Miami, FL, 33181.",http://www.findalocalvet.com/Profiles/Arch-Creek-Animal-Clinic.aspx
+Tropical Park Animal Hospital,,"2330 Ludlam Rd, Miami, FL, 33155.",http://www.findalocalvet.com/Profiles/Tropical-Park-Animal-Hospital.aspx
+Dream Lake Animal Hospital,(305) 225-3116,"14525 SW 42nd Street, Miami, FL, 33175.",http://www.findalocalvet.com/Profiles/Dream-Lake-Animal-Hospital.aspx
+Pinecrest Veterinary Hospital,(305) 278-1300,"12521 S Dixie Highway, Pinecrest, FL, 33156.",http://www.findalocalvet.com/Profiles/Pinecrest-Veterinary-Hospital.aspx
+Vet Home Express,(954) 243-0269,"20533 Biscayne Blvd., Aventura, FL, 33180.",http://www.findalocalvet.com/Profiles/Vet-Home-Express.aspx
+Siegel TLC Animal Clinic,(305) 891-5116,"12870 Biscayne Blvd, North Miami, FL, 33181.",http://www.findalocalvet.com/Profiles/Siegel-TLC-Animal-Clinic.aspx
+South Miami Animal Clinic,(305) 667-7238,"6100 S Dixie Hwy, South Miami, FL, 33143.",http://www.findalocalvet.com/Profiles/South-Miami-Animal-Clinic.aspx
+Eureka Animal Clinic,(305) 253-6754,"11326 SW 184th St, Miami, FL, 33157.",http://www.findalocalvet.com/Profiles/Eureka-Animal-Clinic.aspx
+Coconut Grove Animal Clinic,(305) 448-2123,"3200 Grand Ave, Miami, FL, 33133.",http://www.findalocalvet.com/Profiles/Coconut-Grove-Animal-Clinic.aspx
+Pet Emergency Room,(305) 666-4142,"6394 S Dixie Hwy, South Miami, FL, 33143.",http://www.findalocalvet.com/Profiles/Pet-Emergency-Room.aspx
+Pet Care Clinic of Doral,(305) 477-7387,"9851 NW 58th St, No. 111, Doral, FL, 33178.",http://www.findalocalvet.com/Profiles/Pet-Care-Clinic-of-Doral.aspx
+Banfield the Pet Hospital,,"8241 W Flagler St # B, Miami, FL, 33144.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital50.aspx
+Avian & Exotic Animal Medical Center,(305) 234-2473,"12125 S Dixie Hwy, Miami, FL, 33156.",http://www.findalocalvet.com/Profiles/Avian-Exotic-Animal-Medical-Center.aspx
+State Street Dog & Cat Hosp,,"4634 W State St, Milwaukee, WI, 53208.",http://www.findalocalvet.com/Profiles/State-Street-Dog-Cat-Hosp.aspx
+St Paul Veterinary Clinic,,"431 N 27th St, Milwaukee, WI, 53208.",http://www.findalocalvet.com/Profiles/St-Paul-Veterinary-Clinic2.aspx
+Pahle Small Animal Clinic,,"10827 W Oklahoma Ave, Milwaukee, WI, 53227.",http://www.findalocalvet.com/Profiles/Pahle-Small-Animal-Clinic.aspx
+Brickell Animal Hospital,(305) 933-5581,"130 Sw 8th St, Miami, FL, 33130.",http://www.findalocalvet.com/Profiles/Brickell-Animal-Hospital.aspx
+"Murphy Road Animal Hospital, P.C.",(615) 383-4241,"4408 Murphy Road , Nashville, TN, 37209.",http://www.findalocalvet.com/Profiles/Murphy-Road-Animal-Hospital-P-C-.aspx
+Animal Care Hospital,,"10001 W Lisbon Ave, Milwaukee, WI, 53222.",http://www.findalocalvet.com/Profiles/Animal-Care-Hospital.aspx
+Donelson Animal Hospital,,"2518 Lebanon Pike, Nashville, TN, 37214.",http://www.findalocalvet.com/Profiles/Donelson-Animal-Hospital.aspx
+Animal Allergy & Dermatology,,"5837 Nolensville Pike, Nashville, TN, 37211.",http://www.findalocalvet.com/Profiles/Animal-Allergy-Dermatology2.aspx
+Belle Meade Animal Hospital,,"5121 Harding Pike, Nashville, TN, 37205.",http://www.findalocalvet.com/Profiles/Belle-Meade-Animal-Hospital.aspx
+Doral Center Animal Clinic of Miami,(305) 598-1234,"9400 NW 58th Street, Doral, FL, 33178.",http://www.findalocalvet.com/Profiles/Doral-Center-Animal-Clinic-of-Miami.aspx
+Prytania Veterinary Hospital,(504) 899-2828,"4907 Prytania St, New Orleans, LA, 70115.",http://www.findalocalvet.com/Profiles/Prytania-Veterinary-Hospital.aspx
+Advanced Animal Hospital,(414) 817-1200,"3374 W Loomis Rd, Greenfield, WI, 53221.",http://www.findalocalvet.com/Profiles/Advanced-Animal-Hospital2.aspx
+Eye Center for Animals Inc,,"524 Moss St, New Orleans, LA, 70119.",http://www.findalocalvet.com/Profiles/Eye-Center-for-Animals-Inc.aspx
+Bellevue Animal Hospital,,"7098 Old Harding Rd, Nashville, TN, 37221.",http://www.findalocalvet.com/Profiles/Bellevue-Animal-Hospital.aspx
+Garden District Pet Hospital,(504) 891-8618,"1116 Louisiana Ave, New Orleans, LA, 70115.",http://www.findalocalvet.com/Profiles/Garden-District-Pet-Hospital.aspx
+Barca & Assoc,,"1125 General Ogden St, New Orleans, LA, 70118.",http://www.findalocalvet.com/Profiles/Barca-Assoc.aspx
+Audubon Veterinary Hospital,,"731 Nashville Ave, New Orleans, LA, 70115.",http://www.findalocalvet.com/Profiles/Audubon-Veterinary-Hospital.aspx
+Canal Street Veterinary Hospital,(504) 200-2784,"4022 Canal St, New Orleans, LA, 70119.",http://www.findalocalvet.com/Profiles/Canal-Street-Veterinary-Hospital.aspx
+Abadie Veterinary Hospital,,"8271 Jefferson Hwy, Harahan, LA, 70123.",http://www.findalocalvet.com/Profiles/Abadie-Veterinary-Hospital.aspx
+City Pet Doctor,(917) 439-2097,"95 Horatio St, New York, NY, 10014.",http://www.findalocalvet.com/Profiles/City-Pet-Doctor.aspx
+Magazine Street Animal Clinic,,"3458 Magazine St, New Orleans, LA, 70115.",http://www.findalocalvet.com/Profiles/Magazine-Street-Animal-Clinic.aspx
+Noah's Ark,,"5712 Stage Rd, Memphis, TN, 38134.",http://www.findalocalvet.com/Profiles/Noahs-Ark.aspx
+Heart of Chelsea Animal Hospital,(212) 924-6116,"257 West 18th Street  , New York  , NY, 10011.",http://www.findalocalvet.com/Profiles/Heart-of-Chelsea-Animal-Hospital.aspx
+The Village Veterinarian,(212) 979-9870,"514 E 6th St, Frnt 1, New York, NY, 10009.",http://www.findalocalvet.com/Profiles/The-Village-Veterinarian.aspx
+Symphony Vet Center,(212) 866-8000,"698 Amsterdam Ave, New York, NY, 10025.",http://www.findalocalvet.com/Profiles/Symphony-Vet-Center.aspx
+West Village Veterinary Hospital,(212) 633-7400,"75 8th Ave, New York, NY, 10014.",http://www.findalocalvet.com/Profiles/West-Village-Veterinary-Hospital.aspx
+Carrollton Veterinary Hospital,,"3501 S Carrollton Ave, New Orleans, LA, 70118.",http://www.findalocalvet.com/Profiles/Carrollton-Veterinary-Hospital.aspx
+145th St Animal Hospital,(212) 234-3489,"454 W 145th St, New York, NY, 10031.",http://www.findalocalvet.com/Profiles/145th-St-Animal-Hospital.aspx
+Veterinary House Calls,(212) 838-2569,"349 E 49th St, New York, NY, 10017.",http://www.findalocalvet.com/Profiles/Veterinary-House-Calls.aspx
+Murray Hill Pet Hospital,(212) 685-2857,"47 E 30th St  , New York  , NY, 10016.",http://www.findalocalvet.com/Profiles/Murray-Hill-Pet-Hospital.aspx
+ASPCA Bergh Meml Animal,,"424 E 92nd St # 3, New York, NY, 10128.",http://www.findalocalvet.com/Profiles/ASPCA-Bergh-Meml-Animal.aspx
+City Veterinary Care,(212) 799-7000,"220 W 72nd St, #1, New York, NY, 10023.",http://www.findalocalvet.com/Profiles/City-Veterinary-Care.aspx
+145th Street Animal Hospital,,"454 W 145th St, New York, NY, 10031.",http://www.findalocalvet.com/Profiles/145th-Street-Animal-Hospital.aspx
+Feline Health,(212) 879-0700,"1533 1st Avenue, 81st  , New York  , NY, 10028.",http://www.findalocalvet.com/Profiles/Feline-Health.aspx
+Reade Street Animal Hospital,(212) 274-1700,"146 Reade St  , New York  , NY, 10013.",http://www.findalocalvet.com/Profiles/Reade-Street-Animal-Hospital.aspx
+Lakeview Veterinary Hospital,(504) 482-2173,"6245 Memphis Street, New Orleans, LA, 70124.",http://www.findalocalvet.com/Profiles/Lakeview-Veterinary-Hospital.aspx
+Best Pet Rx,(800) 390-2779,"1751 2nd Ave  , New York  , NY, 10128.",http://www.findalocalvet.com/Profiles/Best-Pet-Rx.aspx
+East Village Veterinarian,,"241 Eldridge St # A, New York, NY, 10002.",http://www.findalocalvet.com/Profiles/East-Village-Veterinarian.aspx
+Washington Heights Animal Hosp,,"2414 Amsterdam Ave, New York, NY, 10033.",http://www.findalocalvet.com/Profiles/Washington-Heights-Animal-Hosp.aspx
+Vet Med Impex,,"47 E 30th St, New York, NY, 10016.",http://www.findalocalvet.com/Profiles/Vet-Med-Impex.aspx
+Tribeca Soho Animal Hospital,(212) 925-6100,"5 Lispenard Street, New York, NY, 10013.",http://www.findalocalvet.com/Profiles/Tribeca-Soho-Animal-Hospital.aspx
+Animal General,,"140 W 67th St, New York, NY, 10023.",http://www.findalocalvet.com/Profiles/Animal-General.aspx
+Broadway Pet Hospital,(510) 653-0212,"4920 Broadway, Oakland, CA, 94611.",http://www.findalocalvet.com/Profiles/Broadway-Pet-Hospital.aspx
+Claremont Veterinary Hospital,,"5331 College Ave, Oakland, CA, 94618.",http://www.findalocalvet.com/Profiles/Claremont-Veterinary-Hospital.aspx
+East Side Animal Hospital,,"321 E 52nd St # A, New York, NY, 10022.",http://www.findalocalvet.com/Profiles/East-Side-Animal-Hospital.aspx
+Westside Veterinary Center,(212) 580-1800,"220 West 83rd Street  , New York  , NY, 10024.",http://www.findalocalvet.com/Profiles/Westside-Veterinary-Center.aspx
+St Marks Veterinary Hospital,,"348 E 9th St, New York, NY, 10003.",http://www.findalocalvet.com/Profiles/St-Marks-Veterinary-Hospital.aspx
+All Seasons Mobile Vet Clinic,(510) 430-0366,"2221 103rd Ave, Oakland, CA, 94603.",http://www.findalocalvet.com/Profiles/All-Seasons-Mobile-Vet-Clinic.aspx
+Shoal Creek Animal Hospital,(816) 476-4046,"8850 Ne Flintlock Rd, Kansas City, MO, 64157.",http://www.findalocalvet.com/Profiles/Shoal-Creek-Animal-Hospital.aspx
+Gladstone Animal Clinic,(816) 436-1100,"7027 N. Oak Trafficway, Kansas City, MO, 64118.",http://www.findalocalvet.com/Profiles/Gladstone-Animal-Clinic.aspx
+Animal Clinic of Platte County,(816) 741-8338,"10123 Nw Highway 45, Kansas City, MO, 64152.",http://www.findalocalvet.com/Profiles/Animal-Clinic-of-Platte-County.aspx
+Hawaii Veterinary Medical Association,(808) 733-8828,"P.O. Box 61309, Honolulu, HI, 96839.",http://www.findalocalvet.com/Profiles/Hawaii-Veterinary-Medical-Association.aspx
+Island Veterinary Care,,"830 Coolidge St # 1, Honolulu, HI, 96826.",http://www.findalocalvet.com/Profiles/Island-Veterinary-Care.aspx
+Abby Pet Hospital,(559) 442-1127,"4508 E Ashlan Ave, Fresno, CA, 93726.",http://www.findalocalvet.com/Profiles/Abby-Pet-Hospital.aspx
+Ridglea West Animal Hospital,(817) 839-7058,"4404 Southwest Blvd, Fort Worth, TX, 76116.",http://www.findalocalvet.com/Profiles/Ridglea-West-Animal-Hospital.aspx
+Imperial Point Animal Hospital,(954) 771-0156,"1574 E Commercial Blvd, Fort Lauderdale, FL, 33334.",http://www.findalocalvet.com/Profiles/Imperial-Point-Animal-Hospital.aspx
+Evans East Animal Hospital,(303) 626-2085,"5353 E Evans Avenue, Denver, CO, 80222.",http://www.findalocalvet.com/Profiles/Evans-East-Animal-Hospital.aspx
+Overland Animal Hospital & Pet Resort,(303) 223-9787,"2658 W Florida Avenue, Denver, CO, 80219.",http://www.findalocalvet.com/Profiles/Overland-Animal-Hospital-Pet-Resort.aspx
+Downtown Veterinary Hospital,(313) 832-7282,"3800 Grand River Avenue, Detroit, MI, 48208.",http://www.findalocalvet.com/Profiles/Downtown-Veterinary-Hospital.aspx
+Rosedale Veterinary Housecalls,,"16595 Glastonbury Rd, Detroit, MI, 48219.",http://www.findalocalvet.com/Profiles/Rosedale-Veterinary-Housecalls.aspx
+Spay Neuter Your Pet,(214) 349-7697,"8521 Ferndale Rd, Dallas, TX, 75238.",http://www.findalocalvet.com/Profiles/Spay-Neuter-Your-Pet.aspx
+Northeast Veterinary Clinic,(915) 755-2231,"9405 Dyer St, El Paso, TX, 79924.",http://www.findalocalvet.com/Profiles/Northeast-Veterinary-Clinic.aspx
+Animal Clinic of Newmark,(816) 734-0700,"550 Ne New Mark Dr, Kansas City, MO, 64155.",http://www.findalocalvet.com/Profiles/Animal-Clinic-of-Newmark.aspx
+Eastwood Animal Clinic,(915) 593-0713,"9509 Montana Ave, El Paso, TX, 79925.",http://www.findalocalvet.com/Profiles/Eastwood-Animal-Clinic.aspx
+Casa Linda Animal Clinic,(214) 328-5445,"11434 Garland Rd, Dallas, TX, 75218.",http://www.findalocalvet.com/Profiles/Casa-Linda-Animal-Clinic.aspx
+North Dallas Veterinary Hospital,(972) 620-9012,"3452 Forest Ln, Ste 100, Dallas, TX, 75229.",http://www.findalocalvet.com/Profiles/North-Dallas-Veterinary-Hospital.aspx
+Frankford Crest Animal Hospital,(972) 398-2111,"6911 Frankford Rd, Ste 600, Dallas, TX, 75252.",http://www.findalocalvet.com/Profiles/Frankford-Crest-Animal-Hospital.aspx
+Animal Emergency & Medical Hospital,(614) 567-1025,"2527 W Dublin Granville Rd, Columbus, OH, 43235.",http://www.findalocalvet.com/Profiles/Animal-Emergency-Medical-Hospital.aspx
+Southport Animal Hospital,(954) 522-2577,"400 SE 29th Street, Fort Lauderdale, FL, 33316.",http://www.findalocalvet.com/Profiles/Southport-Animal-Hospital.aspx
+Ysleta Veterinary Clinic,,"1251 N Zaragoza Rd, El Paso, TX, 79907.",http://www.findalocalvet.com/Profiles/Ysleta-Veterinary-Clinic.aspx
+East Columbus Veterinary Hospital,(614) 444-8639,"855 E Livingston Avenue, Columbus, OH, 43205.",http://www.findalocalvet.com/Profiles/East-Columbus-Veterinary-Hospital.aspx
+Churchman Animal Hospital,,"2228 Churchman Ave, Indianapolis, IN, 46203.",http://www.findalocalvet.com/Profiles/Churchman-Animal-Hospital.aspx
+Winrock Animal Clinic,(713) 785-5551,"6415 San Felipe, Houston, TX, 77057.",http://www.findalocalvet.com/Profiles/Winrock-Animal-Clinic.aspx
+East Lake Veterinary Hospital PC,(214) 342-3100,"10101 E Northwest Hwy, Dallas, TX, 75238.",http://www.findalocalvet.com/Profiles/East-Lake-Veterinary-Hospital-PC.aspx
+North Tollway Pet Hospital,(972) 733-3340,"4727 Frankford Rd, #365, Dallas, TX, 75287.",http://www.findalocalvet.com/Profiles/North-Tollway-Pet-Hospital.aspx
+Telephone Road Dog & Cat Hosp,,"1711 Telephone Rd, Houston, TX, 77023.",http://www.findalocalvet.com/Profiles/Telephone-Road-Dog-Cat-Hosp.aspx
+Beltway Animal Hospital PC,,"5002 E Sam Houston Pkwy N, Houston, TX, 77015.",http://www.findalocalvet.com/Profiles/Beltway-Animal-Hospital-PC.aspx
+Wilcrest Animal Hospital,(713) 781-3770,"704 Wilcrest Dr, Houston, TX, 77042.",http://www.findalocalvet.com/Profiles/Wilcrest-Animal-Hospital.aspx
+Hurley Dog & Cat Hospital,(313) 863-5350,"15018 Livernois Ave, Detroit, MI, 48238.",http://www.findalocalvet.com/Profiles/Hurley-Dog-Cat-Hospital.aspx
+Alief Animal Hospital,(281) 498-6702,"7321 S Kirkwood Road, Houston, TX, 77072.",http://www.findalocalvet.com/Profiles/Alief-Animal-Hospital.aspx
+Banfield the Pet Hospital,,"10500 Katy Fwy, Houston, TX, 77043.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital6.aspx
+Banfield the Pet Hospital,,"2902 S Shepherd Dr, Houston, TX, 77098.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital73.aspx
+Washington Heights Veterinary,,"2324 Shearn St, Houston, TX, 77007.",http://www.findalocalvet.com/Profiles/Washington-Heights-Veterinary.aspx
+Banfield the Pet Hospital,,"10075 Almeda Genoa Rd, Houston, TX, 77075.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital5.aspx
+Champions Forest Animal Clinic,(281) 586-9910,"5211 Fm 1960 Rd W, Ste Z, Houston, TX, 77069.",http://www.findalocalvet.com/Profiles/Champions-Forest-Animal-Clinic.aspx
+Prestonwood Animal Clinic,,"13720 Schroeder Rd, Houston, TX, 77070.",http://www.findalocalvet.com/Profiles/Prestonwood-Animal-Clinic.aspx
+Sunset Boulevard Animal Clinic,(713) 526-5881,"2525 Sunset Blvd, Houston, TX, 77005.",http://www.findalocalvet.com/Profiles/Sunset-Boulevard-Animal-Clinic.aspx
+Gulf Coast Vetry Diagnostic,,"1111 West Loop S # 150, Houston, TX, 77027.",http://www.findalocalvet.com/Profiles/Gulf-Coast-Vetry-Diagnostic.aspx
+Copperfield Animal Clinic,,"15606 Ridge Park Dr, Houston, TX, 77095.",http://www.findalocalvet.com/Profiles/Copperfield-Animal-Clinic.aspx
+Preston Wood Animal Clinic,(281) 890-1960,"13720 Schroeder Road, Houston, TX, 77070.",http://www.findalocalvet.com/Profiles/Preston-Wood-Animal-Clinic.aspx
+Lakeside Animal Clinic,(281) 493-9995,"2501 S Kirkwood Road, Houston, TX, 77077.",http://www.findalocalvet.com/Profiles/Lakeside-Animal-Clinic2.aspx
+Kleinbrook Animal Hospital,(281) 444-8387,"12202 Bammel North Houston Rd, Houston, TX, 77066.",http://www.findalocalvet.com/Profiles/Kleinbrook-Animal-Hospital.aspx
+VCA Ashford Animal Hospital,,"12633 Whittington Dr, Houston, TX, 77077.",http://www.findalocalvet.com/Profiles/VCA-Ashford-Animal-Hospital.aspx
+Neutercorp Animal Populations,,"9695 Southwest Fwy, Houston, TX, 77074.",http://www.findalocalvet.com/Profiles/Neutercorp-Animal-Populations.aspx
+Stella Link Animal Clinic,(713) 666-1771,"9809 Stella Link Rd, Houston, TX, 77025.",http://www.findalocalvet.com/Profiles/Stella-Link-Animal-Clinic.aspx
+Eagle Creek Animal Clinic,(317) 291-5830,"7307 W 38th St, Indianapolis, IN, 46214.",http://www.findalocalvet.com/Profiles/Eagle-Creek-Animal-Clinic.aspx
+Southport Pet Hospital,(317) 786-1483,"6955 Madison Avenue, Indianapolis, IN, 46227.",http://www.findalocalvet.com/Profiles/Southport-Pet-Hospital.aspx
+Avalon Animal Clinic,(317) 842-4618,"8076 North Shadeland Ave, Indianapolis, IN, 46250.",http://www.findalocalvet.com/Profiles/Avalon-Animal-Clinic.aspx
+Indiana Veterinary Medical Association,(317) 974-0888,"201 S. Capitol Avenue, Suite 405, Indianapolis, IN, 46225.",http://www.findalocalvet.com/Profiles/Indiana-Veterinary-Medical-Association.aspx
+Broad Ripple Animal Clinic & Wellness Center,(317) 257-5334,"6225 Broadway St, Indianapolis, IN, 46220.",http://www.findalocalvet.com/Profiles/Broad-Ripple-Animal-Clinic-Wellness-Center.aspx
+Banfield the Pet Hospital,,"5415 West Loop S, Houston, TX, 77081.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital74.aspx
+VCA Shadeland Animal Hosp,,"4445 N Shadeland Ave, Indianapolis, IN, 46226.",http://www.findalocalvet.com/Profiles/VCA-Shadeland-Animal-Hosp.aspx
+FT Harrison Veterinarians,(317) 546-2338,"9160 Otis Ave, Indianapolis, IN, 46216.",http://www.findalocalvet.com/Profiles/FT-Harrison-Veterinarians.aspx
+Geist Station Animal Hospital,,"8150 Oaklandon Rd # 116, Oaklandon, IN, 46236.",http://www.findalocalvet.com/Profiles/Geist-Station-Animal-Hospital.aspx
+South 31 Veterinary Clinic,,"5911 S East St, Indianapolis, IN, 46227.",http://www.findalocalvet.com/Profiles/South-31-Veterinary-Clinic.aspx
+Briarcrest Veterinary Clinic,(713) 789-8320,"1492 Wilcrest Drive, Houston, TX, 77042.",http://www.findalocalvet.com/Profiles/Briarcrest-Veterinary-Clinic.aspx
+Neighborhood Veterinarian,,"2110 E 62nd St, Indianapolis, IN, 46220.",http://www.findalocalvet.com/Profiles/Neighborhood-Veterinarian.aspx
+Lafayette Road Vet Hospital,,"2901 Lafayette Rd, Indianapolis, IN, 46222.",http://www.findalocalvet.com/Profiles/Lafayette-Road-Vet-Hospital.aspx
+Thirtieth Street Animal Hosp,,"8550 E 30th St, Indianapolis, IN, 46219.",http://www.findalocalvet.com/Profiles/Thirtieth-Street-Animal-Hosp.aspx
+Gulf Coast Veterinnary Specs,,"1111 West Loop S # 110, Houston, TX, 77027.",http://www.findalocalvet.com/Profiles/Gulf-Coast-Veterinnary-Specs.aspx
+Indianapolis Veterinary Emergency Center,(317) 782-4418,"5425 Victory Drive, Indianapolis, IN, 46203.",http://www.findalocalvet.com/Profiles/Indianapolis-Veterinary-Emergency-Center.aspx
+Rockville Road Animal Hospital,,"7351 Rockville Rd, Indianapolis, IN, 46214.",http://www.findalocalvet.com/Profiles/Rockville-Road-Animal-Hospital.aspx
+Brookville Road Animal Hosp,,"8049 Brookville Rd, Indianapolis, IN, 46239.",http://www.findalocalvet.com/Profiles/Brookville-Road-Animal-Hosp.aspx
+Shelbyville Road Veterinary,,"5120 Shelbyville Rd, Indianapolis, IN, 46237.",http://www.findalocalvet.com/Profiles/Shelbyville-Road-Veterinary.aspx
+Binford Pet Wellness Clinic,(866) 341-1408,"5868 East 71st Street, Suite P, Indianapolis, IN, 46220.",http://www.findalocalvet.com/Profiles/Binford-Pet-Wellness-Clinic.aspx
+Suburban Animal Clinic,(614) 276-5479,"640 N Wilson Rd, Columbus, OH, 43204.",http://www.findalocalvet.com/Profiles/Suburban-Animal-Clinic.aspx
+Englewood Veterinarians,,"3203 E Washington St, Indianapolis, IN, 46201.",http://www.findalocalvet.com/Profiles/Englewood-Veterinarians.aspx
+Vet Clinic,(614) 885-3878,"5949 N High St, Worthington, OH, 43085.",http://www.findalocalvet.com/Profiles/Vet-Clinic.aspx
+Geckler Veterinary Hospital,,"711 Country Club Rd, Indianapolis, IN, 46234.",http://www.findalocalvet.com/Profiles/Geckler-Veterinary-Hospital.aspx
+Georgesville Road Animal Hospital,(614) 272-0162,"1104 Georgesville Road, Columbus, OH, 43228.",http://www.findalocalvet.com/Profiles/Georgesville-Road-Animal-Hospital.aspx
+Irvington Pet Clinic Inc,,"6738 E Washington St, Indianapolis, IN, 46219.",http://www.findalocalvet.com/Profiles/Irvington-Pet-Clinic-Inc.aspx
+Fifth & Kenny Animal Hospital,,"1109 W 5th Ave, Columbus, OH, 43212.",http://www.findalocalvet.com/Profiles/Fifth-Kenny-Animal-Hospital.aspx
+Animal Medical Ctr,,"8040 E Washington St, Indianapolis, IN, 46219.",http://www.findalocalvet.com/Profiles/Animal-Medical-Ctr17.aspx
+Great Southern Animal Hospital,,"2685 S High St, Columbus, OH, 43207.",http://www.findalocalvet.com/Profiles/Great-Southern-Animal-Hospital.aspx
+Georgesville Road Animal Hosp,,"1104 Georgesville Rd, Columbus, OH, 43228.",http://www.findalocalvet.com/Profiles/Georgesville-Road-Animal-Hosp.aspx
+Animal Care Unlimited,(614) 766-2317,"2665 Billingstey Rd., Colombus, OH, 43235.",http://www.findalocalvet.com/Profiles/Animal-Care-Unlimited.aspx
+Animal Hospital of Worthington,,"5756 N High St, Worthington, OH, 43085.",http://www.findalocalvet.com/Profiles/Animal-Hospital-of-Worthington.aspx
+Capital Veterinary Referral Center,(614) 870-0480,"5230 Renner Road, Columbus, OH, 43228.",http://www.findalocalvet.com/Profiles/Capital-Veterinary-Referral-Center.aspx
+City Pet Incorporated,(214) 252-9973,"2720 Oak Lawn Ave, Dallas, TX, 75219.",http://www.findalocalvet.com/Profiles/City-Pet-Incorporated.aspx
+North West Dallas Animal Clinic,(972) 488-5599,"12801 Midway Rd, Ste 210, Dallas, TX, 75244.",http://www.findalocalvet.com/Profiles/North-West-Dallas-Animal-Clinic.aspx
+Veterinary Referral Center of North Texas,(972) 407-9571,"4444 Trinity Mills Road, Dallas, TX, 75287.",http://www.findalocalvet.com/Profiles/Veterinary-Referral-Center-of-North-Texas.aspx
+Rutherford Veterinary Hospital,(214) 826-4166,"924 S Haskell Avenue, Dallas, TX, 75223.",http://www.findalocalvet.com/Profiles/Rutherford-Veterinary-Hospital.aspx
+Long Drive Dog & Cat Hospital,(713) 643-0633,"7327 Long Dr, Houston, TX, 77087.",http://www.findalocalvet.com/Profiles/Long-Drive-Dog-Cat-Hospital.aspx
+Summertree Animal Clinic,(972) 387-4168,"12300 Inwood Rd, #102, Dallas, TX, 75244.",http://www.findalocalvet.com/Profiles/Summertree-Animal-Clinic.aspx
+Dr. Moomaw's Veterinary Housecall Practice,(214) 339-1766,"2630 Woodmere Drive, Dallas, TX, 75233.",http://www.findalocalvet.com/Profiles/Dr-Moomaws-Veterinary-Housecall-Practice.aspx
+Town & Country Pet Hospital,(972) 788-4321,"5211 Forest Ln, #123, Dallas, TX, 75244.",http://www.findalocalvet.com/Profiles/Town-Country-Pet-Hospital.aspx
+Mc Kinney Animal Clinic,,"11550 Ferguson Rd, Dallas, TX, 75228.",http://www.findalocalvet.com/Profiles/Mc-Kinney-Animal-Clinic.aspx
+Valley View Pet Health Center,(972) 247-2242,"2561 Valley View Lane, Farmers Branch, TX, 75234.",http://www.findalocalvet.com/Profiles/Valley-View-Pet-Health-Center.aspx
+Prestonwood Pet Clinic,,"5242 Meadowcreek Dr # 110, Dallas, TX, 75248.",http://www.findalocalvet.com/Profiles/Prestonwood-Pet-Clinic.aspx
+The Vet Clinic East,(614) 837-3008,"5101 Chatterton Rd, Columbus, OH, 43232.",http://www.findalocalvet.com/Profiles/The-Vet-Clinic-East.aspx
+Overland Animal Hospital & Pet,,"2658 W Florida Ave, Denver, CO, 80219.",http://www.findalocalvet.com/Profiles/Overland-Animal-Hospital-Pet.aspx
+Bent Tree Animal Hospital,,"3851 Frankford Rd, Dallas, TX, 75287.",http://www.findalocalvet.com/Profiles/Bent-Tree-Animal-Hospital.aspx
+Eye Specialists for Animals,,"4175 E Iliff Ave, Denver, CO, 80222.",http://www.findalocalvet.com/Profiles/Eye-Specialists-for-Animals.aspx
+Morse Road Veterinary Clinic,(614) 885-8070,"1388 Morse Rd, Columbus, OH, 43229.",http://www.findalocalvet.com/Profiles/Morse-Road-Veterinary-Clinic.aspx
+Animal Health Care Specialists,(303) 288-6800,"6701 Washington Street, Denver, CO, 80229.",http://www.findalocalvet.com/Profiles/Animal-Health-Care-Specialists.aspx
+Animal Critical Care,,"1597 Wadsworth Blvd, Lakewood, CO, 80214.",http://www.findalocalvet.com/Profiles/Animal-Critical-Care.aspx
+Holistic Care for Animals,(303) 421-5424,"4355 Gray Street, Wheat Ridge, CO, 80212.",http://www.findalocalvet.com/Profiles/Holistic-Care-for-Animals.aspx
+Mile Hi Mobile Veterinary Svc,,"PO Box 460203, Denver, CO, 80246.",http://www.findalocalvet.com/Profiles/Mile-Hi-Mobile-Veterinary-Svc.aspx
+Urban Veterinary Care,,"2899 N Speer Blvd # 104, Denver, CO, 80211.",http://www.findalocalvet.com/Profiles/Urban-Veterinary-Care.aspx
+Animal Clinic-North,,"828 E 120th Ave, Northglenn, CO, 80233.",http://www.findalocalvet.com/Profiles/Animal-Clinic-North.aspx
+Washington Park Veterinary,(303) 871-8050,"393 S Pearl St, Denver, CO, 80209.",http://www.findalocalvet.com/Profiles/Washington-Park-Veterinary.aspx
+Acupunture & Natural Medicine for Pets,(954) 731-2000,"680 Tennis Club Dr, Fort Lauderdale, FL, 33311.",http://www.findalocalvet.com/Profiles/Acupunture-Natural-Medicine-for-Pets.aspx
+Gillett Veterinary Clinic,(303) 469-5540,"2721 W 120th Avenue, Suite A-100, Westminster, CO, 80234.",http://www.findalocalvet.com/Profiles/Gillett-Veterinary-Clinic.aspx
+29th Ave Animal Hospital,,"7305 E 29th Ave, Denver, CO, 80238.",http://www.findalocalvet.com/Profiles/29th-Ave-Animal-Hospital.aspx
+Dr. Boaz Man Veterinarian,(561) 289-1424,"2650 Ne 57th St, Fort Lauderdale, FL, 33308.",http://www.findalocalvet.com/Profiles/Dr-Boaz-Man-Veterinarian.aspx
+Doctor Dan's Animal Clinic,(954) 680-5777,"4821 SW 148th Avenue, Davie, FL, 33330.",http://www.findalocalvet.com/Profiles/Doctor-Dans-Animal-Clinic.aspx
+Indian Trace Animal Hospitals,(954) 384-7147,"1420 N Park Drive, Weston, FL, 33326.",http://www.findalocalvet.com/Profiles/Indian-Trace-Animal-Hospitals.aspx
+Extra Care Animal Hospital,(954) 370-0203,"950 S Flamingo Rd, Davie, FL, 33325.",http://www.findalocalvet.com/Profiles/Extra-Care-Animal-Hospital.aspx
+Davie Veterinary Clinic,(954) 581-4971,"6511 SE 45th Street, Davie, FL, 33314.",http://www.findalocalvet.com/Profiles/Davie-Veterinary-Clinic.aspx
+Hometown Animal Hospital & All Pets Dental,(954) 734-6368,"17100 Royal Palm Blvd, Weston, FL, 33331.",http://www.findalocalvet.com/Profiles/Hometown-Animal-Hospital-All-Pets-Dental.aspx
+Seiler Animal Hospital,(954) 491-1222,"2650 NE 57th St, Fort Lauderdale, FL, 33308.",http://www.findalocalvet.com/Profiles/Seiler-Animal-Hospital.aspx
+Tender Touch Animal Hospital,(303) 733-2728,"350 Kalamath St, Denver, CO, 80223.",http://www.findalocalvet.com/Profiles/Tender-Touch-Animal-Hospital.aspx
+Arbor Pet Hospital,(954) 565-1896,"1220 Ne 26th St, Fort Lauderdale, FL, 33305.",http://www.findalocalvet.com/Profiles/Arbor-Pet-Hospital.aspx
+AMC Animal Hospital,(941) 741-2776,"6840 W Commercial Blvd, #Lauderhill, Fort Lauderdale, FL, 33319.",http://www.findalocalvet.com/Profiles/AMC-Animal-Hospital.aspx
+Heroes Spay & Neuter Clinic,,"5040 NE 13th Ave, Oakland Park, FL, 33334.",http://www.findalocalvet.com/Profiles/Heroes-Spay-Neuter-Clinic.aspx
+Animal Hospital of SW Ft Worth,(817) 292-8655,"6716 S Hulen St, Fort Worth, TX, 76133.",http://www.findalocalvet.com/Profiles/Animal-Hospital-of-SW-Ft-Worth.aspx
+Shank Animal Hospital,(954) 564-1263,"3225 N Andrews Ave, Fort Lauderdale, FL, 33311.",http://www.findalocalvet.com/Profiles/Shank-Animal-Hospital.aspx
+Banfield the Pet Hospital,,"10600 Melody Dr, Northglenn, CO, 80234.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital75.aspx
+Weston Road Animal Hospital,(954) 389-5656,"4585 Weston Road, Weston, FL, 33331.",http://www.findalocalvet.com/Profiles/Weston-Road-Animal-Hospital.aspx
+A-Animal Clinic & Boarding,(817) 731-1494,"4990 W Vickery Blvd, Fort Worth, TX, 76107.",http://www.findalocalvet.com/Profiles/A-Animal-Clinic-Boarding.aspx
+Animal Hospital of Park Glen,(817) 581-1277,"5424 Basswood Blvd, Fort Worth, TX, 76137.",http://www.findalocalvet.com/Profiles/Animal-Hospital-of-Park-Glen.aspx
+Metro West Emergency Veterinary Center,(817) 731-3734,"3201 Hulen St, Fort Worth, TX, 76107.",http://www.findalocalvet.com/Profiles/Metro-West-Emergency-Veterinary-Center.aspx
+Shield Stone Pet Hospital Incorporated,(559) 222-2800,"1610 E Shields Ave, Fresno, CA, 93704.",http://www.findalocalvet.com/Profiles/Shield-Stone-Pet-Hospital-Incorporated.aspx
+Pet Medical Center & Spa,(559) 436-4444,"621 W Fallbrook Avenue, Fresno, CA, 93650.",http://www.findalocalvet.com/Profiles/Pet-Medical-Center-Spa.aspx
+North Pointe Animal Hospital,(559) 434-5470,"9525 N Sommerville Dr, #115, Fresno, CA, 93720.",http://www.findalocalvet.com/Profiles/North-Pointe-Animal-Hospital.aspx
+Westcreek Animal Clinic,(817) 294-0390,"3313 Park Lake Drive, Fort Worth, TX, 76133.",http://www.findalocalvet.com/Profiles/Westcreek-Animal-Clinic.aspx
+Sierra View Animal Hospital,(559) 432-1200,"93 E Sierra Avenue, Fresno, CA, 93710.",http://www.findalocalvet.com/Profiles/Sierra-View-Animal-Hospital.aspx
+Kaka'ako Pet Hospital,(808) 592-9999,"815 Queen St, Honolulu, HI, 96813.",http://www.findalocalvet.com/Profiles/Kakaako-Pet-Hospital.aspx
+Cat Clinic,,"1131 Kapahulu Ave # 201, Honolulu, HI, 96816.",http://www.findalocalvet.com/Profiles/Cat-Clinic.aspx
+"Aloha Animal Hospital Associates, Inc.",(808) 734-2242,"4224 Waialae Ave, #3, Honolulu, HI, 96816.",http://www.findalocalvet.com/Profiles/Aloha-Animal-Hospital-Associates-Inc-.aspx
+Family Pet Medical Center,(954) 567-2500,"2750 N Federal Highway, Fort Lauderdale, FL, 33306.",http://www.findalocalvet.com/Profiles/Family-Pet-Medical-Center.aspx
+Pet Doctor,,"4400 Kalanianaole Hwy # 6, Honolulu, HI, 96821.",http://www.findalocalvet.com/Profiles/Pet-Doctor2.aspx
+Harris Parkway Animal Hospital,(817) 294-8007,"6040 Harris Parkway, Fort Worth, TX, 76132.",http://www.findalocalvet.com/Profiles/Harris-Parkway-Animal-Hospital.aspx
+Hawaii Veterinary Vision Care,,"1021 Akala Ln, Honolulu, HI, 96814.",http://www.findalocalvet.com/Profiles/Hawaii-Veterinary-Vision-Care.aspx
+Alta Mesa Animal Clinic,,"6708 Crowley Rd, Fort Worth, TX, 76134.",http://www.findalocalvet.com/Profiles/Alta-Mesa-Animal-Clinic.aspx
+Parkville Animal Wellness,,"6444 NW Crooked Rd, Kansas City, MO, 64152.",http://www.findalocalvet.com/Profiles/Parkville-Animal-Wellness.aspx
+Amity Woods Animal Hospital,(816) 880-6650,"9300 Nw 87th Ter, Kansas City, MO, 64153.",http://www.findalocalvet.com/Profiles/Amity-Woods-Animal-Hospital.aspx
+Animal Clinic of Kendallwood,(816) 453-0700,"2770 NE 60th Street, Kansas City, MO, 64119.",http://www.findalocalvet.com/Profiles/Animal-Clinic-of-Kendallwood.aspx
+Martin City Animal Hospital,(816) 941-0070,"13441 Cherry St, Kansas City, MO, 64145.",http://www.findalocalvet.com/Profiles/Martin-City-Animal-Hospital.aspx
+K C Cat Clinic,,"7107 Main St, Kansas City, MO, 64114.",http://www.findalocalvet.com/Profiles/K-C-Cat-Clinic.aspx
+Raytown Gregory Animal Health,(816) 353-6681,"7037 Raytown Road, Raytown, MO, 64133.",http://www.findalocalvet.com/Profiles/Raytown-Gregory-Animal-Health.aspx
+Union Hill Animal Hospital,,"3025 Main St, Kansas City, MO, 64108.",http://www.findalocalvet.com/Profiles/Union-Hill-Animal-Hospital.aspx
+Kokua Pet Clinic,,"1111 Dillingham Blvd # E5, Honolulu, HI, 96817.",http://www.findalocalvet.com/Profiles/Kokua-Pet-Clinic.aspx
+Grandview Plaza Animal Clinic,,"10600 Blue Ridge Blvd, Kansas City, MO, 64134.",http://www.findalocalvet.com/Profiles/Grandview-Plaza-Animal-Clinic.aspx
+Animal Clinic Inc,,"3270 Waialae Ave, Honolulu, HI, 96816.",http://www.findalocalvet.com/Profiles/Animal-Clinic-Inc.aspx
+Noah's Ark Animal Clinic,(816) 361-6822,"6305 Main St, Kansas City, MO, 64113.",http://www.findalocalvet.com/Profiles/Noahs-Ark-Animal-Clinic.aspx
+Aina Haina Pet Hospital Inc,,"3405 Waialae Ave, Honolulu, HI, 96816.",http://www.findalocalvet.com/Profiles/Aina-Haina-Pet-Hospital-Inc.aspx
+Blue Ridge Plaza Animal Clinic,(816) 356-2424,"10600 Blue Ridge Blvd, Kansas City, MO, 64134.",http://www.findalocalvet.com/Profiles/Blue-Ridge-Plaza-Animal-Clinic.aspx
+Equine Medicine,,"PO Box 61837, Honolulu, HI, 96839.",http://www.findalocalvet.com/Profiles/Equine-Medicine.aspx
+Brookside Animal Clinic,(816) 363-2115,"210 W 85th Street, Kansas City, MO, 64114.",http://www.findalocalvet.com/Profiles/Brookside-Animal-Clinic.aspx
+Pet Medical Ctr,,"9140 W Sahara Ave, Las Vegas, NV, 89117.",http://www.findalocalvet.com/Profiles/Pet-Medical-Ctr4.aspx
+Aloha Animal Hospital Inc,,"7341 S Torrey Pines Dr, Las Vegas, NV, 89139.",http://www.findalocalvet.com/Profiles/Aloha-Animal-Hospital-Inc.aspx
+Country Kennels & Arrowhead Vet Services,(816) 353-5675,"10014 E 47th Street, Kansas City, MO, 64133.",http://www.findalocalvet.com/Profiles/Country-Kennels-Arrowhead-Vet-Services.aspx
+Animal Care Foundation,,"6650 Hawaii Kai Dr # 105, Honolulu, HI, 96825.",http://www.findalocalvet.com/Profiles/Animal-Care-Foundation.aspx
+Creature Comforts Animal Hospital,(702) 658-7339,"5741 Sky Pointe Dr., Las Vegas, NV, 89130.",http://www.findalocalvet.com/Profiles/Creature-Comforts-Animal-Hospital.aspx
+Animal Kingdom Veterinary Hosp,,"1325 Vegas Valley Dr, Las Vegas, NV, 89169.",http://www.findalocalvet.com/Profiles/Animal-Kingdom-Veterinary-Hosp2.aspx
+Miguel Dmv Svc,,"1201 S Eastern Ave, Las Vegas, NV, 89104.",http://www.findalocalvet.com/Profiles/Miguel-Dmv-Svc.aspx
+Western Veterinary Conference,,"2425 E Oquendo Rd, Las Vegas, NV, 89120.",http://www.findalocalvet.com/Profiles/Western-Veterinary-Conference.aspx
+Desert Pines Equine Ctr,,"5000 N Jones Blvd, Las Vegas, NV, 89130.",http://www.findalocalvet.com/Profiles/Desert-Pines-Equine-Ctr.aspx
+Island Pet Hospital,(702) 645-7387,"7025 W Ann Rd, Las Vegas, NV, 89130.",http://www.findalocalvet.com/Profiles/Island-Pet-Hospital.aspx
+Sun City Animal Hospital,,"9320 W Lake Mead Blvd, Las Vegas, NV, 89134.",http://www.findalocalvet.com/Profiles/Sun-City-Animal-Hospital.aspx
+Gentle Doctor Animal Hospital,,"1550 S Rainbow Blvd, Las Vegas, NV, 89146.",http://www.findalocalvet.com/Profiles/Gentle-Doctor-Animal-Hospital2.aspx
+Laurel Animal Hospital,,"8904 E State Route 350, Raytown, MO, 64133.",http://www.findalocalvet.com/Profiles/Laurel-Animal-Hospital.aspx
+Paradise Pet Hospital,(702) 734-1711,"1060 E. Flamingo Road, Las Vegas, NV, 89119.",http://www.findalocalvet.com/Profiles/Paradise-Pet-Hospital.aspx
+Sahara Animal Hospital,,"4301 W Sahara Ave, Las Vegas, NV, 89102.",http://www.findalocalvet.com/Profiles/Sahara-Animal-Hospital.aspx
+Caring Hands Animal Hospital,,"8630 W Cheyenne Ave, Las Vegas, NV, 89129.",http://www.findalocalvet.com/Profiles/Caring-Hands-Animal-Hospital3.aspx
+Sunrise Veterinary Clinic,,"417 N Eastern Ave, Las Vegas, NV, 89101.",http://www.findalocalvet.com/Profiles/Sunrise-Veterinary-Clinic2.aspx
+Sahara-Pines Animal Hospital,,"6533 W Sahara Ave, Las Vegas, NV, 89146.",http://www.findalocalvet.com/Profiles/Sahara-Pines-Animal-Hospital.aspx
+Lake View Animal Hospital,,"2939 Lake East Dr, Las Vegas, NV, 89117.",http://www.findalocalvet.com/Profiles/Lake-View-Animal-Hospital2.aspx
+VCA Decatur Animal Hospital,,"1117 N Decatur Blvd, Las Vegas, NV, 89108.",http://www.findalocalvet.com/Profiles/VCA-Decatur-Animal-Hospital.aspx
+Summerlin Animal Hospital,,"8564 Del Webb Blvd, Las Vegas, NV, 89134.",http://www.findalocalvet.com/Profiles/Summerlin-Animal-Hospital.aspx
+Banfield the Pet Hospital,,"2140 N Rainbow Blvd, Las Vegas, NV, 89108.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital77.aspx
+All About Cats Veterinary Hosp,,"4370 S Durango Dr, Las Vegas, NV, 89147.",http://www.findalocalvet.com/Profiles/All-About-Cats-Veterinary-Hosp.aspx
+Banfield the Pet Hospital,,"171 N Nellis Blvd, Las Vegas, NV, 89110.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital78.aspx
+Town Center Animal Hospital,(702) 262-1300,"3565 S Town Center Drive, Las Vegas, NV, 89135.",http://www.findalocalvet.com/Profiles/Town-Center-Animal-Hospital.aspx
+Lone Mountain Animal Hospital,,"6688 W Cheyenne Ave, Las Vegas, NV, 89108.",http://www.findalocalvet.com/Profiles/Lone-Mountain-Animal-Hospital.aspx
+Gentle Doctor Animal Hospital,(888) 499-6108,"1550 S Rainbow Blvd, Las Vegas, NV, 89146.",http://www.findalocalvet.com/Profiles/Gentle-Doctor-Animal-Hospital3.aspx
+Animal Dental Care,,"5520 N Nevada Ave # 150, Colorado Springs, CO, 80918.",http://www.findalocalvet.com/Profiles/Animal-Dental-Care.aspx
+Alpine at Noah's Ark,,"4335 E Platte Ave, Colorado Springs, CO, 80915.",http://www.findalocalvet.com/Profiles/Alpine-at-Noahs-Ark.aspx
+Westside Animal Hospital,(719) 632-6111,"1603 West Colorado Avenue, Colorado Springs, CO, 80904.",http://www.findalocalvet.com/Profiles/Westside-Animal-Hospital3.aspx
+Austin Bluffs Animal Clinic,,"4323 Austin Bluffs Pkwy, Colorado Springs, CO, 80918.",http://www.findalocalvet.com/Profiles/Austin-Bluffs-Animal-Clinic.aspx
+Aaron Animal Clinic,(216) 901-9980,"7640 Broadview Road, Parma, OH, 44134.",http://www.findalocalvet.com/Profiles/Aaron-Animal-Clinic.aspx
+Beechmont Pet Hospital,(513) 232-4450,"6400 Salem Road, Cincinnati, OH, 45230.",http://www.findalocalvet.com/Profiles/Beechmont-Pet-Hospital.aspx
+Chicago Center for Veterinary Medicine,(312) 226-2588,"2242 W Harrison St,  Ste 101, Chicago, IL, 60612.",http://www.findalocalvet.com/Profiles/Chicago-Center-for-Veterinary-Medicine.aspx
+Amherst Small Animal Hospital,(716) 839-1100,"2217 Kensington Ave, Buffalo, NY, 14226.",http://www.findalocalvet.com/Profiles/Amherst-Small-Animal-Hospital.aspx
+Altadena Valley Animal Clinic,,"2898 Acton Rd, Cahaba Heights, AL, 35243.",http://www.findalocalvet.com/Profiles/Altadena-Valley-Animal-Clinic.aspx
+Mountain Shadows Pet Hospital,(719) 533-0910,"5010 Boardwalk Drive, Colorado Springs, CO, 80919.",http://www.findalocalvet.com/Profiles/Mountain-Shadows-Pet-Hospital.aspx
+The Metropolitan Veterinary Hospital,(205) 988-0880,"5220 Princeton Way, Birmingham, AL, 35226.",http://www.findalocalvet.com/Profiles/The-Metropolitan-Veterinary-Hospital.aspx
+Citypets Veterinary Care and Wellness,(410) 752-7122,"1212 S. Charles Street, Baltimore, MD, 21230.",http://www.findalocalvet.com/Profiles/Citypets-Veterinary-Care-and-Wellness.aspx
+Academy Animal Hospital,(410) 483-5162,"5915 Belair Road, Baltimore, MD, 21206.",http://www.findalocalvet.com/Profiles/Academy-Animal-Hospital.aspx
+Mobile Cat & Dog Vet,(512) 502-1000,"8512 Adirondack Trl, Austin, TX, 78759.",http://www.findalocalvet.com/Profiles/Mobile-Cat-Dog-Vet.aspx
+Picture Hills Pet Hospital PC,(816) 587-3300,"6519 N Cosby Ave, Kansas City, MO, 64151.",http://www.findalocalvet.com/Profiles/Picture-Hills-Pet-Hospital-PC.aspx
+East Boston Animal Hospital,(617) 567-0101,"1007 Saratoga Street , East Boston, MA, 02128.",http://www.findalocalvet.com/Profiles/East-Boston-Animal-Hospital.aspx
+Manchaca Road Animal Hospital,(512) 442-6744,"5720 Manchaca Rd, Austin, TX, 78745.",http://www.findalocalvet.com/Profiles/Manchaca-Road-Animal-Hospital.aspx
+Austin Vet Care,(512) 459-4336,"4106 N Lamar Blvd, Austin, TX, 78756.",http://www.findalocalvet.com/Profiles/Austin-Vet-Care.aspx
+Austin Urban Vet Ctr,(512) 476-2882,"710 W 5th St, Austin, TX, 78701.",http://www.findalocalvet.com/Profiles/Austin-Urban-Vet-Ctr.aspx
+Manchaca Village Veterinary,(512) 282-1326,"12117 Manchaca Rd, Austin, TX, 78748.",http://www.findalocalvet.com/Profiles/Manchaca-Village-Veterinary.aspx
+Spicewood Springs Animal Hospital,(512) 345-2727,"4606 Spicewood Springs Rd, Austin, TX, 78759.",http://www.findalocalvet.com/Profiles/Spicewood-Springs-Animal-Hospital.aspx
+Cats Love Housecalls,(512) 343-9200,"9417 Great Hills Trl, Austin, TX, 78759.",http://www.findalocalvet.com/Profiles/Cats-Love-Housecalls.aspx
+Central Texas Veterinary Specs,,"4434 Frontier Trl, Austin, TX, 78745.",http://www.findalocalvet.com/Profiles/Central-Texas-Veterinary-Specs.aspx
+Alternatives for Animal Health,(512) 288-5400,"250 Lotus Circle, Austin, TX, 78737.",http://www.findalocalvet.com/Profiles/Alternatives-for-Animal-Health.aspx
+Emergency Animal Hospital,,"4434 Frontier Trl, Austin, TX, 78745.",http://www.findalocalvet.com/Profiles/Emergency-Animal-Hospital2.aspx
+Atrium Animal Hospital,(704) 542-2000,"6520 Mcmahan Dr, Charlotte, NC, 28226.",http://www.findalocalvet.com/Profiles/Atrium-Animal-Hospital.aspx
+Cotswold Animal Hospital,(704) 365-3787,"401 S Sharon Amity Rd, Suite A, Charlotte, NC, 28211.",http://www.findalocalvet.com/Profiles/Cotswold-Animal-Hospital.aspx
+Independence Veterinary Clinic,(704) 841-1313,"2328 Crownpoint Executive Drive, Charlotte, NC, 28227.",http://www.findalocalvet.com/Profiles/Independence-Veterinary-Clinic.aspx
+Doggy Doctor,,"3204 Ventana Hills Dr, Las Vegas, NV, 89117.",http://www.findalocalvet.com/Profiles/Doggy-Doctor.aspx
+Banfield the Pet Hospital,,"14137 Rivergate Pkwy, Charlotte, NC, 28273.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital30.aspx
+Emmerson Animal Hospital,(617) 825-3560,"255 Freeport St, Boston, MA, 02122.",http://www.findalocalvet.com/Profiles/Emmerson-Animal-Hospital.aspx
+Buckley Animal Hospital PC,,"8316 Pineville Matthews Rd 805, Charlotte, NC, 28226.",http://www.findalocalvet.com/Profiles/Buckley-Animal-Hospital-PC.aspx
+Nicks Veterinary Hospital,,"3100 S Tryon St, Charlotte, NC, 28217.",http://www.findalocalvet.com/Profiles/Nicks-Veterinary-Hospital.aspx
+Banfield the Pet Hospital,,"8116 University City Blvd, Charlotte, NC, 28213.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital31.aspx
+Archdale Animal Hospital PA,,"1319 Archdale Dr, Charlotte, NC, 28217.",http://www.findalocalvet.com/Profiles/Archdale-Animal-Hospital-PA.aspx
+Monroe Road Animal Hospital,(704) 333-3336,"3736 Monroe Rd, Charlotte, NC, 28205.",http://www.findalocalvet.com/Profiles/Monroe-Road-Animal-Hospital.aspx
+Abraham Veterinary Clinic,(512) 472-5879,"503 W. 18th , Austin, TX, 78701.",http://www.findalocalvet.com/Profiles/Abraham-Veterinary-Clinic.aspx
+Best Vet,(512) 336-9663,"8863 Anderson Mill Rd, Ste 105, Austin, TX, 78729.",http://www.findalocalvet.com/Profiles/Best-Vet.aspx
+Westlake Animal Hospital,(512) 329-5854,"3930 Bee Caves Road, Suite 10, West Lake Hills, TX, 78746.",http://www.findalocalvet.com/Profiles/Westlake-Animal-Hospital.aspx
+Brykerwood Veterinary Clinic,,"1501 W 35th St, Austin, TX, 78703.",http://www.findalocalvet.com/Profiles/Brykerwood-Veterinary-Clinic.aspx
+Capital Veterinary Clinic,(512) 442-1496,"4917 S Congress Avenue, Austin, TX, 78745.",http://www.findalocalvet.com/Profiles/Capital-Veterinary-Clinic.aspx
+Carolina Veterinary Speclst,,"2225 Township Rd, Charlotte, NC, 28273.",http://www.findalocalvet.com/Profiles/Carolina-Veterinary-Speclst.aspx
+Austin Hills Mobile Veterinary Services,(512) 266-3501,"2905 Centennial Olympic Park, Austin, TX, 78732.",http://www.findalocalvet.com/Profiles/Austin-Hills-Mobile-Veterinary-Services.aspx
+AAA Veterinary House Calls,(617) 227-8270,"150 Staniford St, Boston, MA, 02114.",http://www.findalocalvet.com/Profiles/AAA-Veterinary-House-Calls.aspx
+Circle C Animal Hospital,(512) 288-5888,"9600 Escarpment Blvd, Suite 950, Austin, TX, 78749.",http://www.findalocalvet.com/Profiles/Circle-C-Animal-Hospital.aspx
+Four Paws at Four Points,(512) 258-7447,"8610 Fm-620 N, Austin, TX, 78726.",http://www.findalocalvet.com/Profiles/Four-Paws-at-Four-Points.aspx
+Northwest Austin Veterinary,(512) 250-8048,"11846 Jollyville Road, Austin, TX, 78759.",http://www.findalocalvet.com/Profiles/Northwest-Austin-Veterinary.aspx
+Caring Hands Animal Hosp LLC,(512) 263-9292,"11817 Fm-2244, Bee Cave, TX, 78738.",http://www.findalocalvet.com/Profiles/Caring-Hands-Animal-Hosp-LLC.aspx
+Hickory Grove Animal Hospital,(704) 563-5858,"5450 N Sharon Amity Road, Charlotte, NC, 28215.",http://www.findalocalvet.com/Profiles/Hickory-Grove-Animal-Hospital.aspx
+Research Pet & Bird Hospital,(512) 258-2577,"11679 Research Blvd, Austin, TX, 78759.",http://www.findalocalvet.com/Profiles/Research-Pet-Bird-Hospital.aspx
+Cahaba Mountain Brook Animal,(205) 967-6759,"3190 Cahaba Heights Rd, Birmingham, AL, 35243.",http://www.findalocalvet.com/Profiles/Cahaba-Mountain-Brook-Animal.aspx
+Park Cedar Animal Hospital Pa,,"10709 Kettering Dr, Charlotte, NC, 28226.",http://www.findalocalvet.com/Profiles/Park-Cedar-Animal-Hospital-Pa.aspx
+Standifer's Animal Clinic,(205) 871-8186,"2810 19th Place South, Homewood, AL, 35209.",http://www.findalocalvet.com/Profiles/Standifers-Animal-Clinic.aspx
+Banfield the Pet Hospital,,"5025 Highway 280 # 105, Birmingham, AL, 35242.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital47.aspx
+Riverview Animal Clinic PC,(205) 991-9580,"4640 Highway 280, Birmingham, AL, 35242.",http://www.findalocalvet.com/Profiles/Riverview-Animal-Clinic-PC.aspx
+Southside Animal Hospital,,"3120 4th Ave S, Birmingham, AL, 35233.",http://www.findalocalvet.com/Profiles/Southside-Animal-Hospital.aspx
+Red Mountain Animal Medical,,"2148 Green Springs Hwy S, Birmingham, AL, 35205.",http://www.findalocalvet.com/Profiles/Red-Mountain-Animal-Medical.aspx
+Kelley Animal Hospital,(205) 833-9400,"992 Huffman Road, Birmingham, AL, 35215.",http://www.findalocalvet.com/Profiles/Kelley-Animal-Hospital.aspx
+Southlake Animal Hospital,,"4506 Lake Valley Dr, Birmingham, AL, 35244.",http://www.findalocalvet.com/Profiles/Southlake-Animal-Hospital.aspx
+Burnet Road Animal Hospital,(512) 452-7606,"8511 Burnet Road, Austin, TX, 78757.",http://www.findalocalvet.com/Profiles/Burnet-Road-Animal-Hospital.aspx
+Cat Hospital At Towson,(410) 377-7900,"6701 York Road, Baltimore, MD, 21212.",http://www.findalocalvet.com/Profiles/Cat-Hospital-At-Towson.aspx
+Pet Wellness Ctr,,"2076 Columbiana Rd, Birmingham, AL, 35216.",http://www.findalocalvet.com/Profiles/Pet-Wellness-Ctr.aspx
+Montclair Animal Clinic,,"739 Montclair Rd, Birmingham, AL, 35213.",http://www.findalocalvet.com/Profiles/Montclair-Animal-Clinic.aspx
+Columbiana Road Pet Wellness Center,(205) 824-1575,"2076 Columbiana Rd, Vestavia Hills, AL, 35216.",http://www.findalocalvet.com/Profiles/Columbiana-Road-Pet-Wellness-Center.aspx
+Liberty Animal Hospital,,"3810 River Run Dr, Birmingham, AL, 35243.",http://www.findalocalvet.com/Profiles/Liberty-Animal-Hospital.aspx
+Dr Elizabeth Gibbins Vet,,"2864 Acton Rd, Birmingham, AL, 35243.",http://www.findalocalvet.com/Profiles/Dr-Elizabeth-Gibbins-Vet.aspx
+South Shades Crest Animal Clinic,(205) 987-4838,"2304 John Hawkins Pkwy,  Ste 110, Birmingham, AL, 35244.",http://www.findalocalvet.com/Profiles/South-Shades-Crest-Animal-Clinic.aspx
+VCA Ben White Animal Hosp,,"2417 W Ben White Blvd, Austin, TX, 78704.",http://www.findalocalvet.com/Profiles/VCA-Ben-White-Animal-Hosp.aspx
+Lakeview Pet Wellness Ctr Inc,,"3222 6th Ave S, Birmingham, AL, 35222.",http://www.findalocalvet.com/Profiles/Lakeview-Pet-Wellness-Ctr-Inc.aspx
+Standifer Animal Clinic,,"2810 19th Pl S, Homewood, AL, 35209.",http://www.findalocalvet.com/Profiles/Standifer-Animal-Clinic.aspx
+Vulcan Park Animal Care,,"1779 Valley Ave, Homewood, AL, 35209.",http://www.findalocalvet.com/Profiles/Vulcan-Park-Animal-Care.aspx
+Caldwell Mill Animal Clinic,,"5196 Caldwell Mill Rd, Birmingham, AL, 35244.",http://www.findalocalvet.com/Profiles/Caldwell-Mill-Animal-Clinic.aspx
+SouthLake Animal Hospital,(205) 988-8732,"4506 Lake Valley Dr., Hoover, AL, 35244.",http://www.findalocalvet.com/Profiles/SouthLake-Animal-Hospital2.aspx
+Spangler Animal Clinic,(512) 452-7671,"5916 N Lamar Blvd, Austin, TX, 78752.",http://www.findalocalvet.com/Profiles/Spangler-Animal-Clinic.aspx
+Southtowns Animal Hospital,(716) 824-4108,"154 Orchard Park Rd, Buffalo, NY, 14224.",http://www.findalocalvet.com/Profiles/Southtowns-Animal-Hospital.aspx
+Pet Vet Animal Hospital,(205) 824-2077,"2021 Kentucky Avenue, Vestavia Hills, AL, 35216.",http://www.findalocalvet.com/Profiles/Pet-Vet-Animal-Hospital2.aspx
+Animal Pain Management Center,(716) 839-1100,"2217 Kensington Ave  , Snyder, NY, 14226.",http://www.findalocalvet.com/Profiles/Animal-Pain-Management-Center.aspx
+Ellicott Small Animal Hospital,(716) 852-8276,"517 Ellicott St, Buffalo, NY, 14203.",http://www.findalocalvet.com/Profiles/Ellicott-Small-Animal-Hospital.aspx
+The Animal Hospitable Veterinary Clinic,(716) 634-2240,"7780 Transit Road, Williamsville, NY, 14221.",http://www.findalocalvet.com/Profiles/The-Animal-Hospitable-Veterinary-Clinic.aspx
+Blue Cross Small Animal Clinic,(716) 832-2800,"3921 Main St, Buffalo, NY, 14226.",http://www.findalocalvet.com/Profiles/Blue-Cross-Small-Animal-Clinic.aspx
+Veterinary & Internal Medicine,,"4949 Main St # B, Amherst, NY, 14226.",http://www.findalocalvet.com/Profiles/Veterinary-Internal-Medicine.aspx
+Northtown Animal Hospital,,"839 Niagara Falls Blvd, Buffalo, NY, 14226.",http://www.findalocalvet.com/Profiles/Northtown-Animal-Hospital.aspx
+Escanaba Animal Hospital,(773) 375-2433,"9333 S Escanaba Ave, Chicago, IL, 60617.",http://www.findalocalvet.com/Profiles/Escanaba-Animal-Hospital.aspx
+Best Friends Veterinary Center,(773) 267-0086,"4054 W Peterson Ave, Chicago, IL, 60646.",http://www.findalocalvet.com/Profiles/Best-Friends-Veterinary-Center.aspx
+Roscoe Village Animal Hospital,(773) 549-3131,"3131 N Clybourn Ave, Chicago, IL, 60618.",http://www.findalocalvet.com/Profiles/Roscoe-Village-Animal-Hospital.aspx
+Gold Coast Animal Hospital,(312) 337-7387,"225 W Division St, Chicago, HI, 60610.",http://www.findalocalvet.com/Profiles/Gold-Coast-Animal-Hospital.aspx
+Parkway Veterinary Clinic,,"2413 Center Point Pkwy, Birmingham, AL, 35215.",http://www.findalocalvet.com/Profiles/Parkway-Veterinary-Clinic.aspx
+Harris Hill Animal Hospital,(716) 634-1000,"8470 Main St, Williamsville, NY, 14221.",http://www.findalocalvet.com/Profiles/Harris-Hill-Animal-Hospital.aspx
+West Wrigley Animal Hospital LLC,(773) 528-8387,"3416 N Ashland Ave, Chicago, IL, 60657.",http://www.findalocalvet.com/Profiles/West-Wrigley-Animal-Hospital-LLC.aspx
+Community Pet Care Hospital,,"1395 Abbott Rd, Lackawanna, NY, 14218.",http://www.findalocalvet.com/Profiles/Community-Pet-Care-Hospital.aspx
+Diversey Animal Hospital,,"5540 W Diversey Ave, Chicago, IL, 60639.",http://www.findalocalvet.com/Profiles/Diversey-Animal-Hospital.aspx
+Milwaukee Animal Hospital,,"3383 N Milwaukee Ave, Chicago, IL, 60641.",http://www.findalocalvet.com/Profiles/Milwaukee-Animal-Hospital.aspx
+Animal Ark Veterinary Clinic,(773) 442-6500,"3235 N Kedzie Ave, Chicago, IL, 60618.",http://www.findalocalvet.com/Profiles/Animal-Ark-Veterinary-Clinic.aspx
+Banfield the Pet Hospital,,"2665 N Elston Ave, Chicago, IL, 60647.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital10.aspx
+Jewell Animal Hospital,(773) 271-1901,"4501 N Lincoln Ave, Chicago, IL, 60625.",http://www.findalocalvet.com/Profiles/Jewell-Animal-Hospital.aspx
+North Center Animal Hospital,(773) 327-5050,"1808 W Addison St, Chicago, IL, 60613.",http://www.findalocalvet.com/Profiles/North-Center-Animal-Hospital.aspx
+Woodlawn Animal Hospital,,"6523 S King Dr, Chicago, IL, 60637.",http://www.findalocalvet.com/Profiles/Woodlawn-Animal-Hospital.aspx
+Paws Chicago Spay-Neuter,,"3516 W 26th St, Chicago, IL, 60623.",http://www.findalocalvet.com/Profiles/Paws-Chicago-Spay-Neuter.aspx
+Jefferson Park Animal Hosp,,"4490 W Lawrence Ave, Chicago, IL, 60630.",http://www.findalocalvet.com/Profiles/Jefferson-Park-Animal-Hosp.aspx
+Integrative Pet Care,(773) 269-2964,"2520 W Armitage Ave, Chicago, IL, 60647.",http://www.findalocalvet.com/Profiles/Integrative-Pet-Care.aspx
+Animal House Calls,(513) 598-8584,"4299 Rybolt Road, Cincinnati, OH, 45248.",http://www.findalocalvet.com/Profiles/Animal-House-Calls.aspx
+VCA Tennessee Avenue Animal,,"1381 Tennessee Ave, Cincinnati, OH, 45229.",http://www.findalocalvet.com/Profiles/VCA-Tennessee-Avenue-Animal.aspx
+Marquette Animal Hospital,,"4227 W 63rd St, Chicago, IL, 60629.",http://www.findalocalvet.com/Profiles/Marquette-Animal-Hospital.aspx
+Towne Square Animal Clinic,(513) 793-1875,"9401 Towne Square Avenue, Cincinnati, OH, 45242.",http://www.findalocalvet.com/Profiles/Towne-Square-Animal-Clinic.aspx
+Banfield the Pet Hospital,,"3780 Riverchase Vlg # 300, Birmingham, AL, 35244.",http://www.findalocalvet.com/Profiles/Banfield-the-Pet-Hospital48.aspx
+David C Cortman DVM,,"11440 Winton Rd, Cincinnati, OH, 45240.",http://www.findalocalvet.com/Profiles/David-C-Cortman-DVM.aspx
+Western Hills Animal Hospital,,"5500 Glenway Ave, Cincinnati, OH, 45238.",http://www.findalocalvet.com/Profiles/Western-Hills-Animal-Hospital.aspx
+Grady Veterinary Hospital,(513) 931-8675,"9255 Winton Road, Cincinnati, OH, 45231.",http://www.findalocalvet.com/Profiles/Grady-Veterinary-Hospital.aspx
+Mariemont Veterinary Clinic,,"6892 Murray Ave, Cincinnati, OH, 45227.",http://www.findalocalvet.com/Profiles/Mariemont-Veterinary-Clinic.aspx
+Blum Animal Hospital,(773) 327-4446,"3219 N Clark St, #1, Chicago, IL, 60657.",http://www.findalocalvet.com/Profiles/Blum-Animal-Hospital.aspx
+VCA Village Animal Hospital,,"9520 Montgomery Rd, Cincinnati, OH, 45242.",http://www.findalocalvet.com/Profiles/VCA-Village-Animal-Hospital.aspx
+Beechmont Pet Grooming,,"6400 Salem Rd, Cincinnati, OH, 45230.",http://www.findalocalvet.com/Profiles/Beechmont-Pet-Grooming.aspx
+Animal Hospital-Hamilton Ave,,"11808 Hamilton Ave, Cincinnati, OH, 45231.",http://www.findalocalvet.com/Profiles/Animal-Hospital-Hamilton-Ave.aspx
+Dr Anni's Pet Clinic,,"834 E 152nd St, Cleveland, OH, 44110.",http://www.findalocalvet.com/Profiles/Dr-Annis-Pet-Clinic.aspx
+Belvoir Pet Hospital,,"4217 Mayfield Rd, Cleveland, OH, 44121.",http://www.findalocalvet.com/Profiles/Belvoir-Pet-Hospital.aspx
+Deer Park Veterinary Hospital,(513) 791-8550,"4380 E Galbraith Rd, Cincinnati, OH, 45236.",http://www.findalocalvet.com/Profiles/Deer-Park-Veterinary-Hospital.aspx
+Peach Grove Animal Hospital,,"5636 Springdale Rd, Cincinnati, OH, 45251.",http://www.findalocalvet.com/Profiles/Peach-Grove-Animal-Hospital.aspx
+Lyndhurst Animal Clinic,(440) 449-6644,"5387 Mayfield Rd, Lyndhurst, OH, 44124.",http://www.findalocalvet.com/Profiles/Lyndhurst-Animal-Clinic.aspx
+Animal Hospital-Fairview Park,,"4480 W 220th St, Cleveland, OH, 44126.",http://www.findalocalvet.com/Profiles/Animal-Hospital-Fairview-Park.aspx
+Cat Hospital of Chicago,,"2851 W Irving Park Rd, Chicago, IL, 60618.",http://www.findalocalvet.com/Profiles/Cat-Hospital-of-Chicago.aspx
+North Academy & Briargate Veterinary Hospitals,(719) 599-4443,"5875 N Academy Blvd, Colorado Springs, CO, 80918.",http://www.findalocalvet.com/Profiles/North-Academy-Briargate-Veterinary-Hospitals.aspx
+Aspen View Veterinary Hospital,(719) 638-6363,"5925 Constitution Ave, Colorado Springs, CO, 80915.",http://www.findalocalvet.com/Profiles/Aspen-View-Veterinary-Hospital.aspx
+Polo Springs Veterinary Hospital,(719) 264-8384,"5557 Austin Bluffs Pky, Colorado Springs, CO, 80923.",http://www.findalocalvet.com/Profiles/Polo-Springs-Veterinary-Hospital.aspx
+Cincinnati Animal Referra & Emergency Care Center,(513) 530-0911,"6995 East Kemper Rd., Cincinnati, OH, 45249.",http://www.findalocalvet.com/Profiles/Cincinnati-Animal-Referra-Emergency-Care-Center.aspx
+North Powers Animal Hospital,(719) 282-1222,"5470 Powers Center Point, Colorado Springs, CO, 80920.",http://www.findalocalvet.com/Profiles/North-Powers-Animal-Hospital.aspx
+Briargate Blvd Animal Hospital,(719) 357-8971,"3455 Briargate Blvd, Colorado Springs, CO, 80920.",http://www.findalocalvet.com/Profiles/Briargate-Blvd-Animal-Hospital.aspx
+Just Cats Hospital,,"4125 Mayfield Rd, Cleveland, OH, 44121.",http://www.findalocalvet.com/Profiles/Just-Cats-Hospital.aspx
+Westside Animal Hospital,,"1603 W Colorado Ave, Colorado Springs, CO, 80904.",http://www.findalocalvet.com/Profiles/Westside-Animal-Hospital5.aspx
+Snow-Ridge Veterinary Hospital,(440) 845-7744,"5761 Ridge Rd, Cleveland, OH, 44129.",http://www.findalocalvet.com/Profiles/Snow-Ridge-Veterinary-Hospital.aspx
+Airway Veterinary Hospital,(719) 623-5461,"5280 Edison Ave, Colorado Springs, CO, 80915.",http://www.findalocalvet.com/Profiles/Airway-Veterinary-Hospital.aspx
+Eye Specialists for Animals,,"3515 American Dr # A, Colorado Springs, CO, 80917.",http://www.findalocalvet.com/Profiles/Eye-Specialists-for-Animals2.aspx
+Rockrimmon Animal Hospital,(719) 599-4438,"6636 Delmonico Dr, Colorado Springs, CO, 80919.",http://www.findalocalvet.com/Profiles/Rockrimmon-Animal-Hospital.aspx
+Black Forest Veterinary Clinic,,"12740 Black Forest Rd, Colorado Springs, CO, 80908.",http://www.findalocalvet.com/Profiles/Black-Forest-Veterinary-Clinic.aspx
+Dublin Animal Hospital,(719) 355-8165,"888 Dublin Blvd, Colorado Springs, CO, 80918.",http://www.findalocalvet.com/Profiles/Dublin-Animal-Hospital.aspx
+Joycares Personalized Pet Care,(216) 281-8701,"2123 W 103rd St, Cleveland, OH, 44102.",http://www.findalocalvet.com/Profiles/Joycares-Personalized-Pet-Care.aspx
+Animal Dental Care,(719) 536-9949,"5520 N. Nevada Ave Suite 150, Colorado Springs, CO, 80918.",http://www.findalocalvet.com/Profiles/Animal-Dental-Care2.aspx
+Bijou Animal Hospital,,"123 Swope Ave, Colorado Springs, CO, 80909.",http://www.findalocalvet.com/Profiles/Bijou-Animal-Hospital.aspx
+Northgate Animal Hospital,(719) 481-3080,"12225 Voyager Parkway Suite 12, Colorado Springs, CO, 80921.",http://www.findalocalvet.com/Profiles/Northgate-Animal-Hospital.aspx
+Aariana Animal Hospital Assoc,,"115 E Ramona Ave, Colorado Springs, CO, 80905.",http://www.findalocalvet.com/Profiles/Aariana-Animal-Hospital-Assoc.aspx
+Brown Veterinary Hospital,(719) 355-8694,"45 E Old Broadmoor Road, Colorado Springs, CO, 80906.",http://www.findalocalvet.com/Profiles/Brown-Veterinary-Hospital.aspx
+Rocky Mountain Equine Clinic,,"14775 Black Forest Rd, Colorado Springs, CO, 80908.",http://www.findalocalvet.com/Profiles/Rocky-Mountain-Equine-Clinic.aspx

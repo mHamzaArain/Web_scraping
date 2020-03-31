@@ -1,0 +1,55 @@
+(base) hamza@hamza-HP-EliteBook-8470p:~$ scrapy
+Scrapy 2.0.1 - no active project
+
+Usage:
+  scrapy <command> [options] [args]
+
+Available commands:
+  bench         Run quick benchmark test
+  fetch         Fetch a URL using the Scrapy downloader
+  genspider     Generate new spider using pre-defined templates
+  runspider     Run a self-contained spider (without creating a project)
+  settings      Get settings values
+  shell         Interactive scraping console
+  startproject  Create new project
+  version       Print Scrapy version
+  view          Open URL in browser, as seen by Scrapy
+
+In [1]: print(response)                                                         
+<200 http://quotes.toscrape.com/random>
+
+In [2]: print(response.text)                                                    
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+	
+	// Whole HTML
+    
+    </head>
+</html>
+
+// . = class
+In [3]: response.css('.text')                                                   
+Out[3]: [<Selector xpath="descendant-or-self::*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text ')]" data='<span class="text" itemprop="text">“T...'>]
+
+// get() -> To extract selector
+In [4]: response.css('.text').get()                                             
+Out[4]: '<span class="text" itemprop="text">“Today you are You, that is truer than true. There is no one alive who is Youer than You.”</span>'
+
+// :: = text from site
+In [5]: response.css('.text::text').get()                                       
+Out[5]: '“Today you are You, that is truer than true. There is no one alive who is Youer than You.”'
+
+// 2 ways to get it 
+// By class                                                                            
+In [7]: response.css('.author::text').get()                                                                                                   
+Out[7]: 'Dr. Seuss'
+
+// By attribute
+In [9]: response.css('[itemprop="author"]::text').get()                                                                                       
+Out[9]: 'Dr. Seuss'
+
+// getall() = To extract all items of same class/attribute
+In [10]: response.css('.tag::text').getall()                                                                                                  
+Out[10]: ['comedy', 'life', 'yourself']
+

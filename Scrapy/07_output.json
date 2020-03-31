@@ -1,0 +1,111 @@
+[
+    {
+        "title": "IMPORTANT!",
+        "paragraph": "This blog is only for practicing learning. The contents may change but ",
+        "author": "Upendra",
+        "published_date": "November 28, 2019",
+        "topic": [
+            "Python",
+            "Web Scraping"
+        ],
+        "tags": []
+    },
+    {
+        "title": "Part 2 of BS4 Selenium,\u00a0Scrapy",
+        "paragraph": "This is part 2 of the dummy post. This post is just a copy of ",
+        "author": "Upendra",
+        "published_date": "December 17, 2019",
+        "topic": [
+            "Web Scraping"
+        ],
+        "tags": [
+            "Python",
+            "Scrapy"
+        ]
+    },
+    {
+        "title": "Introduce Yourself",
+        "paragraph": "This ",
+        "author": "Upendra",
+        "published_date": "December 17, 2019",
+        "topic": [
+            "Uncategorized"
+        ],
+        "tags": []
+    },
+    {
+        "title": "Part 3 of Scrapy and\u00a0JSON",
+        "paragraph": "This blog is nothing but a copy of ",
+        "author": "Upendra",
+        "published_date": "December 17, 2019",
+        "topic": [
+            "Python"
+        ],
+        "tags": [
+            "Code",
+            "Python"
+        ]
+    },
+    {
+        "title": "Part 1 of Scrapy and\u00a0JSON",
+        "paragraph": "How easy is it to get JSON data with Scrapy? This is one more dummy post for practice.",
+        "author": "Upendra",
+        "published_date": "December 14, 2019",
+        "topic": [
+            "Python"
+        ],
+        "tags": [
+            "Code",
+            "Python"
+        ]
+    },
+    {
+        "title": "Send Mail using\u00a0Python",
+        "paragraph": "Securely send mail from code: Sending mail with Python is very easy. just a few lines of code. But what that password that you are writing in your source code?",
+        "author": "Upendra",
+        "published_date": "December 14, 2019",
+        "topic": [
+            "Python",
+            "Web Scraping"
+        ],
+        "tags": [
+            "Code",
+            "mail",
+            "Python"
+        ]
+    },
+    {
+        "title": "Running BS4, Selenium,\u00a0Scrapy",
+        "paragraph": "Selenium was created as a UI Testing Tool. This still used by Testers in software companies. Let\u2019s see a typical scenario.",
+        "author": "Upendra",
+        "published_date": "December 14, 2019",
+        "topic": [
+            "Web Scraping"
+        ],
+        "tags": [
+            "Python",
+            "Scrapy"
+        ]
+    },
+    {
+        "title": "IMPORTANT!",
+        "paragraph": "This blog is only for practicing learning. The contents may change but ",
+        "author": "Upendra",
+        "published_date": "November 28, 2019",
+        "topic": [
+            "Python",
+            "Web Scraping"
+        ],
+        "tags": []
+    },
+    {
+        "title": "Welcome to the Scraping\u00a0Blog",
+        "paragraph": "THIS IS A DUMMY POST. ",
+        "author": "Upendra",
+        "published_date": "November 28, 2019",
+        "topic": [
+            "Uncategorized"
+        ],
+        "tags": []
+    }
+]

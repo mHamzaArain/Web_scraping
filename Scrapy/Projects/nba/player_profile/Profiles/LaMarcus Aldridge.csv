@@ -1,0 +1,368 @@
+name,year,team,games_played,ftm,fta,tpa
+LaMarcus Aldridge,2017,New York Knicks (NYK),18,7,9,11
+LaMarcus Aldridge,2017,Brooklyn Nets (BKN),72,114,147,15
+LaMarcus Aldridge,2017,San Antonio Spurs (SAS),75,334,399,92
+LaMarcus Aldridge,2017,Orlando Magic (ORL),69,59,80,339
+LaMarcus Aldridge,2017,Oklahoma City Thunder (OKC),76,160,286,2
+LaMarcus Aldridge,2017,Miami Heat (MIA),69,129,179,7
+LaMarcus Aldridge,2017,Memphis Grizzlies (MEM),74,104,146,57
+LaMarcus Aldridge,2017,Milwaukee Bucks (MIL),75,487,641,140
+LaMarcus Aldridge,2017,Orlando Magic (ORL),75,164,189,272
+LaMarcus Aldridge,2017,Charlotte Hornets (CHA),53,20,25,43
+LaMarcus Aldridge,2017,Toronto Raptors (TOR),74,39,62,197
+LaMarcus Aldridge,2017,Chicago Bulls (CHI),24,5,6,31
+LaMarcus Aldridge,2017,Portland Trail Blazers (POR),78,148,193,474
+LaMarcus Aldridge,2017,Dallas Mavericks (DAL),69,80,102,313
+LaMarcus Aldridge,2017,Sacramento Kings (SAC),77,259,313,333
+LaMarcus Aldridge,2017,Portland Trail Blazers (POR),67,76,89,462
+LaMarcus Aldridge,2017,Denver Nuggets (DEN),81,182,226,422
+LaMarcus Aldridge,2017,New Orleans Pelicans (NOP),52,32,71,295
+LaMarcus Aldridge,2017,Sacramento Kings (SAC),65,160,201,274
+LaMarcus Aldridge,2017,Phoenix Suns (PHX),81,59,78,21
+LaMarcus Aldridge,2017,Washington Wizards (WAS),82,292,369,530
+LaMarcus Aldridge,2017,Atlanta Hawks (ATL),26,19,33,30
+LaMarcus Aldridge,2017,Washington Wizards (WAS),77,40,49,252
+LaMarcus Aldridge,2017,Minnesota Timberwolves (MIN),62,22,33,82
+LaMarcus Aldridge,2017,Los Angeles Clippers (LAC),11,14,17,60
+LaMarcus Aldridge,2017,Charlotte Hornets (CHA),64,108,130,274
+LaMarcus Aldridge,2017,San Antonio Spurs (SAS),28,47,54,148
+LaMarcus Aldridge,2017,Charlotte Hornets (CHA),82,102,157,1
+LaMarcus Aldridge,2017,Golden State Warriors (GSW),82,39,51,322
+LaMarcus Aldridge,2017,Sacramento Kings (SAC),67,36,45,183
+LaMarcus Aldridge,2017,Utah Jazz (UTA),80,178,205,386
+LaMarcus Aldridge,2017,Sacramento Kings (SAC),78,100,119,329
+LaMarcus Aldridge,2017,Orlando Magic (ORL),42,42,61,0
+LaMarcus Aldridge,2017,Toronto Raptors (TOR),1,0,0,1
+LaMarcus Aldridge,2017,Milwaukee Bucks (MIL),71,241,303,347
+LaMarcus Aldridge,2017,Phoenix Suns (PHX),54,289,329,384
+LaMarcus Aldridge,2017,Utah Jazz (UTA),9,2,2,1
+LaMarcus Aldridge,2017,Los Angeles Lakers (LAL),6,2,2,9
+LaMarcus Aldridge,2017,Memphis Grizzlies (MEM),82,124,166,264
+LaMarcus Aldridge,2017,Milwaukee Bucks (MIL),54,21,24,91
+LaMarcus Aldridge,2017,Indiana Pacers (IND),48,75,85,161
+LaMarcus Aldridge,2017,Washington Wizards (WAS),15,5,9,10
+LaMarcus Aldridge,2017,Boston Celtics (BOS),70,150,233,306
+LaMarcus Aldridge,2017,Philadelphia 76ers (PHI),64,107,124,142
+LaMarcus Aldridge,2017,Houston Rockets (HOU),10,5,6,15
+LaMarcus Aldridge,2017,New York Knicks (NYK),62,39,49,281
+LaMarcus Aldridge,2017,Miami Heat (MIA),59,363,425,200
+LaMarcus Aldridge,2017,Atlanta Hawks (ATL),74,144,257,1
+LaMarcus Aldridge,2017,Houston Rockets (HOU),73,188,246,391
+LaMarcus Aldridge,2017,Atlanta Hawks (ATL),58,28,37,165
+LaMarcus Aldridge,2017,Los Angeles Lakers (LAL),37,21,30,43
+LaMarcus Aldridge,2017,Los Angeles Lakers (LAL),74,153,194,415
+LaMarcus Aldridge,2017,Houston Rockets (HOU),46,58,93,0
+LaMarcus Aldridge,2017,Brooklyn Nets (BKN),74,88,114,246
+LaMarcus Aldridge,2017,Dallas Mavericks (DAL),73,153,247,12
+LaMarcus Aldridge,2017,Orlando Magic (ORL),52,73,89,59
+LaMarcus Aldridge,2017,Golden State Warriors (GSW),72,96,158,190
+LaMarcus Aldridge,2017,Utah Jazz (UTA),28,47,58,108
+LaMarcus Aldridge,2017,Portland Trail Blazers (POR),66,27,42,113
+LaMarcus Aldridge,2017,Utah Jazz (UTA),12,53,66,77
+LaMarcus Aldridge,2017,Milwaukee Bucks (MIL),82,37,44,210
+LaMarcus Aldridge,2017,Los Angeles Lakers (LAL),33,22,25,104
+LaMarcus Aldridge,2017,Houston Rockets (HOU),80,116,136,550
+LaMarcus Aldridge,2017,Denver Nuggets (DEN),39,22,35,58
+LaMarcus Aldridge,2017,Atlanta Hawks (ATL),74,133,186,47
+LaMarcus Aldridge,2017,Golden State Warriors (GSW),51,278,302,501
+LaMarcus Aldridge,2017,Utah Jazz (UTA),78,74,111,1
+LaMarcus Aldridge,2017,Los Angeles Lakers (LAL),75,495,598,162
+LaMarcus Aldridge,2017,Denver Nuggets (DEN),79,56,64,458
+LaMarcus Aldridge,2017,Atlanta Hawks (ATL),62,67,86,141
+LaMarcus Aldridge,2016,Dallas Mavericks (DAL),70,85,100,322
+LaMarcus Aldridge,2017,Cleveland Cavaliers (CLE),38,25,27,78
+LaMarcus Aldridge,2017,Miami Heat (MIA),27,43,56,152
+LaMarcus Aldridge,2017,Brooklyn Nets (BKN),80,218,268,433
+LaMarcus Aldridge,2017,Memphis Grizzlies (MEM),79,79,102,61
+LaMarcus Aldridge,2017,Phoenix Suns (PHX),52,50,66,0
+LaMarcus Aldridge,2017,New York Knicks (NYK),44,16,23,68
+LaMarcus Aldridge,2017,Denver Nuggets (DEN),2,0,0,0
+LaMarcus Aldridge,2017,San Antonio Spurs (SAS),80,461,559,287
+LaMarcus Aldridge,2017,Cleveland Cavaliers (CLE),78,239,395,11
+LaMarcus Aldridge,2017,Chicago Bulls (CHI),52,84,114,134
+LaMarcus Aldridge,2017,Los Angeles Lakers (LAL),48,27,35,80
+LaMarcus Aldridge,2017,New York Knicks (NYK),77,67,78,579
+LaMarcus Aldridge,2016,Brooklyn Nets (BKN),62,336,384,312
+LaMarcus Aldridge,2017,Philadelphia 76ers (PHI),63,359,467,214
+LaMarcus Aldridge,2017,Miami Heat (MIA),75,217,271,300
+LaMarcus Aldridge,2017,Cleveland Cavaliers (CLE),14,25,31,18
+LaMarcus Aldridge,2017,Chicago Bulls (CHI),55,54,81,2
+LaMarcus Aldridge,2017,New Orleans Pelicans (NOP),77,140,215,63
+LaMarcus Aldridge,2017,Oklahoma City Thunder (OKC),61,9,10,120
+LaMarcus Aldridge,2017,Dallas Mavericks (DAL),21,11,15,67
+LaMarcus Aldridge,2017,Orlando Magic (ORL),57,150,173,335
+LaMarcus Aldridge,2017,Sacramento Kings (SAC),82,82,103,359
+LaMarcus Aldridge,2017,Sacramento Kings (SAC),73,141,195,153
+LaMarcus Aldridge,2017,San Antonio Spurs (SAS),80,48,72,228
+LaMarcus Aldridge,2017,Orlando Magic (ORL),14,10,21,1
+LaMarcus Aldridge,2017,Orlando Magic (ORL),27,33,43,69
+LaMarcus Aldridge,2017,Oklahoma City Thunder (OKC),21,81,87,111
+LaMarcus Aldridge,2017,Detroit Pistons (DET),58,33,41,218
+LaMarcus Aldridge,2017,Toronto Raptors (TOR),73,281,337,320
+LaMarcus Aldridge,2017,San Antonio Spurs (SAS),57,112,145,118
+LaMarcus Aldridge,2017,Los Angeles Clippers (LAC),79,338,411,609
+LaMarcus Aldridge,2017,New York Knicks (NYK),82,142,185,35
+LaMarcus Aldridge,2017,Orlando Magic (ORL),58,157,225,342
+LaMarcus Aldridge,2017,Houston Rockets (HOU),69,195,241,608
+LaMarcus Aldridge,2017,Atlanta Hawks (ATL),63,41,59,97
+LaMarcus Aldridge,2017,Los Angeles Lakers (LAL),70,50,65,320
+LaMarcus Aldridge,2017,Golden State Warriors (GSW),70,134,173,256
+LaMarcus Aldridge,2017,Utah Jazz (UTA),56,204,299,0
+LaMarcus Aldridge,2017,Denver Nuggets (DEN),81,162,240,110
+LaMarcus Aldridge,2017,Detroit Pistons (DET),25,87,111,135
+LaMarcus Aldridge,2017,Houston Rockets (HOU),78,203,234,170
+LaMarcus Aldridge,2017,Los Angeles Clippers (LAC),55,80,111,127
+LaMarcus Aldridge,2017,Houston Rockets (HOU),72,624,727,722
+LaMarcus Aldridge,2017,New York Knicks (NYK),59,42,59,118
+LaMarcus Aldridge,2017,Dallas Mavericks (DAL),57,146,179,410
+LaMarcus Aldridge,2017,Denver Nuggets (DEN),67,134,162,394
+LaMarcus Aldridge,2017,Philadelphia 76ers (PHI),32,64,80,169
+LaMarcus Aldridge,2017,Brooklyn Nets (BKN),78,86,104,358
+LaMarcus Aldridge,2017,Los Angeles Clippers (LAC),76,139,222,7
+LaMarcus Aldridge,2017,Chicago Bulls (CHI),23,28,38,26
+LaMarcus Aldridge,2017,Detroit Pistons (DET),76,90,158,7
+LaMarcus Aldridge,2017,Miami Heat (MIA),14,1,2,8
+LaMarcus Aldridge,2017,New Orleans Pelicans (NOP),63,66,94,197
+LaMarcus Aldridge,2017,Boston Celtics (BOS),1,0,0,1
+LaMarcus Aldridge,2017,Charlotte Hornets (CHA),22,47,62,7
+LaMarcus Aldridge,2017,Sacramento Kings (SAC),80,71,81,408
+LaMarcus Aldridge,2017,Milwaukee Bucks (MIL),24,33,41,77
+LaMarcus Aldridge,2017,Portland Trail Blazers (POR),75,86,105,267
+LaMarcus Aldridge,2017,Minnesota Timberwolves (MIN),25,10,12,50
+LaMarcus Aldridge,2017,Miami Heat (MIA),12,3,6,21
+LaMarcus Aldridge,2017,New Orleans Pelicans (NOP),81,187,238,356
+LaMarcus Aldridge,2017,Toronto Raptors (TOR),68,249,316,54
+LaMarcus Aldridge,2017,Sacramento Kings (SAC),48,37,56,31
+LaMarcus Aldridge,2017,Indiana Pacers (IND),72,135,164,449
+LaMarcus Aldridge,2017,Philadelphia 76ers (PHI),72,94,120,226
+LaMarcus Aldridge,2017,Houston Rockets (HOU),23,25,31,58
+LaMarcus Aldridge,2017,Los Angeles Lakers (LAL),81,334,582,7
+LaMarcus Aldridge,2017,Portland Trail Blazers (POR),21,26,32,71
+LaMarcus Aldridge,2017,Toronto Raptors (TOR),76,94,118,297
+LaMarcus Aldridge,2017,Miami Heat (MIA),64,55,87,117
+LaMarcus Aldridge,2017,New Orleans Pelicans (NOP),59,192,282,105
+LaMarcus Aldridge,2017,Brooklyn Nets (BKN),60,232,261,407
+LaMarcus Aldridge,2017,Orlando Magic (ORL),27,19,25,46
+LaMarcus Aldridge,2017,Orlando Magic (ORL),62,34,47,46
+LaMarcus Aldridge,2017,Memphis Grizzlies (MEM),77,177,279,217
+LaMarcus Aldridge,2017,Milwaukee Bucks (MIL),23,33,45,83
+LaMarcus Aldridge,2017,Utah Jazz (UTA),82,66,83,464
+LaMarcus Aldridge,2017,Dallas Mavericks (DAL),68,26,36,185
+LaMarcus Aldridge,2017,Los Angeles Clippers (LAC),45,112,134,169
+LaMarcus Aldridge,2017,Los Angeles Lakers (LAL),82,388,531,406
+LaMarcus Aldridge,2017,Toronto Raptors (TOR),69,112,145,234
+LaMarcus Aldridge,2017,Denver Nuggets (DEN),75,266,313,280
+LaMarcus Aldridge,2017,Atlanta Hawks (ATL),15,3,5,0
+LaMarcus Aldridge,2017,Memphis Grizzlies (MEM),82,71,81,129
+LaMarcus Aldridge,2017,Minnesota Timberwolves (MIN),73,113,162,185
+LaMarcus Aldridge,2017,Miami Heat (MIA),14,11,18,16
+LaMarcus Aldridge,2017,Brooklyn Nets (BKN),77,181,312,0
+LaMarcus Aldridge,2017,Sacramento Kings (SAC),82,70,94,190
+LaMarcus Aldridge,2017,Boston Celtics (BOS),71,156,184,2
+LaMarcus Aldridge,2017,Dallas Mavericks (DAL),72,44,59,128
+LaMarcus Aldridge,2017,Detroit Pistons (DET),73,65,76,195
+LaMarcus Aldridge,2017,Phoenix Suns (PHX),79,155,194,274
+LaMarcus Aldridge,2016,Detroit Pistons (DET),54,132,154,139
+LaMarcus Aldridge,2017,Milwaukee Bucks (MIL),73,64,72,376
+LaMarcus Aldridge,2017,Chicago Bulls (CHI),20,8,11,79
+LaMarcus Aldridge,2017,Dallas Mavericks (DAL),74,117,171,2
+LaMarcus Aldridge,2017,Los Angeles Lakers (LAL),77,147,208,434
+LaMarcus Aldridge,2017,Atlanta Hawks (ATL),60,95,118,51
+LaMarcus Aldridge,2017,Philadelphia 76ers (PHI),14,2,4,17
+LaMarcus Aldridge,2017,Minnesota Timberwolves (MIN),35,2,3,20
+LaMarcus Aldridge,2017,Dallas Mavericks (DAL),76,114,124,278
+LaMarcus Aldridge,2017,Golden State Warriors (GSW),15,22,29,60
+LaMarcus Aldridge,2017,Chicago Bulls (CHI),24,87,107,123
+LaMarcus Aldridge,2017,Indiana Pacers (IND),53,10,16,42
+LaMarcus Aldridge,2017,Indiana Pacers (IND),80,179,208,254
+LaMarcus Aldridge,2017,Miami Heat (MIA),33,9,11,26
+LaMarcus Aldridge,2017,Brooklyn Nets (BKN),71,133,187,245
+LaMarcus Aldridge,2017,Portland Trail Blazers (POR),73,493,538,629
+LaMarcus Aldridge,2017,Los Angeles Clippers (LAC),9,31,38,35
+LaMarcus Aldridge,2017,Golden State Warriors (GSW),66,42,77,5
+LaMarcus Aldridge,2017,Milwaukee Bucks (MIL),74,111,158,325
+LaMarcus Aldridge,2017,Sacramento Kings (SAC),69,158,231,3
+LaMarcus Aldridge,2017,Toronto Raptors (TOR),78,223,261,596
+LaMarcus Aldridge,2017,Cleveland Cavaliers (CLE),59,234,266,330
+LaMarcus Aldridge,2017,San Antonio Spurs (SAS),73,101,143,218
+LaMarcus Aldridge,2017,Washington Wizards (WAS),77,90,128,2
+LaMarcus Aldridge,2017,Milwaukee Bucks (MIL),64,68,90,14
+LaMarcus Aldridge,2017,Brooklyn Nets (BKN),52,46,58,158
+LaMarcus Aldridge,2017,Chicago Bulls (CHI),68,140,166,401
+LaMarcus Aldridge,2017,Dallas Mavericks (DAL),20,41,52,0
+LaMarcus Aldridge,2017,Milwaukee Bucks (MIL),52,94,115,86
+LaMarcus Aldridge,2017,Toronto Raptors (TOR),57,26,34,80
+LaMarcus Aldridge,2017,Detroit Pistons (DET),74,65,93,104
+LaMarcus Aldridge,2017,Portland Trail Blazers (POR),81,209,250,476
+LaMarcus Aldridge,2017,Indiana Pacers (IND),76,31,39,62
+LaMarcus Aldridge,2017,Milwaukee Bucks (MIL),63,83,101,402
+LaMarcus Aldridge,2017,Indiana Pacers (IND),26,24,28,79
+LaMarcus Aldridge,2017,Los Angeles Lakers (LAL),65,38,52,6
+LaMarcus Aldridge,2017,Los Angeles Clippers (LAC),18,4,8,35
+LaMarcus Aldridge,2017,Cleveland Cavaliers (CLE),14,2,3,9
+LaMarcus Aldridge,2016,Detroit Pistons (DET),37,27,34,51
+LaMarcus Aldridge,2017,Houston Rockets (HOU),56,53,64,159
+LaMarcus Aldridge,2014,New Orleans Pelicans (NOP),5,0,0,1
+LaMarcus Aldridge,2017,Milwaukee Bucks (MIL),82,320,362,407
+LaMarcus Aldridge,2017,Denver Nuggets (DEN),38,112,161,113
+LaMarcus Aldridge,2017,San Antonio Spurs (SAS),82,105,118,414
+LaMarcus Aldridge,2017,Toronto Raptors (TOR),15,4,4,21
+LaMarcus Aldridge,2017,Indiana Pacers (IND),1,0,0,1
+LaMarcus Aldridge,2017,New Orleans Pelicans (NOP),82,48,68,301
+LaMarcus Aldridge,2017,Los Angeles Lakers (LAL),73,105,128,207
+LaMarcus Aldridge,2017,Denver Nuggets (DEN),3,2,2,1
+LaMarcus Aldridge,2017,Charlotte Hornets (CHA),63,32,38,243
+LaMarcus Aldridge,2017,Los Angeles Clippers (LAC),54,124,154,234
+LaMarcus Aldridge,2017,Utah Jazz (UTA),22,35,51,46
+LaMarcus Aldridge,2017,Los Angeles Clippers (LAC),11,15,28,6
+LaMarcus Aldridge,2017,Denver Nuggets (DEN),81,229,253,436
+LaMarcus Aldridge,2017,Oklahoma City Thunder (OKC),53,57,62,167
+LaMarcus Aldridge,2017,Utah Jazz (UTA),79,239,297,550
+LaMarcus Aldridge,2017,Cleveland Cavaliers (CLE),24,36,50,8
+LaMarcus Aldridge,2017,Oklahoma City Thunder (OKC),48,23,39,65
+LaMarcus Aldridge,2016,San Antonio Spurs (SAS),38,21,30,23
+LaMarcus Aldridge,2017,Washington Wizards (WAS),74,116,138,218
+LaMarcus Aldridge,2017,Philadelphia 76ers (PHI),41,26,35,47
+LaMarcus Aldridge,2017,Utah Jazz (UTA),9,1,2,4
+LaMarcus Aldridge,2016,Los Angeles Clippers (LAC),46,34,78,1
+LaMarcus Aldridge,2017,New York Knicks (NYK),78,49,68,157
+LaMarcus Aldridge,2016,Portland Trail Blazers (POR),20,64,97,1
+LaMarcus Aldridge,2017,Utah Jazz (UTA),69,61,76,118
+LaMarcus Aldridge,2017,Oklahoma City Thunder (OKC),30,21,28,1
+LaMarcus Aldridge,2017,Boston Celtics (BOS),73,25,41,125
+LaMarcus Aldridge,2017,Philadelphia 76ers (PHI),77,98,127,17
+LaMarcus Aldridge,2017,Miami Heat (MIA),76,134,174,280
+LaMarcus Aldridge,2017,Indiana Pacers (IND),75,294,368,434
+LaMarcus Aldridge,2017,Cleveland Cavaliers (CLE),61,26,46,87
+LaMarcus Aldridge,2017,New Orleans Pelicans (NOP),26,19,25,4
+LaMarcus Aldridge,2017,Phoenix Suns (PHX),81,191,233,369
+LaMarcus Aldridge,2017,Sacramento Kings (SAC),31,40,54,81
+LaMarcus Aldridge,2017,Los Angeles Clippers (LAC),82,40,46,171
+LaMarcus Aldridge,2017,Washington Wizards (WAS),11,1,6,13
+LaMarcus Aldridge,2017,New York Knicks (NYK),19,37,54,25
+LaMarcus Aldridge,2017,Oklahoma City Thunder (OKC),58,203,221,379
+LaMarcus Aldridge,2017,San Antonio Spurs (SAS),82,60,101,2
+LaMarcus Aldridge,2017,Denver Nuggets (DEN),74,82,179,1
+LaMarcus Aldridge,2017,Chicago Bulls (CHI),77,106,128,313
+LaMarcus Aldridge,2016,Dallas Mavericks (DAL),66,198,252,314
+LaMarcus Aldridge,2017,New York Knicks (NYK),73,120,156,223
+LaMarcus Aldridge,2017,Toronto Raptors (TOR),70,32,39,186
+LaMarcus Aldridge,2017,Dallas Mavericks (DAL),79,133,185,84
+LaMarcus Aldridge,2017,Brooklyn Nets (BKN),82,152,180,457
+LaMarcus Aldridge,2017,New York Knicks (NYK),82,305,425,45
+LaMarcus Aldridge,2017,New Orleans Pelicans (NOP),70,197,218,460
+LaMarcus Aldridge,2016,Golden State Warriors (GSW),18,29,31,32
+LaMarcus Aldridge,2017,Houston Rockets (HOU),61,102,159,360
+LaMarcus Aldridge,2017,Philadelphia 76ers (PHI),81,120,142,336
+LaMarcus Aldridge,2015,Oklahoma City Thunder (OKC),70,33,54,103
+LaMarcus Aldridge,2017,Philadelphia 76ers (PHI),23,9,11,34
+LaMarcus Aldridge,2017,Los Angeles Lakers (LAL),65,25,46,150
+LaMarcus Aldridge,2017,Charlotte Hornets (CHA),80,115,149,402
+LaMarcus Aldridge,2017,Orlando Magic (ORL),24,27,36,93
+LaMarcus Aldridge,2017,Minnesota Timberwolves (MIN),48,97,131,278
+LaMarcus Aldridge,2017,Phoenix Suns (PHX),77,220,254,273
+LaMarcus Aldridge,2017,Indiana Pacers (IND),74,168,224,37
+LaMarcus Aldridge,2017,Detroit Pistons (DET),9,5,5,6
+LaMarcus Aldridge,2017,Indiana Pacers (IND),22,10,16,10
+LaMarcus Aldridge,2017,Oklahoma City Thunder (OKC),67,225,265,262
+LaMarcus Aldridge,2017,Chicago Bulls (CHI),73,75,96,101
+LaMarcus Aldridge,2017,Philadelphia 76ers (PHI),76,50,76,163
+LaMarcus Aldridge,2017,Phoenix Suns (PHX),78,178,207,399
+LaMarcus Aldridge,2017,Houston Rockets (HOU),38,44,54,84
+LaMarcus Aldridge,2017,Toronto Raptors (TOR),81,54,87,132
+LaMarcus Aldridge,2017,Philadelphia 76ers (PHI),81,191,341,11
+LaMarcus Aldridge,2017,Boston Celtics (BOS),54,97,133,249
+LaMarcus Aldridge,2017,New York Knicks (NYK),69,134,193,339
+LaMarcus Aldridge,2017,Washington Wizards (WAS),82,81,116,101
+LaMarcus Aldridge,2017,Detroit Pistons (DET),75,38,48,268
+LaMarcus Aldridge,2017,Indiana Pacers (IND),1,0,0,0
+LaMarcus Aldridge,2017,Boston Celtics (BOS),80,213,258,242
+LaMarcus Aldridge,2017,Portland Trail Blazers (POR),27,12,18,8
+LaMarcus Aldridge,2017,Atlanta Hawks (ATL),70,202,239,228
+LaMarcus Aldridge,2017,Brooklyn Nets (BKN),65,60,78,227
+LaMarcus Aldridge,2017,Boston Celtics (BOS),63,61,81,58
+LaMarcus Aldridge,2017,Cleveland Cavaliers (CLE),53,43,79,0
+LaMarcus Aldridge,2016,Golden State Warriors (GSW),78,186,218,647
+LaMarcus Aldridge,2017,Minnesota Timberwolves (MIN),82,345,402,285
+LaMarcus Aldridge,2017,Houston Rockets (HOU),82,43,60,310
+LaMarcus Aldridge,2017,Minnesota Timberwolves (MIN),79,91,107,132
+LaMarcus Aldridge,2017,Indiana Pacers (IND),65,160,206,157
+LaMarcus Aldridge,2016,Chicago Bulls (CHI),57,14,18,208
+LaMarcus Aldridge,2017,Toronto Raptors (TOR),76,84,101,261
+LaMarcus Aldridge,2017,Memphis Grizzlies (MEM),77,170,211,74
+LaMarcus Aldridge,2017,Denver Nuggets (DEN),21,13,27,60
+LaMarcus Aldridge,2017,Orlando Magic (ORL),57,77,94,204
+LaMarcus Aldridge,2017,Boston Celtics (BOS),80,363,420,601
+LaMarcus Aldridge,2017,Los Angeles Lakers (LAL),30,51,69,170
+LaMarcus Aldridge,2016,Washington Wizards (WAS),78,422,527,272
+LaMarcus Aldridge,2017,Houston Rockets (HOU),80,417,566,326
+LaMarcus Aldridge,2017,San Antonio Spurs (SAS),17,14,20,13
+LaMarcus Aldridge,2017,Indiana Pacers (IND),65,193,255,90
+LaMarcus Aldridge,2017,Portland Trail Blazers (POR),54,128,182,2
+LaMarcus Aldridge,2017,Los Angeles Clippers (LAC),79,432,491,518
+LaMarcus Aldridge,2017,Golden State Warriors (GSW),82,202,314,338
+LaMarcus Aldridge,2017,Milwaukee Bucks (MIL),78,102,123,305
+LaMarcus Aldridge,2017,Milwaukee Bucks (MIL),22,1,2,5
+LaMarcus Aldridge,2016,Detroit Pistons (DET),13,11,15,5
+LaMarcus Aldridge,2017,Dallas Mavericks (DAL),69,97,117,153
+LaMarcus Aldridge,2017,Chicago Bulls (CHI),81,55,92,181
+LaMarcus Aldridge,2017,Memphis Grizzlies (MEM),68,66,104,129
+LaMarcus Aldridge,2017,Charlotte Hornets (CHA),33,61,85,3
+LaMarcus Aldridge,2017,Cleveland Cavaliers (CLE),32,21,29,0
+LaMarcus Aldridge,2017,Washington Wizards (WAS),70,81,97,454
+LaMarcus Aldridge,2017,Brooklyn Nets (BKN),38,28,38,103
+LaMarcus Aldridge,2016,Golden State Warriors (GSW),72,148,194,156
+LaMarcus Aldridge,2016,Cleveland Cavaliers (CLE),42,40,50,25
+LaMarcus Aldridge,2017,Los Angeles Clippers (LAC),43,39,51,1
+LaMarcus Aldridge,2016,Denver Nuggets (DEN),47,33,41,111
+LaMarcus Aldridge,2017,Brooklyn Nets (BKN),38,25,29,60
+LaMarcus Aldridge,2017,Atlanta Hawks (ATL),30,61,78,40
+LaMarcus Aldridge,2017,Brooklyn Nets (BKN),70,133,203,52
+LaMarcus Aldridge,2017,Dallas Mavericks (DAL),1,0,0,0
+LaMarcus Aldridge,2017,Memphis Grizzlies (MEM),57,30,44,4
+LaMarcus Aldridge,2017,Memphis Grizzlies (MEM),79,106,133,365
+LaMarcus Aldridge,2017,Houston Rockets (HOU),66,72,93,339
+LaMarcus Aldridge,2016,Los Angeles Lakers (LAL),17,94,121,96
+LaMarcus Aldridge,2015,San Antonio Spurs (SAS),37,34,53,57
+LaMarcus Aldridge,2017,Brooklyn Nets (BKN),14,11,15,26
+LaMarcus Aldridge,2014,Oklahoma City Thunder (OKC),28,26,35,74
+LaMarcus Aldridge,2017,Atlanta Hawks (ATL),36,17,27,121
+LaMarcus Aldridge,2017,Los Angeles Clippers (LAC),17,58,63,101
+LaMarcus Aldridge,2011,Golden State Warriors (GSW),44,16,27,38
+LaMarcus Aldridge,2016,Memphis Grizzlies (MEM),13,3,4,0
+LaMarcus Aldridge,2017,Minnesota Timberwolves (MIN),75,115,135,532
+LaMarcus Aldridge,2017,Philadelphia 76ers (PHI),36,37,57,105
+LaMarcus Aldridge,2014,Houston Rockets (HOU),57,41,64,23
+LaMarcus Aldridge,2014,Indiana Pacers (IND),21,2,2,19
+LaMarcus Aldridge,2017,Detroit Pistons (DET),59,23,30,56
+LaMarcus Aldridge,2016,Portland Trail Blazers (POR),64,130,184,104
+LaMarcus Aldridge,2017,Phoenix Suns (PHX),72,106,129,324
+LaMarcus Aldridge,2016,Atlanta Hawks (ATL),67,116,197,9
+LaMarcus Aldridge,2014,Phoenix Suns (PHX),50,43,45,48
+LaMarcus Aldridge,2017,Atlanta Hawks (ATL),15,3,5,0
+LaMarcus Aldridge,2017,Milwaukee Bucks (MIL),52,94,115,86
+LaMarcus Aldridge,2014,Sacramento Kings (SAC),71,63,89,287
+LaMarcus Aldridge,2017,Portland Trail Blazers (POR),27,12,18,8
+LaMarcus Aldridge,2017,New York Knicks (NYK),18,7,9,11
+LaMarcus Aldridge,2017,Charlotte Hornets (CHA),53,20,25,43
+LaMarcus Aldridge,2017,Brooklyn Nets (BKN),72,114,147,15
+LaMarcus Aldridge,2017,Toronto Raptors (TOR),1,0,0,1
+LaMarcus Aldridge,2017,Utah Jazz (UTA),9,2,2,1
+LaMarcus Aldridge,2017,Milwaukee Bucks (MIL),54,21,24,91
+LaMarcus Aldridge,2017,Houston Rockets (HOU),10,5,6,15
+LaMarcus Aldridge,2017,Denver Nuggets (DEN),2,0,0,0
+LaMarcus Aldridge,2014,Phoenix Suns (PHX),50,43,45,48
+LaMarcus Aldridge,2017,Chicago Bulls (CHI),23,28,38,26
+LaMarcus Aldridge,2016,Los Angeles Lakers (LAL),5,3,6,1
+LaMarcus Aldridge,2017,Milwaukee Bucks (MIL),52,94,115,86
+LaMarcus Aldridge,2017,Indiana Pacers (IND),1,0,0,1
+LaMarcus Aldridge,2017,Toronto Raptors (TOR),15,4,4,21
+LaMarcus Aldridge,2016,Toronto Raptors (TOR),11,1,4,34
+LaMarcus Aldridge,2017,Portland Trail Blazers (POR),27,12,18,8
+LaMarcus Aldridge,2017,Indiana Pacers (IND),1,0,0,0
+LaMarcus Aldridge,2014,Sacramento Kings (SAC),71,63,89,287
+LaMarcus Aldridge,2017,Milwaukee Bucks (MIL),22,1,2,5
+LaMarcus Aldridge,2016,Detroit Pistons (DET),13,11,15,5
+LaMarcus Aldridge,2017,Houston Rockets (HOU),10,5,6,15
+LaMarcus Aldridge,2017,Utah Jazz (UTA),9,2,2,1
+LaMarcus Aldridge,2017,Indiana Pacers (IND),1,0,0,1
